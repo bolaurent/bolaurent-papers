@@ -1,0 +1,73 @@
+---
+title: "The Archive"
+subtitle: "Primary sources from the founding of the intersex movement"
+description: >
+  A cataloged collection of documents from the founding of the Intersex Society of
+  North America and the modern intersex movement: newsletters, correspondence,
+  photographs, artwork, and early digital materials, assembled by founder Bo Laurent.
+listing:
+  id: items
+  contents: "archive/*/index.qmd"     # each published item folder (e.g. hwa-01/index.qmd)
+  type: table
+  sort: "date"                # chronological — a collection reads forward in time
+  sort-ui: [date, title]
+  filter-ui: true
+  categories: true            # scholars can filter by medium/theme
+  fields: [date, title, description]
+  field-display-names:
+    date: "Date"
+    title: "Item"
+    description: "Description"
+toc: false
+---
+
+<!-- DRAFT finding-aid prose — your voice. Confirm the bracketed facts. -->
+
+This archive documents the founding years of the modern intersex movement through its
+own records. The materials were created and gathered by **Bo Laurent** (who published
+much of this work under the name Cheryl Chase), founder of the Intersex Society of
+North America. Each item is cataloged, dated, and presented three ways: an editorial
+headnote placing it in context, a full transcription, and the original document.
+
+## Scope and content
+
+The collection includes the *Hermaphrodites with Attitude(s)* newsletters, founding
+correspondence with journalists, scientists, and historians, photographs, artwork,
+and early databases and website captures. Together they trace how a scattered
+correspondence network became an organized movement with a public voice.
+
+New items are added as they are prepared and cleared for publication. Items still under
+review — including correspondence that requires a privacy pass — are not listed here.
+
+## Items
+
+::: {#items}
+:::
+
+## Arrangement and use
+
+Items are cataloged individually and can be browsed above by date or filtered by theme.
+Each item carries a stable identifier (for example, `hwa-01`) and a stable URL; sections
+within an item are separately linkable for citation.
+
+## Provenance
+
+Assembled and held by Bo Laurent. The collection is mixed: **physical materials are held
+in the [Kinsey Institute Library's archival collections](https://kinseyinstitute.org/collections/archival/index.html)**,
+while born-digital materials — such as the newsletters — are published here. Each item's
+page states its own source and holding.
+
+## Rights and reproduction
+
+Rights vary by item and are stated on each item's page. Where a document carries its own
+distribution terms — as the newsletters do ("Free to copy and distribute") — those govern.
+For permissions, reproduction of restricted materials, or questions about items not yet
+published, please [get in touch](../about.qmd).
+
+## How to cite
+
+Cite an item by its title, date, and archive identifier — for example:
+*Hermaphrodites with Attitudes*, Vol. 1, No. 1 (Winter 1994), ed. Cheryl Chase.
+The Bo Laurent Intersex Movement Archive, item `hwa-01`,
+https://bolaurent.com/archive/hwa-01/.
+For a physical item, add its holding repository (the Kinsey Institute Library).

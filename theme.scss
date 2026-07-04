@@ -1,0 +1,168 @@
+/*-- scss:defaults --*/
+
+// ============================================================================
+//  Bo Laurent Intersex Movement Archive — site theme
+//
+//  Grounded in the first issue's masthead: a Times-lineage serif for text,
+//  a Futura-lineage geometric sans for eyebrows / labels / nav. The lone
+//  accent is a deep oxblood — a restrained nod to the single spot of color
+//  in that all-black-and-white issue: the reindeer's red nose.
+// ============================================================================
+
+// -- Palette: near-monochrome ink on cool oyster paper -----------------------
+$paper:        #f5f5f1;   // cool off-white — deliberately not warm cream
+$ink:          #1b1a17;   // near-black, faintly warm
+$muted:        #6f6a61;   // captions, metadata, eyebrows
+$hairline:     #d9d5cb;   // rules and borders
+$oxblood:      #6e2a2a;   // the one accent
+$oxblood-dark: #521f1f;
+
+// -- Typefaces: system stacks, no web-font dependency ------------------------
+$font-serif: "Iowan Old Style", "Palatino Linotype", "Book Antiqua", Palatino, Georgia, "Times New Roman", serif;
+$font-geom:  "Futura", "Avenir Next", "Century Gothic", "Gill Sans", ui-sans-serif, system-ui, sans-serif;
+// To swap in a web font later, @import it at the top and edit these two stacks.
+
+$body-bg:    $paper;
+$body-color: $ink;
+
+$font-family-sans-serif: $font-geom;
+$font-family-serif:      $font-serif;
+$font-family-base:       $font-serif;   // body text is the serif
+$font-size-root:         18px;
+$line-height-base:       1.65;
+
+$headings-font-family: $font-serif;
+$headings-font-weight: 600;
+$headings-line-height: 1.2;
+$headings-color:       $ink;
+$h1-font-size: 2.3rem;
+$h2-font-size: 1.55rem;
+$h3-font-size: 1.2rem;
+
+$link-color:       $oxblood;
+$link-hover-color: $oxblood-dark;
+$link-decoration:  underline;
+
+$border-color: $hairline;
+$primary:      $oxblood;    // Bootstrap/Quarto component accent
+
+// -- Navbar ------------------------------------------------------------------
+$navbar-bg: $paper;
+$navbar-fg: $ink;
+
+// -- Code --------------------------------------------------------------------
+$code-color: $oxblood-dark;
+$code-bg:    rgba(110, 42, 42, 0.06);
+
+
+/*-- scss:rules --*/
+
+body { -webkit-font-smoothing: antialiased; text-rendering: optimizeLegibility; }
+::selection { background: rgba(110, 42, 42, 0.15); }
+img { max-width: 100%; height: auto; }
+
+// -- Navbar: serif wordmark, geometric-caps links, hairline underline --------
+.navbar { border-bottom: 1px solid $hairline; box-shadow: none; }
+.navbar-brand {
+  font-family: $font-serif;
+  font-size: 1.35rem;
+  font-weight: 600;
+  letter-spacing: 0.01em;
+}
+.navbar .nav-link {
+  font-family: $font-geom;
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+  font-size: 0.78rem;
+  font-weight: 600;
+}
+
+// -- Title block: subtitle becomes a geometric "eyebrow" ---------------------
+#title-block-header .subtitle,
+.quarto-title .subtitle {
+  font-family: $font-geom;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: $muted;
+  margin-top: 0.35rem;
+}
+.quarto-title h1.title { line-height: 1.15; }
+
+// -- (Category tags left to your custom.scss, which de-emphasizes them.) ----
+
+// -- Section headings: a finding-aid hairline under each h2 ------------------
+main h2 {
+  padding-bottom: 0.3rem;
+  border-bottom: 1px solid $hairline;
+  margin-top: 2.2rem;
+}
+
+// -- Links: subtle underline offset ------------------------------------------
+a { text-underline-offset: 0.12em; text-decoration-thickness: 0.06em; }
+
+// -- Blockquotes: quiet accented rule (the Money quotes, etc.) ---------------
+blockquote {
+  border-left: 3px solid $oxblood;
+  padding-left: 1rem;
+  color: #33302b;
+  font-style: normal;
+}
+
+// -- Figures & captions ------------------------------------------------------
+figcaption, .figure-caption, .quarto-figure figcaption {
+  font-family: $font-geom;
+  font-size: 0.8rem;
+  letter-spacing: 0.02em;
+  color: $muted;
+  text-align: center;
+}
+
+// -- Tables (citation blocks, finding aid) -----------------------------------
+main table { font-size: 0.95rem; border-collapse: collapse; width: 100%; }
+main table th {
+  font-family: $font-geom;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  font-size: 0.72rem;
+  color: $muted;
+  border-bottom: 2px solid $ink;
+  text-align: left;
+  padding: 0.4rem 0.6rem;
+}
+main table td {
+  border-bottom: 1px solid $hairline;
+  padding: 0.45rem 0.6rem;
+  vertical-align: top;
+}
+
+// -- Listing (the archive finding aid) ---------------------------------------
+.quarto-listing table.table th {
+  font-family: $font-geom;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  font-size: 0.72rem;
+}
+
+// -- Callouts: square corners to match the paper -----------------------------
+.callout { border-radius: 0; }
+
+// -- Home-page section links -------------------------------------------------
+.grid h3 a { text-decoration: none; }
+.grid h3 a:hover { text-decoration: underline; }
+
+// -- Footer ------------------------------------------------------------------
+.nav-footer {
+  border-top: 1px solid $hairline;
+  font-family: $font-geom;
+  font-size: 0.78rem;
+  letter-spacing: 0.03em;
+  color: $muted;
+}
+
+// -- Accessibility floor -----------------------------------------------------
+:focus-visible { outline: 2px solid $oxblood; outline-offset: 2px; }
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after { animation: none !important; transition: none !important; }
+}

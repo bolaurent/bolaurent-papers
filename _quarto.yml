@@ -1,0 +1,44 @@
+project:
+  type: website
+  output-dir: docs
+  resources:
+    - CNAME
+
+website:
+  title: "The Bo Laurent Papers"
+  # Give the archive its OWN GA4 property so its traffic isn't mixed with the
+  # personal site's. Create one at analytics.google.com and paste the ID here,
+  # then uncomment. Left off until you decide (see note).
+  # google-analytics: "G-XXXXXXXXXX"
+  favicon: images/favicon.svg
+  site-url: https://bolaurentpapers.org
+  open-graph: true
+  twitter-card: true
+  navbar:
+    pinned: true
+    left:
+      - href: index.qmd
+        text: Home
+      - href: updates.qmd
+        text: Recent additions
+      - href: about.qmd
+        text: About the collection
+    right:
+      - icon: rss
+        href: updates.xml
+  page-footer:
+    left: "© Bo Laurent 2026"
+    center: "Physical materials held at The [Kinsey Institute Library](https://kinseyinstitute.org/collections)"
+
+format:
+  html:
+    theme:
+      - litera
+      - theme.scss
+      - custom.scss
+    toc: true
+    toc-depth: 3
+    grid:
+      sidebar-width: 250px
+      body-width: 820px
+    css: styles.css

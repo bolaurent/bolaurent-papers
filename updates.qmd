@@ -1,0 +1,39 @@
+---
+title: "Recent additions"
+subtitle: "New and recently published items, most recent first"
+description: >
+  What has been added to the archive, ordered by the date each item was
+  published here. Returning researchers can scan this page to see what is
+  new since their last visit.
+listing:
+  id: additions
+  # Path assumption: this file sits at the site root and item bundles live at
+  # archive/<id>/index.qmd. If updates.qmd lives elsewhere, adjust this glob.
+  contents: "archive/*/index.qmd"
+  type: table
+  sort: "date-added desc"          # accession order — newest publication first
+  sort-ui: [date-added, date, title]
+  filter-ui: false
+  fields: [date-added, date, title, description]
+  field-display-names:
+    date-added: "Added"
+    date: "Item date"
+    title: "Item"
+    description: "Description"
+  feed: true                       # emits updates.xml so scholars can subscribe
+  categories: false
+toc: false
+---
+
+Items appear here in the order they were **added to the archive** — newest first —
+which is not the same as the date of the document itself. A document written in
+1994 may have been published here only recently. If you have visited before, scan
+the **Added** column for anything new since.
+
+For the full collection arranged in historical order, see [the Archive](/archive/index.qmd).
+
+::: {#additions}
+:::
+
+To be notified when new items are published, subscribe to the
+[updates feed](updates.xml).

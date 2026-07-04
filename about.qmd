@@ -1,0 +1,14 @@
+---
+title: "About"
+description: "About Bo Laurent and this archive, and how researchers can make contact."
+toc: false
+---
+
+
+My most sustained work has been in intersex advocacy. I've been part of this movement since its early days, focused on the rights of people born with intersex variations — particularly around medical decision-making, bodily autonomy, and the harm done by shame, secrecy, and nonconsensual sexual surgeries on children. I founded the Intersex Society of North America in 1993. You can see its archived website at <https://isna.org>. Or visit [InterACT Advocates for Intersex Youth](https://interactadvocates.org) to learn what's happening in that world today.
+
+## For researchers
+
+The physical originals are held at [The Kinsey Institute Library]. If you are researching
+the history of the intersex movement and would like access to the physical materials, or
+to items not yet published here, please [contact me](/contact.qmd).
