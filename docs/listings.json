@@ -1,0 +1,22 @@
+[
+  {
+    "listing": "/updates.html",
+    "items": [
+      "/archive/isna-org-website/index.html",
+      "/archive/letter-angier/index.html",
+      "/archive/letter-kessler/index.html",
+      "/archive/letter-sciences-1993/index.html",
+      "/archive/hwa-01/index.html"
+    ]
+  },
+  {
+    "listing": "/index.html",
+    "items": [
+      "/archive/letter-kessler/index.html",
+      "/archive/letter-sciences-1993/index.html",
+      "/archive/hwa-01/index.html",
+      "/archive/letter-angier/index.html",
+      "/archive/isna-org-website/index.html"
+    ]
+  }
+]
