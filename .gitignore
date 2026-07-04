@@ -1,0 +1,4 @@
+# Catalog artifacts must never enter the public site repo
+*.sqlite
+*.sql
+*.db
