@@ -19,13 +19,35 @@ listing:
     title: "Item"
     description: "Description"
 toc: false
+format:
+  html:
+    include-after-body:
+      text: |
+        <style>
+          body.category-active #title-block-header,
+          body.category-active #archive-intro { display: none; }
+        </style>
+        <script>
+        (function () {
+          const isFiltered = () => /(^|[#&])category=./.test(location.hash);
+          const sync = () =>
+            document.body.classList.toggle("category-active", isFiltered());
+          sync();                                   // catch a bookmarked filtered URL
+          window.addEventListener("hashchange", sync);
+          // Quarto can clear the hash without firing hashchange (toggling a
+          // category off), so re-check after any click in the category widget.
+          document.addEventListener("click", (e) => {
+            if (e.target.closest(".quarto-listing-category")) setTimeout(sync, 0);
+          });
+        })();
+        </script>
 ---
 
-<!-- DRAFT finding-aid prose — your voice. Confirm the bracketed facts. -->
 
+::: {#archive-intro}
 This archive documents the founding years of the modern intersex movement through its
 own records. The materials were created and gathered by **Bo Laurent** (who published
-much of this work under the name Cheryl Chase), founder of the Intersex Society of
+much of this work under the name Cheryl Chase, and grew up under the name Bonnie Sullivan), founder of the Intersex Society of
 North America. Each item is cataloged, dated, and presented three ways: an editorial
 headnote placing it in context, a full transcription, and the original document.
 
@@ -37,7 +59,8 @@ and early databases and website captures. Together they trace how a scattered
 correspondence network became an organized movement with a public voice.
 
 New items are added as they are prepared and cleared for publication. Items still under
-review — including correspondence that requires a privacy pass — are not listed here.
+review — including correspondence that requires a privacy review — are not listed here.
+:::
 
 ## Items
 
@@ -62,7 +85,7 @@ page states its own source and holding.
 Rights vary by item and are stated on each item's page. Where a document carries its own
 distribution terms — as the newsletters do ("Free to copy and distribute") — those govern.
 For permissions, reproduction of restricted materials, or questions about items not yet
-published, please [get in touch](../about.qmd).
+published, please [get in touch](mailto:contact@bolaurentpapers.org?subject=Bo%20Laurent%20Papers%20inquiry).
 
 ## How to cite
 

@@ -65,3 +65,5 @@ The Bo Laurent Papers, catalog `isna-org-website`. Earliest capture:
 Internet Archive Wayback Machine,
 <https://web.archive.org/web/19981212030050/http://www.isna.org/>,
 captured 12 December 1998. Domain registered 31 October 1994.
+
+{{< include _rights.qmd >}}

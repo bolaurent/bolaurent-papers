@@ -101,3 +101,5 @@ Word for Macintosh 5.0 file.
 [^n2]: *and, biology* — comma present in the source.
 [^n3]: *43d Street* — the source reads "43d," the period abbreviation of "43rd" that *The New York Times* used for its own address; retained, not an error.
 [^n4]: *erasure* — revised in the source from an earlier reading: ~~treatment~~ → **erasure**. See *Note on the source*.
+
+{{< include _rights.qmd >}}

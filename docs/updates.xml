@@ -5,7 +5,7 @@
       xmlns:dc="http://purl.org/dc/elements/1.1/" 
       version="2.0">
 <channel>
-<title>The Bo Laurent Papers</title>
+<title>Bo Laurent Papers</title>
 <link>https://bolaurentpapers.org/updates.html</link>
 <atom:link href="https://bolaurentpapers.org/updates.xml" rel="self" type="application/rss+xml"/>
 <description>What has been added to the archive, ordered by the date each item was published here. Returning researchers can scan this page to see what is new since their last visit.
@@ -33,7 +33,7 @@
 <blockquote class="blockquote">
 <p><a href="https://web.archive.org/web/19981212030050/http://www.isna.org/" class="uri">https://web.archive.org/web/19981212030050/http://www.isna.org/</a></p>
 </blockquote>
-<div id="fig-wayback" class="quarto-float quarto-figure quarto-figure-center anchored" alt="Screenshot of the isna.org home page as captured by the Wayback Machine on 12 December 1998" target="_blank">
+<div id="fig-wayback" class="quarto-float quarto-figure quarto-figure-center anchored" target="_blank" alt="Screenshot of the isna.org home page as captured by the Wayback Machine on 12 December 1998">
 <figure class="quarto-float quarto-float-fig figure">
 <div aria-describedby="fig-wayback-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
 <a href="https://web.archive.org/web/19981212030050/http://www.isna.org/" target="_blank"><img src="https://bolaurentpapers.org/archive/isna-org-website/images/website-wayback.png" class="img-fluid figure-img" alt="Screenshot of the isna.org home page as captured by the Wayback Machine on 12 December 1998"></a>
@@ -91,6 +91,13 @@ Figure&nbsp;1: The earliest archived isna.org home page, 12 December 1998
 </tbody>
 </table>
 <p><strong>Suggested citation.</strong> Cheryl Chase, <em>isna.org: the movement moves online</em>. The Bo Laurent Papers, catalog <code>isna-org-website</code>. Earliest capture: Internet Archive Wayback Machine, <a href="https://web.archive.org/web/19981212030050/http://www.isna.org/" class="uri">https://web.archive.org/web/19981212030050/http://www.isna.org/</a>, captured 12 December 1998. Domain registered 31 October 1994.</p>
+<div class="rights-block">
+<p><strong>Rights &amp; provenance</strong></p>
+<ul>
+<li>ISNA’s own website — full rights. WHOIS registration date and Wayback capture are public records.</li>
+<li>Editorial status: Published as transcribed.</li>
+</ul>
+</div>
 
 
 </section>
@@ -214,6 +221,13 @@ NYT letter Sept 15
 </tbody>
 </table>
 <p><strong>Suggested citation.</strong> Bo Laurent [as Cheryl Chase], letter to Natalie Angier, 6 September 1994. Intersex Movement Archive, catalog <code>letter-angier</code>. Born-digital; recovered from a Word for Macintosh 5.0 file.</p>
+<div class="rights-block">
+<p><strong>Rights &amp; provenance</strong></p>
+<ul>
+<li>Founder is author (signed ‘Cheryl Chase’). Body summarizes third-party interview material and medical detail; redaction pass required before publication. Recipient (Natalie Angier) living; courtesy note optional.</li>
+<li>Editorial status: Published as transcribed.</li>
+</ul>
+</div>
 
 
 </section>
@@ -524,6 +538,13 @@ Figure&nbsp;2: Erotic woodblock print, Japan, 19th century — celebrated in the
 </tbody>
 </table>
 <p><strong>Suggested citation.</strong> <em>Hermaphrodites with Attitudes</em>, Vol. 1, No.&nbsp;1 (Winter 1994), ed.&nbsp;Cheryl Chase. Intersex Society of North America. Born-digital; [Archive name], catalog <code>hwa-01</code>.</p>
+<div class="rights-block">
+<p><strong>Rights &amp; provenance</strong></p>
+<ul>
+<li><a href="https://rightsstatements.org/vocab/InC/1.0/">In Copyright</a> — © Intersex Society of North America / Bo Laurent. Published here by the rights-holder.</li>
+<li>Editorial status: Published as transcribed.</li>
+</ul>
+</div>
 
 
 </section>
@@ -535,6 +556,7 @@ Figure&nbsp;2: Erotic woodblock print, Japan, 19th century — celebrated in the
   <category>Hermaphrodites with Attitudes</category>
   <category>newsletter</category>
   <category>1994</category>
+  <category>humor</category>
   <guid>https://bolaurentpapers.org/archive/hwa-01/</guid>
   <pubDate>Sat, 01 Jan 1994 00:00:00 GMT</pubDate>
   <media:content url="https://bolaurentpapers.org/archive/hwa-01/hwa-01-cover.png" medium="image" type="image/png" height="186" width="144"/>
@@ -623,6 +645,13 @@ Figure&nbsp;2: Erotic woodblock print, Japan, 19th century — celebrated in the
 </blockquote>
 <!-- Published. review_status='cleared', published=1 (see go-live-letter-sciences-1993.sql).
      Cleared as the author's own already-public words; full text, no redaction. -->
+<div class="rights-block">
+<p><strong>Rights &amp; provenance</strong></p>
+<ul>
+<li><a href="https://rightsstatements.org/vocab/InC/1.0/">In Copyright</a> — © Bo Laurent (as Cheryl Chase). Author holds rights.</li>
+<li>Editorial status: Published as transcribed.</li>
+</ul>
+</div>
 
 
 </section>
@@ -874,6 +903,13 @@ Cheryl [surname redacted in source]</p>
      LIVE. Canonical scan + facsimile in place; consent recorded. The epigraph quoting
      Kessler's email praise is now VISIBLE (un-hidden by Bo). Confirm Kessler okayed
      quoting that email passage publicly, since it goes beyond her letter permission. -->
+<div class="rights-block">
+<p><strong>Rights &amp; provenance</strong></p>
+<ul>
+<li><a href="https://rightsstatements.org/vocab/InC/1.0/">In Copyright</a> — Letter © Bo Laurent (as Cheryl Chase); marginalia © Suzanne Kessler, published with her consent (on file).</li>
+<li>Editorial status: Published as transcribed.</li>
+</ul>
+</div>
 
 
 </section>

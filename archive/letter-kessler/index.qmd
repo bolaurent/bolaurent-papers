@@ -490,3 +490,5 @@ as canonical.
      LIVE. Canonical scan + facsimile in place; consent recorded. The epigraph quoting
      Kessler's email praise is now VISIBLE (un-hidden by Bo). Confirm Kessler okayed
      quoting that email passage publicly, since it goes beyond her letter permission. -->
+
+{{< include _rights.qmd >}}

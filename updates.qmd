@@ -15,6 +15,8 @@ listing:
   sort-ui: [date-added, date, title]
   filter-ui: false
   fields: [date-added, date, title, description]
+  field-types:
+    date-added: date
   field-display-names:
     date-added: "Added"
     date: "Item date"
@@ -30,7 +32,7 @@ which is not the same as the date of the document itself. A document written in
 1994 may have been published here only recently. If you have visited before, scan
 the **Added** column for anything new since.
 
-For the full collection arranged in historical order, see [the Archive](/archive/index.qmd).
+For the full collection arranged in historical order, see [the Archive](/index.qmd).
 
 ::: {#additions}
 :::

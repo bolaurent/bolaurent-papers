@@ -1,0 +1,14 @@
+---
+title: "Privacy"
+toc: false
+---
+
+This site keeps the lightest analytics I could justify, and this page says exactly what that means.
+
+There are no cookies. Nothing is stored on your device, and no identifier follows you from one page to the next or from one visit to the next. The archive uses [GoatCounter](https://www.goatcounter.com/), a cookieless analytics service that counts page views in aggregate without tracking individuals.
+
+What it records is limited to: which pages are viewed and how often, the site that referred you here (if any), and coarse technical details — your browser, operating system, screen size, and the country inferred from your IP address. The IP address itself is not stored. GoatCounter derives a temporary, non-identifying value to avoid double-counting a single visit; it is discarded shortly after and cannot be traced back to you.
+
+There is no advertising, no ad network, and no cross-site or cross-device tracking. Nothing is sold or shared.
+
+Why collect anything at all? This archive exists to be read and cited by scholars of the intersex movement's founding years. A count of which materials are being read tells me the collection is reaching the people it was built for — and that is the only thing I need to know.

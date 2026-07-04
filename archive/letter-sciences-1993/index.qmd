@@ -89,3 +89,5 @@ printed original; the magazine set the headline in full capitals.
 <!-- Published. review_status='cleared', published=1 (see go-live-letter-sciences-1993.sql).
      Cleared as the author's own already-public words; full text, no redaction. -->
 
+
+{{< include _rights.qmd >}}
