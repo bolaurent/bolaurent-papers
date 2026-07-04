@@ -69,5 +69,5 @@ published, please [get in touch](../about.qmd).
 Cite an item by its title, date, and archive identifier — for example:
 *Hermaphrodites with Attitudes*, Vol. 1, No. 1 (Winter 1994), ed. Cheryl Chase.
 The Bo Laurent Intersex Movement Archive, item `hwa-01`,
-https://bolaurent.com/archive/hwa-01/.
+https://bolaurentpapers.org/archive/hwa-01/.
 For a physical item, add its holding repository (the Kinsey Institute Library).
