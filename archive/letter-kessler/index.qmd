@@ -459,36 +459,6 @@ that appears in the scan. The mailed scan thus appears to be the later revision 
 digital master was redacted afterward) — confirm the direction before treating either
 as canonical.
 
-::: {.callout-important collapse="true"}
-## Review-pass checklist
-1. **Suzanne Kessler's marginalia — RESOLVED.** Kessler gave written permission
-   (1 July 2026) to publish the letter with her notes. Consent record archived at
-   `sources/letters/kessler/consent-kessler-2026-07-01.eml`.
-2. **Canonical scan — RESOLVED.** The published scan is the exact version Kessler saw
-   (one redaction: Bo's own, long-disconnected phone number removed from page 1).
-   sha256 `08d4…0606`.
-3. **Okay to quote Kessler's email praise — OPEN (epigraph held).** The epigraph quotes
-   her permission *email*. Keep it hidden until she gives a one-line okay to publish that
-   passage publicly (attributed). This is the only element still gated; the letter and
-   annotations are cleared and live.
-4. **Anonymized third parties.** The letter recounts identifiable-in-context medical and
-   sexual histories — the woman with adrenal hyperplasia and her former lover, the
-   friend's niece and her family, the woman born 1960, the two people who transitioned
-   away from their assignment, the hypospadic man, unnamed trans women. Confirm none is
-   re-identifiable and that you are comfortable publishing each.
-5. **Named clinicians.** Randolph, Money, Lattimer, and the Columbia endocrinologist are
-   named or near-named. Confirm this is intended (these are largely public/published
-   figures, but the endocrinologist is described, not cited).
-6. **Redacted surname.** The signature surname is blacked out in the scan; the
-   born-digital copy shows it in full as "Cheryl Chase." Decide whether the published
-   record restores "Cheryl Chase" per your standing convention or preserves the redaction.
-7. **Uncertain marginalia readings** marked `[?]` above — verify against the original.
-:::
 
-<!-- STATUS (keep in sync with catalog-update-letter-kessler.sql):
-     published = 1 ; review_status = 'cleared'
-     LIVE. Canonical scan + facsimile in place; consent recorded. The epigraph quoting
-     Kessler's email praise is now VISIBLE (un-hidden by Bo). Confirm Kessler okayed
-     quoting that email passage publicly, since it goes beyond her letter permission. -->
 
 {{< include _rights.qmd >}}

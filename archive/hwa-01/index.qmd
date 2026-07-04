@@ -9,7 +9,7 @@ description: >
   Intersex Society of North America (ISNA), Winter 1994 — the first regular publication
   of the intersex movement. Full transcription with an editorial headnote, plus the
   original born-digital issue.
-categories: [primary source, intersex history, ISNA, Hermaphrodites with Attitudes, newsletter, 1994, humor]
+categories: [primary source, intersex history, ISNA, Hermaphrodites with Attitudes, newsletter, 1994]
 image: hwa-01-cover.png
 image-alt: "Front page of Hermaphrodites with Attitudes, Volume 1, Number 1, Winter 1994"
 toc: true
