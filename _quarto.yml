@@ -22,8 +22,12 @@ website:
     left:
       - href: updates.qmd
         text: Recent additions
-      - href: about.qmd
-        text: About the collection
+      - text: About
+        menu:
+          - href: about.qmd
+            text: About the collection
+          - href: colophon.qmd
+            text: Colophon
       - href: blog/index.qmd
         text: Notes
     right:

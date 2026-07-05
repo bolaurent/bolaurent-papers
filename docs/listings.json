@@ -11,6 +11,13 @@
     ]
   },
   {
+    "listing": "/blog/index.html",
+    "items": [
+      "/blog/posts/dark-by-default-abstract/index.html",
+      "/blog/posts/received-kessler-correspondence/index.html"
+    ]
+  },
+  {
     "listing": "/index.html",
     "items": [
       "/archive/letter-kessler/index.html",
@@ -19,13 +26,6 @@
       "/archive/hwa-01/index.html",
       "/archive/letter-angier/index.html",
       "/archive/isna-org-website/index.html"
-    ]
-  },
-  {
-    "listing": "/blog/index.html",
-    "items": [
-      "/blog/posts/dark-by-default-abstract/index.html",
-      "/blog/posts/received-kessler-correspondence/index.html"
     ]
   }
 ]

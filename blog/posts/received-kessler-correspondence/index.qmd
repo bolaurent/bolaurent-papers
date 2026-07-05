@@ -17,7 +17,7 @@ The letters come from the Suzanne Kessler Papers (ams.0219), Box 1, folder "Corr
 
 What I hold now is a set of scans. The originals stay at Michigan; these are access copies. The correspondence is under review, and most of it has not gone up here yet. Receiving the scans is not the same as clearing them: a letter joins the collection only after the review it needs, and until then it stays off the public site.
 
-As of now, I have released these. Note that they *predate* the formation of ISNA. You can see the evolution of my thought, reframing the problem from a personal, medical one to a collective, social justice one.
+As of now, I have released the following. Note that they *predate* the formation of ISNA. You can see the evolution of my thought, reframing the problem from a personal, medical one to a collective, social justice one.
 
 * [Letter to Suzanne Kessler, 1993](/archive/letter-kessler/index.qmd)
 * [Randolph Correspondence, 1992–1993](/archive/correspondence-randolph-1992-1993/index.qmd)

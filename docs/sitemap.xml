@@ -1,59 +1,59 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://bolaurentpapers.org/updates.html</loc>
-    <lastmod>2026-07-04T16:36:21.500Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bolaurentpapers.org/index.html</loc>
-    <lastmod>2026-07-04T16:33:44.297Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bolaurentpapers.org/about.html</loc>
-    <lastmod>2026-07-05T17:45:53.576Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bolaurentpapers.org/archive/letter-kessler/index.html</loc>
-    <lastmod>2026-07-05T07:05:13.665Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bolaurentpapers.org/archive/isna-org-website/index.html</loc>
-    <lastmod>2026-07-05T07:05:13.585Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bolaurentpapers.org/archive/letter-angier/index.html</loc>
-    <lastmod>2026-07-05T07:05:13.615Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bolaurentpapers.org/archive/hwa-01/index.html</loc>
-    <lastmod>2026-07-05T07:05:13.558Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bolaurentpapers.org/archive/letter-sciences-1993/index.html</loc>
-    <lastmod>2026-07-05T07:05:13.698Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bolaurentpapers.org/archive/letter-sciences-1993/colophon.html</loc>
-    <lastmod>2026-07-04T13:39:30.552Z</lastmod>
-  </url>
-  <url>
     <loc>https://bolaurentpapers.org/privacy.html</loc>
     <lastmod>2026-07-04T15:56:39.509Z</lastmod>
   </url>
   <url>
-    <loc>https://bolaurentpapers.org/archive/correspondence-randolph-1992-1993/index.html</loc>
-    <lastmod>2026-07-05T07:05:13.523Z</lastmod>
+    <loc>https://bolaurentpapers.org/updates.html</loc>
+    <lastmod>2026-07-04T16:36:21.500Z</lastmod>
   </url>
   <url>
     <loc>https://bolaurentpapers.org/blog/index.html</loc>
     <lastmod>2026-07-05T16:04:52.855Z</lastmod>
   </url>
   <url>
+    <loc>https://bolaurentpapers.org/blog/posts/received-kessler-correspondence/index.html</loc>
+    <lastmod>2026-07-05T17:47:05.230Z</lastmod>
+  </url>
+  <url>
+    <loc>https://bolaurentpapers.org/archive/letter-kessler/index.html</loc>
+    <lastmod>2026-07-05T07:05:13.665Z</lastmod>
+  </url>
+  <url>
+    <loc>https://bolaurentpapers.org/archive/letter-sciences-1993/index.html</loc>
+    <lastmod>2026-07-05T07:05:13.698Z</lastmod>
+  </url>
+  <url>
+    <loc>https://bolaurentpapers.org/archive/hwa-01/index.html</loc>
+    <lastmod>2026-07-05T07:05:13.558Z</lastmod>
+  </url>
+  <url>
+    <loc>https://bolaurentpapers.org/archive/letter-angier/index.html</loc>
+    <lastmod>2026-07-05T07:05:13.615Z</lastmod>
+  </url>
+  <url>
+    <loc>https://bolaurentpapers.org/archive/isna-org-website/index.html</loc>
+    <lastmod>2026-07-05T07:05:13.585Z</lastmod>
+  </url>
+  <url>
+    <loc>https://bolaurentpapers.org/archive/correspondence-randolph-1992-1993/index.html</loc>
+    <lastmod>2026-07-05T07:05:13.523Z</lastmod>
+  </url>
+  <url>
+    <loc>https://bolaurentpapers.org/index.html</loc>
+    <lastmod>2026-07-04T16:33:44.297Z</lastmod>
+  </url>
+  <url>
     <loc>https://bolaurentpapers.org/blog/posts/dark-by-default-abstract/index.html</loc>
     <lastmod>2026-07-05T16:59:51.725Z</lastmod>
   </url>
   <url>
-    <loc>https://bolaurentpapers.org/blog/posts/received-kessler-correspondence/index.html</loc>
-    <lastmod>2026-07-05T16:30:26.340Z</lastmod>
+    <loc>https://bolaurentpapers.org/about.html</loc>
+    <lastmod>2026-07-05T17:45:53.576Z</lastmod>
+  </url>
+  <url>
+    <loc>https://bolaurentpapers.org/colophon.html</loc>
+    <lastmod>2026-07-05T18:14:48.850Z</lastmod>
   </url>
 </urlset>

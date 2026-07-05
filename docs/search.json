@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "privacy.html",
+    "href": "privacy.html",
+    "title": "Privacy",
+    "section": "",
+    "text": "This site keeps the lightest analytics I could justify, and this page says exactly what that means.\nThere are no cookies. Nothing is stored on your device, and no identifier follows you from one page to the next or from one visit to the next. The archive uses GoatCounter, a cookieless analytics service that counts page views in aggregate without tracking individuals.\nWhat it records is limited to: which pages are viewed and how often, the site that referred you here (if any), and coarse technical details — your browser, operating system, screen size, and the country inferred from your IP address. The IP address itself is not stored. GoatCounter derives a temporary, non-identifying value to avoid double-counting a single visit; it is discarded shortly after and cannot be traced back to you.\nThere is no advertising, no ad network, and no cross-site or cross-device tracking. Nothing is sold or shared.\nWhy collect anything at all? This archive exists to be read and cited by scholars of the intersex movement’s founding years. A count of which materials are being read tells me the collection is reaching the people it was built for — and that is the only thing I need to know."
+  },
+  {
     "objectID": "updates.html",
     "href": "updates.html",
     "title": "Recent additions",
@@ -7,67 +14,18 @@
     "text": "Items appear here in the order they were added to the archive — newest first — which is not the same as the date of the document itself. A document written in 1994 may have been published here only recently. If you have visited before, scan the Added column for anything new since.\nFor the full collection arranged in historical order, see the Archive.\n\n\n   \n    \n    \n      Order By\n      Default\n      \n        Added - Oldest\n      \n      \n        Added - Newest\n      \n      \n        Item date - Oldest\n      \n      \n        Item date - Newest\n      \n      \n        Item\n      \n    \n  \n\n\n\n\n\n\nAdded\n\n\n\nItem date\n\n\n\nItem\n\n\n\nDescription\n\n\n\n\n\n\n\n\n2026-07-05\n\n\n1993-01-31\n\n\nThe Randolph Correspondence, 1992–1993\n\n\nPrimary-source correspondence documenting the exchange that preceded the founding of the Intersex Society of North America.\n\n\n\n\n\n\n2026-07-04\n\n\n1994-10-31\n\n\nisna.org: the movement moves online\n\n\nA provenance record for the Intersex Society of North America’s website: the registration of the isna.org domain in 1994, and the earliest known capture of the site in the Internet Archive’s Wayback Machine, in 1998. \n\n\n\n\n\n\n2026-07-03\n\n\n1994-09-06\n\n\nCheryl Chase to Natalie Angier\n\n\n\n\n\n\n\n\n\n2026-07-03\n\n\n1993-01-29\n\n\nLetter to Suzanne Kessler\n\n\nA 1993 letter from Bo Laurent (writing as Cheryl Chase), founder of the Intersex Society of North America, to social psychologist Suzanne Kessler at SUNY Purchase, laying out the evidence and personal testimony behind the argument that infant genital surgery destroys sexual sensation. The physical letter carries Kessler’s handwritten marginal responses, preserved here as a second layer. \n\n\n\n\n\n\n2026-07-03\n\n\n1993-07-01\n\n\nIntersexual Rights\n\n\nThe letter in which Cheryl Chase announced the Intersex Society of North America and invited intersex people to write to its San Francisco post-office box — generally regarded as the public founding of the U.S. intersex movement. \n\n\n\n\n\n\n2026-07-01\n\n\n1993-12-31\n\n\nHermaphrodites with Attitudes — Volume 1, Number 1\n\n\nThe complete first issue of Hermaphrodites with Attitudes, the newsletter of the Intersex Society of North America (ISNA), Winter 1994 — the first regular publication of the intersex movement. Full transcription with an editorial headnote, plus the original born-digital issue. \n\n\n\n\n\n\nNo matching items\n\nTo be notified when new items are published, subscribe to the updates feed."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "The Archive",
+    "objectID": "blog/index.html",
+    "href": "blog/index.html",
+    "title": "Notes",
     "section": "",
-    "text": "This archive documents the founding years of the modern intersex movement through its own records. The materials were created and gathered by Bo Laurent (who published much of this work under the name Cheryl Chase, and grew up under the name Bonnie Sullivan), founder of the Intersex Society of North America. Each item is cataloged, dated, and presented three ways: an editorial headnote placing it in context, a full transcription, and the original document.\n\n\nThe collection includes the Hermaphrodites with Attitude(s) newsletters, founding correspondence with journalists, scientists, and historians, photographs, artwork, and early databases and website captures. Together they trace how a scattered correspondence network became an organized movement with a public voice.\nNew items are added as they are prepared and cleared for publication. Items still under review — including correspondence that requires a privacy review — are not listed here."
+    "text": "Dark by Default: A Consent Firewall for Static Digital Collections\n\n\n\npaper\n\n\n\nA two-repository architecture that keeps unreviewed material structurally absent from the public archive rather than merely hidden — the design behind the Bo Laurent Papers.\n\n\n\n\n\n2026-07-05\n\n\nBo Laurent\n\n2 min\n\n\n\n\n\n\n\n\n\n\n\nCorrespondence from the Suzanne Kessler Collection\n\n\n\ncorrespondence\n\n\n\nA folder of my early correspondence, kept in someone else’s archive, comes back to me as scans.\n\n\n\n\n\n2026-07-04\n\n\nBo Laurent\n\n2 min\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "index.html#scope-and-content",
-    "href": "index.html#scope-and-content",
-    "title": "The Archive",
+    "objectID": "blog/posts/received-kessler-correspondence/index.html",
+    "href": "blog/posts/received-kessler-correspondence/index.html",
+    "title": "Correspondence from the Suzanne Kessler Collection",
     "section": "",
-    "text": "The collection includes the Hermaphrodites with Attitude(s) newsletters, founding correspondence with journalists, scientists, and historians, photographs, artwork, and early databases and website captures. Together they trace how a scattered correspondence network became an organized movement with a public voice.\nNew items are added as they are prepared and cleared for publication. Items still under review — including correspondence that requires a privacy review — are not listed here."
-  },
-  {
-    "objectID": "index.html#items",
-    "href": "index.html#items",
-    "title": "The Archive",
-    "section": "Items",
-    "text": "Items\n\n\n   \n    \n    \n      Order By\n      Default\n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Item\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nDate\n\n\n\nItem\n\n\n\nDescription\n\n\n\n\n\n\n\n\n1993-01-29\n\n\nLetter to Suzanne Kessler\n\n\nA 1993 letter from Bo Laurent (writing as Cheryl Chase), founder of the Intersex Society of North America, to social psychologist Suzanne Kessler at SUNY Purchase, laying out the evidence and personal testimony behind the argument that infant genital surgery destroys sexual sensation. The physical letter carries Kessler’s handwritten marginal responses, preserved here as a second layer. \n\n\n\n\n\n\n1993-01-31\n\n\nThe Randolph Correspondence, 1992–1993\n\n\nPrimary-source correspondence documenting the exchange that preceded the founding of the Intersex Society of North America.\n\n\n\n\n\n\n1993-07-01\n\n\nIntersexual Rights\n\n\nThe letter in which Cheryl Chase announced the Intersex Society of North America and invited intersex people to write to its San Francisco post-office box — generally regarded as the public founding of the U.S. intersex movement. \n\n\n\n\n\n\n1993-12-31\n\n\nHermaphrodites with Attitudes — Volume 1, Number 1\n\n\nThe complete first issue of Hermaphrodites with Attitudes, the newsletter of the Intersex Society of North America (ISNA), Winter 1994 — the first regular publication of the intersex movement. Full transcription with an editorial headnote, plus the original born-digital issue. \n\n\n\n\n\n\n1994-09-06\n\n\nCheryl Chase to Natalie Angier\n\n\n\n\n\n\n\n\n\n1994-10-31\n\n\nisna.org: the movement moves online\n\n\nA provenance record for the Intersex Society of North America’s website: the registration of the isna.org domain in 1994, and the earliest known capture of the site in the Internet Archive’s Wayback Machine, in 1998. \n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "index.html#arrangement-and-use",
-    "href": "index.html#arrangement-and-use",
-    "title": "The Archive",
-    "section": "Arrangement and use",
-    "text": "Arrangement and use\nItems are cataloged individually and can be browsed above by date or filtered by theme. Each item carries a stable identifier (for example, hwa-01) and a stable URL; sections within an item are separately linkable for citation."
-  },
-  {
-    "objectID": "index.html#provenance",
-    "href": "index.html#provenance",
-    "title": "The Archive",
-    "section": "Provenance",
-    "text": "Provenance\nAssembled and held by Bo Laurent. The collection is mixed: physical materials are held in the Kinsey Institute Library’s archival collections, while born-digital materials — such as the newsletters — are published here. Each item’s page states its own source and holding."
-  },
-  {
-    "objectID": "index.html#rights-and-reproduction",
-    "href": "index.html#rights-and-reproduction",
-    "title": "The Archive",
-    "section": "Rights and reproduction",
-    "text": "Rights and reproduction\nRights vary by item and are stated on each item’s page. Where a document carries its own distribution terms — as the newsletters do (“Free to copy and distribute”) — those govern. For permissions, reproduction of restricted materials, or questions about items not yet published, please get in touch."
-  },
-  {
-    "objectID": "index.html#how-to-cite",
-    "href": "index.html#how-to-cite",
-    "title": "The Archive",
-    "section": "How to cite",
-    "text": "How to cite\nCite an item by its title, date, and archive identifier — for example: Hermaphrodites with Attitudes, Vol. 1, No. 1 (Winter 1994), ed. Cheryl Chase. The Bo Laurent Intersex Movement Archive, item hwa-01, https://bolaurentpapers.org/archive/hwa-01/. For a physical item, add its holding repository (the Kinsey Institute Library)."
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "My most sustained work has been in intersex advocacy. I’ve been part of this movement since its early days, focused on the rights of people born with intersex variations — particularly around medical decision-making, bodily autonomy, and the harm done by shame, secrecy, and nonconsensual sexual surgeries on children. I founded the Intersex Society of North America in 1993. You can see its archived website at https://isna.org. Or visit InterACT Advocates for Intersex Youth to learn what’s happening in that world today.\nSee Dark by Default: A Consent Firewall for Static Digital Collections for some insight into how this is managed. At a deeper level, it’s a static site generator (quarto) hosted on Github Pages.\nFor more information about me, Bo Laurent, see my personal website https://bolaurent.com."
-  },
-  {
-    "objectID": "about.html#for-researchers",
-    "href": "about.html#for-researchers",
-    "title": "About",
-    "section": "For researchers",
-    "text": "For researchers\nUnless otherwise specified, physical originals are held at The Kinsey Institute Library. Born-digital assets are from my personal collection. If you are researching the history of the intersex movement and would like access to the physical materials, or to items not yet published here, please contact me at contact@bolaurentpapers.org"
+    "text": "In May 2025 a scholar working with the Suzanne Kessler collection in the Joseph A. Labadie Collection at the University of Michigan Library scanned a folder of letters I wrote in the early 1990s and sent me the copies. I wrote them under the names Bonnie Sullivan and Cheryl Chase, when this work was just beginning. I haven’t seen them for decades.\n\nThe letters come from the Suzanne Kessler Papers (ams.0219), Box 1, folder “Correspondence — ‘Chase,’ 1992–1993,” in the Joseph A. Labadie Collection, Special Collections Research Center, University of Michigan Library. The folder was digitized by the Library in May 2025 at the request of Yarden Azoulay Katz, who sent me the scan on 19 May 2025.\nWhat I hold now is a set of scans. The originals stay at Michigan; these are access copies. The correspondence is under review, and most of it has not gone up here yet. Receiving the scans is not the same as clearing them: a letter joins the collection only after the review it needs, and until then it stays off the public site.\nAs of now, I have released the following. Note that they predate the formation of ISNA. You can see the evolution of my thought, reframing the problem from a personal, medical one to a collective, social justice one.\n\nLetter to Suzanne Kessler, 1993\nRandolph Correspondence, 1992–1993\n\nAs selected letters are reviewed, the cleared letters will take their place in this published archive. For now they are back in my hands, thirty years on."
   },
   {
     "objectID": "archive/letter-kessler/index.html",
@@ -119,74 +77,39 @@
     "text": "Footnotes\n\n\n“Was she resistant or just reserving judgment?” — beside the opening sentence.↩︎\n“why? standard?” — beside “illegally prevented access to my medical records.” [Kessler note (1)] beside this paragraph.↩︎\n“can I get letter?” — beside the reference to Dr. Randolph’s personal correspondence. [note (2)]↩︎\n“from parents too?” — beside “were hidden from them.” [note (3)] And, bracketing the last three sentences: “no, not exactly.”↩︎\n“Jennifer Bell?” [?] and “testes removed?” — beside the woman surgeon. [note (4)] “not related” — beside the gonadal-cancer trade.↩︎\n[note (5)] “why? Different but related issue” and “lesbian” — beside the woman with adrenal hyperplasia.↩︎\n[note (6)] “what does this mean?” — beside “good emotional care, certainly.”↩︎\n“Need to check on” — beside this paragraph.↩︎\n[note (7)] “check — interesting” — beside the 40% figure.↩︎\n[note (8)] “how many?” — beside “some of them do experience orgasm.”↩︎\n“Is this the new clitoris?” — beside “manipulating the stump of the penis.”↩︎\n“Different but related — need to read more” — beside the female-to-male paragraph.↩︎\n“infant intersex?” / “why?” — beside the Lattimer surgery. “TSS” in the left margin.↩︎\n“seems like an overgeneralization” — beside “extreme aversion to seeing adult patients.”↩︎\n“what about bulbs? are they removed?” — beside the innervation paragraph.↩︎\n“How is this a confirmation of the preceding sentence?” — beside the afferent/efferent paragraph.↩︎\n[note (9)] “Less well than others? why does no one mention this?” — beside the scar-tissue paragraph.↩︎\n[note (10)] “Interesting” — beside the Turner Syndrome Society paragraph.↩︎\n[note (11)] “Didn’t get” — beside Randolph’s change of mind. “But Lattimer’s article is called relocation.” in the left margin.↩︎\n“”* (asterisk) — beside the Randolph’81 quotations.↩︎\n[note (12)] “Is this meant to show that clitorectomy isn’t dead?” — beside the Conte’89 / Perlmutter’92 discussion. “Isn’t she against this?” — beside “excising the shaft and grafting the reserved glans.”↩︎\n[note (13)] “Why did he test it then?” — beside the tactile-sensitivity examination.↩︎\n[note (14)] beside this paragraph. “How many intersexual are there?” at the foot of the page.↩︎\n“Distinguish clitoroplasty?” — in the left margin beside the Randolph-technique paragraph above. [note (15)] beside the “Africa” exchange.↩︎\n“Ehrhardt?” [?] / “Parents?” — beside the woman endocrinologist at Columbia.↩︎\n“??” — beside “a partner with whom I am deeply in love.”↩︎\n“Is this so?” — beside the report that adrenal-hyperplasia females were more likely to be lesbian. [note (16)] beside this paragraph.↩︎\n“Is she arguing for pre-natal influence? Diamond argument” [?] — at the foot of the page. [note (17)] beside the person who now lives as a man.↩︎\n[note (18)] beside this paragraph.↩︎\n“4 possibilities?” — beside the list of practiced techniques.↩︎\n“similar reactions from Endocrinologist + urologist?” [?] — beside “met with a collective yawn.”↩︎\nA checkmark beside this concluding paragraph; checkmarks also appear beside the Conte’89, Lattimer’61, Randolph’70, and Randolph’81 entries in the reference list.↩︎"
   },
   {
-    "objectID": "archive/isna-org-website/index.html",
-    "href": "archive/isna-org-website/index.html",
-    "title": "isna.org: the movement moves online",
+    "objectID": "archive/letter-sciences-1993/index.html",
+    "href": "archive/letter-sciences-1993/index.html",
+    "title": "Intersexual Rights",
     "section": "",
-    "text": "I registered isna.org on 31 October 1994 — a year after ISNA was announced in a letter published in The Sciences. The domain has outlived the organization itself: ISNA closed in 2008, and the site is now preserved as a historical archive by interACT. The newsletter reached the people who already knew to look for us. The website was how the people who didn’t found us. I recall that I hurried to register a domain name and set up a basic website just before some bit of media that refused to publish our mailing address went to print.\nNo capture of the earliest version of the site survives. The oldest one the Internet Archive holds dates to 12 December 1998, four years after the domain was registered — a reminder that the open web forgets quickly, and that what we have is the earliest surviving trace, not the first page we put up."
+    "text": "In the March/April 1993 issue of The Sciences, the biologist Anne Fausto-Sterling published “The Five Sexes,” arguing that the two-sex model could not hold the full range of human bodies. In the July/August issue, among the letters it drew, was this one. Writing as Cheryl Chase, its author spoke as an intersex adult about what “corrective” infant surgery had cost, and invited others to find one another.\nThe closing paragraph carried a return address — a San Francisco post-office box for the newly formed Intersex Society of North America. Historians of the movement treat that invitation as ISNA’s founding act: an organization brought into being in print, asking intersex people and their families to write in and be counted. Chase (later Bo Laurent) led ISNA until it closed in 2008; its work continues through interACT: Advocates for Intersex Youth."
   },
   {
-    "objectID": "archive/isna-org-website/index.html#headnote",
-    "href": "archive/isna-org-website/index.html#headnote",
-    "title": "isna.org: the movement moves online",
+    "objectID": "archive/letter-sciences-1993/index.html#editors-note",
+    "href": "archive/letter-sciences-1993/index.html#editors-note",
+    "title": "Intersexual Rights",
     "section": "",
-    "text": "I registered isna.org on 31 October 1994 — a year after ISNA was announced in a letter published in The Sciences. The domain has outlived the organization itself: ISNA closed in 2008, and the site is now preserved as a historical archive by interACT. The newsletter reached the people who already knew to look for us. The website was how the people who didn’t found us. I recall that I hurried to register a domain name and set up a basic website just before some bit of media that refused to publish our mailing address went to print.\nNo capture of the earliest version of the site survives. The oldest one the Internet Archive holds dates to 12 December 1998, four years after the domain was registered — a reminder that the open web forgets quickly, and that what we have is the earliest surviving trace, not the first page we put up."
+    "text": "In the March/April 1993 issue of The Sciences, the biologist Anne Fausto-Sterling published “The Five Sexes,” arguing that the two-sex model could not hold the full range of human bodies. In the July/August issue, among the letters it drew, was this one. Writing as Cheryl Chase, its author spoke as an intersex adult about what “corrective” infant surgery had cost, and invited others to find one another.\nThe closing paragraph carried a return address — a San Francisco post-office box for the newly formed Intersex Society of North America. Historians of the movement treat that invitation as ISNA’s founding act: an organization brought into being in print, asking intersex people and their families to write in and be counted. Chase (later Bo Laurent) led ISNA until it closed in 2008; its work continues through interACT: Advocates for Intersex Youth."
   },
   {
-    "objectID": "archive/isna-org-website/index.html#the-evidence",
-    "href": "archive/isna-org-website/index.html#the-evidence",
-    "title": "isna.org: the movement moves online",
-    "section": "The evidence",
-    "text": "The evidence\nDomain registration. The isna.org domain was registered on 1994-10-31 (31 October 1994, 05:00:00 UTC), per the domain registry’s record (Registered On: 1994-10-31T05:00:00.691Z).\nEarliest known capture. The earliest snapshot of the site held by the Internet Archive’s Wayback Machine was captured on 1998-12-12 (12 December 1998, 03:00:50 UTC):\n\nhttps://web.archive.org/web/19981212030050/http://www.isna.org/\n\n\n\n\n\n\n\nFigure 1: The earliest archived isna.org home page, 12 December 1998"
+    "objectID": "archive/letter-sciences-1993/index.html#transcription",
+    "href": "archive/letter-sciences-1993/index.html#transcription",
+    "title": "Intersexual Rights",
+    "section": "Transcription",
+    "text": "Transcription\n\nAs an intersexual I found Anne Fausto-Sterling’s article “The Five Sexes” [March/April] of intense personal interest. Her willingness to question medical dogma on intersexuality is unique and refreshing. I understand that she has not had the chance to meet with any “corrected” intersexuals; I think I can provide some perspective on the experience.\nSurgical and hormonal treatment allows parents and physicians to imagine that they have eliminated the child’s intersexuality. Unfortunately, the surgery is immensely destructive of sexual sensation as well as one’s sense of bodily integrity. Because the cosmetic result may be good, parents and physicians complacently ignore the child’s emotional pain in being forced into a socially acceptable gender. The child’s body, once violated by the surgery, is again and again subjected to frequent genital examinations. Many “graduates” of medical intersex corrective programs are chronically depressed, wishing vainly for the return of body parts. Suicides are not uncommon. Some former intersexuals become transsexual, rejecting their imposed sex. Follow-up studies of adults to ascertain the long-term outcome of intervention are conspicuously absent.\nI am forced to wonder whether our culture’s concept of sexual normalcy, which defines the sex organs of as many as 4 percent of newborn infants as “defective,” is not itself defective. Intersex specialists are busily snipping and trimming infant genitals to fit the procrustean bed that is our cultural definition of gender. But Ms. Fausto-Sterling has been wrongly informed that few intersexuals escape medical intervention. The ones I have located have told me they feel lucky to have escaped with their bodies intact. How did their parents shepherd them through the mine field of puberty? Generally, in the culturally sanctioned way: with embarrassed silence.\nMedical dogma on sex assignment of intersexuals centers on the “adequacy” of the penis. Because a large penis cannot be constructed from a small one, female assignment is preferred. Because a large clitoris is considered “disfiguring,” extensive surgery is employed to remove, trim or relocate it. Whereas a male with an “inadequate” penis (small, but with normal erotic sensation) is considered tragic, the same person transformed into a female with reduced or absent genital sensation and an artificial vagina is considered normal. The capacity to inflict such monstrous “treatment” on children, who cannot consent, is ultimately a clear expression of the hatred and fear of sexuality that predominate in our culture.\nI must take issue, though, with the terms true hermaphrodite, female pseudohermaphrodite and male pseudohermaphrodite. They are a heritage of Victorian medicine—and without prognosticative value. They reflect the Victorian belief that human sexual nature rests entirely in the gonads, a concept of gonadal determinism belied by the relative success of intersex medicine in sex reassignment.\nI encourage intersexuals and people close to them to write to us at the Intersex Society of North America, Post Office Box 31791, San Francisco, California 94131, where we are assembling a support group and documenting our lives.\n— Cheryl Chase, San Francisco, California"
   },
   {
-    "objectID": "archive/isna-org-website/index.html#source-citation",
-    "href": "archive/isna-org-website/index.html#source-citation",
-    "title": "isna.org: the movement moves online",
-    "section": "Source & citation",
-    "text": "Source & citation\nThis page is generated to mirror the catalog record, so the two never drift.\n\n\n\n\n\n\n\nField\nValue\n\n\n\n\nCatalog id\nisna-org-website\n\n\nDate\n1994-10-31 (domain registration); earliest capture 1998-12-12\n\n\nMedium\nWebsite / web capture\n\n\nSource\nInternet Archive Wayback Machine capture 19981212030050; domain registry record\n\n\nHeld at\nLive capture at the Internet Archive; site preserved by interACT\n\n\nRights\nISNA’s own website — full rights. WHOIS date and Wayback capture are public records.\n\n\nStatus\nCleared\n\n\n\nSuggested citation. Cheryl Chase, isna.org: the movement moves online. The Bo Laurent Papers, catalog isna-org-website. Earliest capture: Internet Archive Wayback Machine, https://web.archive.org/web/19981212030050/http://www.isna.org/, captured 12 December 1998. Domain registered 31 October 1994.\n\nRights & provenance\n\nISNA’s own website — full rights. WHOIS registration date and Wayback capture are public records.\nEditorial status: Published as transcribed."
+    "objectID": "archive/letter-sciences-1993/index.html#textual-note",
+    "href": "archive/letter-sciences-1993/index.html#textual-note",
+    "title": "Intersexual Rights",
+    "section": "Textual note",
+    "text": "Textual note\nCopytext is the printed letter in The Sciences (July/August 1993, p. 3). A lightly revised version later circulated on ISNA’s own website (isna.org), and constitutes a distinct variant witness. Representative substantive variants in the web text include: “opportunity to meet” for the print’s chance to meet; “I believe that I can provide” for I think I can provide; “parents and doctors” for parents and physicians; “Some are transexual” for Some former intersexuals become transsexual; and a closing that names ISNA but drops the explicit postal address. A full collation is deferred; the print copytext is authoritative here.\nTranscription is diplomatic: original spelling, capitalization, hyphenation of compounds, the spelled figure “4 percent,” and the em dash at “medicine—and” are preserved. The three Latinate terms are italicized as in the printed original; the magazine set the headline in full capitals."
   },
   {
-    "objectID": "archive/letter-angier/index.html",
-    "href": "archive/letter-angier/index.html",
-    "title": "Cheryl Chase to Natalie Angier",
-    "section": "",
-    "text": "One of three letters in which the movement reached out to journalism, science, and history in the founder’s own words — here to New York Times science writer Natalie Angier. Writing for the Intersex Society of North America, the founder (signing as Cheryl Chase) asks Angier to report on the medical management of intersex people and offers herself as both a source and a subject.\nThe item is born-digital: it survives not as paper but as a single Microsoft Word for Macintosh 5.0 file, recovered from a fast-saved copy (see Note on the source)."
-  },
-  {
-    "objectID": "archive/letter-angier/index.html#headnote",
-    "href": "archive/letter-angier/index.html#headnote",
-    "title": "Cheryl Chase to Natalie Angier",
-    "section": "",
-    "text": "One of three letters in which the movement reached out to journalism, science, and history in the founder’s own words — here to New York Times science writer Natalie Angier. Writing for the Intersex Society of North America, the founder (signing as Cheryl Chase) asks Angier to report on the medical management of intersex people and offers herself as both a source and a subject.\nThe item is born-digital: it survives not as paper but as a single Microsoft Word for Macintosh 5.0 file, recovered from a fast-saved copy (see Note on the source)."
-  },
-  {
-    "objectID": "archive/letter-angier/index.html#the-letter",
-    "href": "archive/letter-angier/index.html#the-letter",
-    "title": "Cheryl Chase to Natalie Angier",
-    "section": "The letter",
-    "text": "The letter\n6 September 1994\nMs Natalie Angier\nc/o New York Times\n229 West 43d1 Street\nNew York NY 10036\nCheryl Chase\nIntersex Society of North America\nPO Box 31791\nSan Francisco CA 94131\nTel 415-695-0975\nFax 415-695-1454\nemail cchase@ptechwest.com\nDear Ms Angier,\nI  have2 appreciated your articles in the Times about many aspects of sexual differentiation and,3 biology and gender, and the action of sex hormones. I hope that I can persuade you to write about the human consequences of gender ambiguity.\nThe Intersex Society is a peer support and activist group for individuals born with unusual genitals or some discordance between genitals and reproductive organs or chromosomes. I know from your writing that you must be familiar with the phenomenon.\nHowever, because the topic is highly taboo, it is little known outside the circle of medical intersex specialists and geneticists. Intersexuals are not at all rare, but are typically so shamed by social stigma and so emotionally damaged by medical objectification and surgical mutilation, that few of us have dared to speak.\nThere are a few of us at ISNA who are determined to change that. We have found that the path to healing ourselves is to accept our intersexual bodies and to make political identity as intersexuals. We reject the medical model of intersex-as-disease. This model is as culturally biased and unscientific as that of homosexuality-as-disease.\nThe current climate of discourse about gender and the media fervor over African female genital mutilation, makes the topic of medical oppression of intersexuals a timely one. Intersex specialists claim that their ministrations allow us to live as nearly normal males and females, but they have consistently refused to do long term follow up studies. Based on my interviews with dozens of adult intersexuals, medical intervention allows parents to deny the fact and consequences of their child’s intersexuality. Parental distress is replaced with a “time bomb” for the intersexual patient, who will have to overcome great obstacles without help in order to learn the truth about his/her own nature and history, and live with sexual dysfunction consequent to surgical destruction of genital sensitivity.\nIf you will write about the “other side” of the story of medical erasure4 of intersexuality, I will be happy to act as a resource. In addition to being extremely knowledgeable about the technical issues involved, I am willing to relate my own experience, and can introduce you to others who will also do so.\nI have enclosed copies of two recent letters to the editor of the Times, and the ISNA’s Annotated Bibliography. I hope to hear from you soon.\nYours Truly,\n \n\nenc:\n\nAnnotated Bibliography\n\n\nNYT letter Sept 6\n\n\nNYT letter Sept 15\n\n\nsample correspondence"
-  },
-  {
-    "objectID": "archive/letter-angier/index.html#note-on-the-source",
-    "href": "archive/letter-angier/index.html#note-on-the-source",
-    "title": "Cheryl Chase to Natalie Angier",
-    "section": "Note on the source",
-    "text": "Note on the source\nThe letter survives as one Microsoft Word for Macintosh 5.0 document (6,144 bytes, Mac OS Roman). The file had been fast-saved, so its current text was stored as scattered fragments with a piece table recording their order; read straight through, the bytes yield a truncated, garbled letter. The transcription above is reassembled according to that piece table.\nBecause fast-save appends revisions rather than rewriting, the file also preserved a trace of the author’s editing. An earlier draft of one sentence read “the story of medical treatment of intersexuality”; it was revised, before the final save, to “medical erasure of intersexuality.” The discarded word remains recoverable in the file and is recorded in the textual notes.\nThe sender’s 1994 telephone, fax, and email address (at a long-defunct domain) are transcribed as part of the historical document."
-  },
-  {
-    "objectID": "archive/letter-angier/index.html#source-citation",
-    "href": "archive/letter-angier/index.html#source-citation",
-    "title": "Cheryl Chase to Natalie Angier",
-    "section": "Source & citation",
-    "text": "Source & citation\nGenerated to mirror the catalog record, so the two never drift.\n\n\n\n\n\n\n\nField\nValue\n\n\n\n\nCatalog id\nletter-angier\n\n\nDate\n6 September 1994\n\n\nFrom\nBo Laurent (signing as Cheryl Chase)\n\n\nTo\nNatalie Angier, The New York Times\n\n\nMedium\nLetter\n\n\nSource\nsources/letters/angier/ — Word for Macintosh 5.0 file (born-digital)\n\n\nRights\nFounder is author; third-party reference reviewed and cleared.\n\n\nStatus\nCleared; published 2026-07-03.\n\n\n\nSuggested citation. Bo Laurent [as Cheryl Chase], letter to Natalie Angier, 6 September 1994. Intersex Movement Archive, catalog letter-angier. Born-digital; recovered from a Word for Macintosh 5.0 file.\n\nRights & provenance\n\nFounder is author (signed ‘Cheryl Chase’). Body summarizes third-party interview material and medical detail; redaction pass required before publication. Recipient (Natalie Angier) living; courtesy note optional.\nEditorial status: Published as transcribed."
-  },
-  {
-    "objectID": "archive/letter-angier/index.html#footnotes",
-    "href": "archive/letter-angier/index.html#footnotes",
-    "title": "Cheryl Chase to Natalie Angier",
-    "section": "Footnotes",
-    "text": "Footnotes\n\n\n43d Street — the source reads “43d,” the period abbreviation of “43rd” that The New York Times used for its own address; retained, not an error.↩︎\nI  have — the source doubles the space after the opening “I”.↩︎\nand, biology — comma present in the source.↩︎\nerasure — revised in the source from an earlier reading: treatment → erasure. See Note on the source.↩︎"
+    "objectID": "archive/letter-sciences-1993/index.html#source-and-citation",
+    "href": "archive/letter-sciences-1993/index.html#source-and-citation",
+    "title": "Intersexual Rights",
+    "section": "Source and citation",
+    "text": "Source and citation\n\n\n\n\n\n\n\nField\nValue\n\n\n\n\nCatalog id\nletter-sciences-1993\n\n\nCreator\nBo Laurent, writing as Cheryl Chase\n\n\nPublished in\nThe Sciences (New York Academy of Sciences), July/August 1993, p. 3\n\n\nSection\nPeer Review: Letters from Readers\n\n\nSource format\nScan (image-only PDF) of the printed periodical\n\n\nPreservation master\nsources/letters/sciences-1993/the_sciences_1993_peer_review.pdf\n\n\nRights\nAuthor’s own words; letter-to-editor rights retained by writer. No third-party material reproduced in the letter text.\n\n\nReview status\nCleared — published\n\n\n\n\nChase, Cheryl. “Intersexual Rights.” The Sciences, July/August 1993, p. 3. Intersex history archive, item letter-sciences-1993.\n\n\n\nRights & provenance\n\nIn Copyright — © Bo Laurent (as Cheryl Chase). Author holds rights.\nEditorial status: Published as transcribed."
   },
   {
     "objectID": "archive/hwa-01/index.html",
@@ -231,109 +154,74 @@
     "text": "Source & citation\nThis page mirrors the catalog record so the two never drift.\n\n\n\n\n\n\n\nField\nValue\n\n\n\n\nCatalog id\nhwa-01\n\n\nDate\nWinter 1994 (Vol. 1, No. 1)\n\n\nMedium\nNewsletter\n\n\nSource\nBorn-digital PDF; Adobe FrameMaker → Acrobat Distiller 4.05 (distilled 26 Oct 2000)\n\n\nHeld at\nThis digital archive — born-digital, no physical original\n\n\nRights\nPublished by ISNA, © 1994 ISNA; masthead grants “Free to copy and distribute”\n\n\nStatus\nCleared; published\n\n\n\nSuggested citation. Hermaphrodites with Attitudes, Vol. 1, No. 1 (Winter 1994), ed. Cheryl Chase. Intersex Society of North America. Born-digital; [Archive name], catalog hwa-01.\n\nRights & provenance\n\nIn Copyright — © Intersex Society of North America / Bo Laurent. Published here by the rights-holder.\nEditorial status: Published as transcribed."
   },
   {
-    "objectID": "archive/letter-sciences-1993/index.html",
-    "href": "archive/letter-sciences-1993/index.html",
-    "title": "Intersexual Rights",
+    "objectID": "archive/letter-angier/index.html",
+    "href": "archive/letter-angier/index.html",
+    "title": "Cheryl Chase to Natalie Angier",
     "section": "",
-    "text": "In the March/April 1993 issue of The Sciences, the biologist Anne Fausto-Sterling published “The Five Sexes,” arguing that the two-sex model could not hold the full range of human bodies. In the July/August issue, among the letters it drew, was this one. Writing as Cheryl Chase, its author spoke as an intersex adult about what “corrective” infant surgery had cost, and invited others to find one another.\nThe closing paragraph carried a return address — a San Francisco post-office box for the newly formed Intersex Society of North America. Historians of the movement treat that invitation as ISNA’s founding act: an organization brought into being in print, asking intersex people and their families to write in and be counted. Chase (later Bo Laurent) led ISNA until it closed in 2008; its work continues through interACT: Advocates for Intersex Youth."
+    "text": "One of three letters in which the movement reached out to journalism, science, and history in the founder’s own words — here to New York Times science writer Natalie Angier. Writing for the Intersex Society of North America, the founder (signing as Cheryl Chase) asks Angier to report on the medical management of intersex people and offers herself as both a source and a subject.\nThe item is born-digital: it survives not as paper but as a single Microsoft Word for Macintosh 5.0 file, recovered from a fast-saved copy (see Note on the source)."
   },
   {
-    "objectID": "archive/letter-sciences-1993/index.html#editors-note",
-    "href": "archive/letter-sciences-1993/index.html#editors-note",
-    "title": "Intersexual Rights",
+    "objectID": "archive/letter-angier/index.html#headnote",
+    "href": "archive/letter-angier/index.html#headnote",
+    "title": "Cheryl Chase to Natalie Angier",
     "section": "",
-    "text": "In the March/April 1993 issue of The Sciences, the biologist Anne Fausto-Sterling published “The Five Sexes,” arguing that the two-sex model could not hold the full range of human bodies. In the July/August issue, among the letters it drew, was this one. Writing as Cheryl Chase, its author spoke as an intersex adult about what “corrective” infant surgery had cost, and invited others to find one another.\nThe closing paragraph carried a return address — a San Francisco post-office box for the newly formed Intersex Society of North America. Historians of the movement treat that invitation as ISNA’s founding act: an organization brought into being in print, asking intersex people and their families to write in and be counted. Chase (later Bo Laurent) led ISNA until it closed in 2008; its work continues through interACT: Advocates for Intersex Youth."
+    "text": "One of three letters in which the movement reached out to journalism, science, and history in the founder’s own words — here to New York Times science writer Natalie Angier. Writing for the Intersex Society of North America, the founder (signing as Cheryl Chase) asks Angier to report on the medical management of intersex people and offers herself as both a source and a subject.\nThe item is born-digital: it survives not as paper but as a single Microsoft Word for Macintosh 5.0 file, recovered from a fast-saved copy (see Note on the source)."
   },
   {
-    "objectID": "archive/letter-sciences-1993/index.html#transcription",
-    "href": "archive/letter-sciences-1993/index.html#transcription",
-    "title": "Intersexual Rights",
-    "section": "Transcription",
-    "text": "Transcription\n\nAs an intersexual I found Anne Fausto-Sterling’s article “The Five Sexes” [March/April] of intense personal interest. Her willingness to question medical dogma on intersexuality is unique and refreshing. I understand that she has not had the chance to meet with any “corrected” intersexuals; I think I can provide some perspective on the experience.\nSurgical and hormonal treatment allows parents and physicians to imagine that they have eliminated the child’s intersexuality. Unfortunately, the surgery is immensely destructive of sexual sensation as well as one’s sense of bodily integrity. Because the cosmetic result may be good, parents and physicians complacently ignore the child’s emotional pain in being forced into a socially acceptable gender. The child’s body, once violated by the surgery, is again and again subjected to frequent genital examinations. Many “graduates” of medical intersex corrective programs are chronically depressed, wishing vainly for the return of body parts. Suicides are not uncommon. Some former intersexuals become transsexual, rejecting their imposed sex. Follow-up studies of adults to ascertain the long-term outcome of intervention are conspicuously absent.\nI am forced to wonder whether our culture’s concept of sexual normalcy, which defines the sex organs of as many as 4 percent of newborn infants as “defective,” is not itself defective. Intersex specialists are busily snipping and trimming infant genitals to fit the procrustean bed that is our cultural definition of gender. But Ms. Fausto-Sterling has been wrongly informed that few intersexuals escape medical intervention. The ones I have located have told me they feel lucky to have escaped with their bodies intact. How did their parents shepherd them through the mine field of puberty? Generally, in the culturally sanctioned way: with embarrassed silence.\nMedical dogma on sex assignment of intersexuals centers on the “adequacy” of the penis. Because a large penis cannot be constructed from a small one, female assignment is preferred. Because a large clitoris is considered “disfiguring,” extensive surgery is employed to remove, trim or relocate it. Whereas a male with an “inadequate” penis (small, but with normal erotic sensation) is considered tragic, the same person transformed into a female with reduced or absent genital sensation and an artificial vagina is considered normal. The capacity to inflict such monstrous “treatment” on children, who cannot consent, is ultimately a clear expression of the hatred and fear of sexuality that predominate in our culture.\nI must take issue, though, with the terms true hermaphrodite, female pseudohermaphrodite and male pseudohermaphrodite. They are a heritage of Victorian medicine—and without prognosticative value. They reflect the Victorian belief that human sexual nature rests entirely in the gonads, a concept of gonadal determinism belied by the relative success of intersex medicine in sex reassignment.\nI encourage intersexuals and people close to them to write to us at the Intersex Society of North America, Post Office Box 31791, San Francisco, California 94131, where we are assembling a support group and documenting our lives.\n— Cheryl Chase, San Francisco, California"
+    "objectID": "archive/letter-angier/index.html#the-letter",
+    "href": "archive/letter-angier/index.html#the-letter",
+    "title": "Cheryl Chase to Natalie Angier",
+    "section": "The letter",
+    "text": "The letter\n6 September 1994\nMs Natalie Angier\nc/o New York Times\n229 West 43d1 Street\nNew York NY 10036\nCheryl Chase\nIntersex Society of North America\nPO Box 31791\nSan Francisco CA 94131\nTel 415-695-0975\nFax 415-695-1454\nemail cchase@ptechwest.com\nDear Ms Angier,\nI  have2 appreciated your articles in the Times about many aspects of sexual differentiation and,3 biology and gender, and the action of sex hormones. I hope that I can persuade you to write about the human consequences of gender ambiguity.\nThe Intersex Society is a peer support and activist group for individuals born with unusual genitals or some discordance between genitals and reproductive organs or chromosomes. I know from your writing that you must be familiar with the phenomenon.\nHowever, because the topic is highly taboo, it is little known outside the circle of medical intersex specialists and geneticists. Intersexuals are not at all rare, but are typically so shamed by social stigma and so emotionally damaged by medical objectification and surgical mutilation, that few of us have dared to speak.\nThere are a few of us at ISNA who are determined to change that. We have found that the path to healing ourselves is to accept our intersexual bodies and to make political identity as intersexuals. We reject the medical model of intersex-as-disease. This model is as culturally biased and unscientific as that of homosexuality-as-disease.\nThe current climate of discourse about gender and the media fervor over African female genital mutilation, makes the topic of medical oppression of intersexuals a timely one. Intersex specialists claim that their ministrations allow us to live as nearly normal males and females, but they have consistently refused to do long term follow up studies. Based on my interviews with dozens of adult intersexuals, medical intervention allows parents to deny the fact and consequences of their child’s intersexuality. Parental distress is replaced with a “time bomb” for the intersexual patient, who will have to overcome great obstacles without help in order to learn the truth about his/her own nature and history, and live with sexual dysfunction consequent to surgical destruction of genital sensitivity.\nIf you will write about the “other side” of the story of medical erasure4 of intersexuality, I will be happy to act as a resource. In addition to being extremely knowledgeable about the technical issues involved, I am willing to relate my own experience, and can introduce you to others who will also do so.\nI have enclosed copies of two recent letters to the editor of the Times, and the ISNA’s Annotated Bibliography. I hope to hear from you soon.\nYours Truly,\n \n\nenc:\n\nAnnotated Bibliography\n\n\nNYT letter Sept 6\n\n\nNYT letter Sept 15\n\n\nsample correspondence"
   },
   {
-    "objectID": "archive/letter-sciences-1993/index.html#textual-note",
-    "href": "archive/letter-sciences-1993/index.html#textual-note",
-    "title": "Intersexual Rights",
-    "section": "Textual note",
-    "text": "Textual note\nCopytext is the printed letter in The Sciences (July/August 1993, p. 3). A lightly revised version later circulated on ISNA’s own website (isna.org), and constitutes a distinct variant witness. Representative substantive variants in the web text include: “opportunity to meet” for the print’s chance to meet; “I believe that I can provide” for I think I can provide; “parents and doctors” for parents and physicians; “Some are transexual” for Some former intersexuals become transsexual; and a closing that names ISNA but drops the explicit postal address. A full collation is deferred; the print copytext is authoritative here.\nTranscription is diplomatic: original spelling, capitalization, hyphenation of compounds, the spelled figure “4 percent,” and the em dash at “medicine—and” are preserved. The three Latinate terms are italicized as in the printed original; the magazine set the headline in full capitals."
+    "objectID": "archive/letter-angier/index.html#note-on-the-source",
+    "href": "archive/letter-angier/index.html#note-on-the-source",
+    "title": "Cheryl Chase to Natalie Angier",
+    "section": "Note on the source",
+    "text": "Note on the source\nThe letter survives as one Microsoft Word for Macintosh 5.0 document (6,144 bytes, Mac OS Roman). The file had been fast-saved, so its current text was stored as scattered fragments with a piece table recording their order; read straight through, the bytes yield a truncated, garbled letter. The transcription above is reassembled according to that piece table.\nBecause fast-save appends revisions rather than rewriting, the file also preserved a trace of the author’s editing. An earlier draft of one sentence read “the story of medical treatment of intersexuality”; it was revised, before the final save, to “medical erasure of intersexuality.” The discarded word remains recoverable in the file and is recorded in the textual notes.\nThe sender’s 1994 telephone, fax, and email address (at a long-defunct domain) are transcribed as part of the historical document."
   },
   {
-    "objectID": "archive/letter-sciences-1993/index.html#source-and-citation",
-    "href": "archive/letter-sciences-1993/index.html#source-and-citation",
-    "title": "Intersexual Rights",
-    "section": "Source and citation",
-    "text": "Source and citation\n\n\n\n\n\n\n\nField\nValue\n\n\n\n\nCatalog id\nletter-sciences-1993\n\n\nCreator\nBo Laurent, writing as Cheryl Chase\n\n\nPublished in\nThe Sciences (New York Academy of Sciences), July/August 1993, p. 3\n\n\nSection\nPeer Review: Letters from Readers\n\n\nSource format\nScan (image-only PDF) of the printed periodical\n\n\nPreservation master\nsources/letters/sciences-1993/the_sciences_1993_peer_review.pdf\n\n\nRights\nAuthor’s own words; letter-to-editor rights retained by writer. No third-party material reproduced in the letter text.\n\n\nReview status\nCleared — published\n\n\n\n\nChase, Cheryl. “Intersexual Rights.” The Sciences, July/August 1993, p. 3. Intersex history archive, item letter-sciences-1993.\n\n\n\nRights & provenance\n\nIn Copyright — © Bo Laurent (as Cheryl Chase). Author holds rights.\nEditorial status: Published as transcribed."
+    "objectID": "archive/letter-angier/index.html#source-citation",
+    "href": "archive/letter-angier/index.html#source-citation",
+    "title": "Cheryl Chase to Natalie Angier",
+    "section": "Source & citation",
+    "text": "Source & citation\nGenerated to mirror the catalog record, so the two never drift.\n\n\n\n\n\n\n\nField\nValue\n\n\n\n\nCatalog id\nletter-angier\n\n\nDate\n6 September 1994\n\n\nFrom\nBo Laurent (signing as Cheryl Chase)\n\n\nTo\nNatalie Angier, The New York Times\n\n\nMedium\nLetter\n\n\nSource\nsources/letters/angier/ — Word for Macintosh 5.0 file (born-digital)\n\n\nRights\nFounder is author; third-party reference reviewed and cleared.\n\n\nStatus\nCleared; published 2026-07-03.\n\n\n\nSuggested citation. Bo Laurent [as Cheryl Chase], letter to Natalie Angier, 6 September 1994. Intersex Movement Archive, catalog letter-angier. Born-digital; recovered from a Word for Macintosh 5.0 file.\n\nRights & provenance\n\nFounder is author (signed ‘Cheryl Chase’). Body summarizes third-party interview material and medical detail; redaction pass required before publication. Recipient (Natalie Angier) living; courtesy note optional.\nEditorial status: Published as transcribed."
   },
   {
-    "objectID": "archive/letter-sciences-1993/colophon.html",
-    "href": "archive/letter-sciences-1993/colophon.html",
-    "title": "Colophon",
+    "objectID": "archive/letter-angier/index.html#footnotes",
+    "href": "archive/letter-angier/index.html#footnotes",
+    "title": "Cheryl Chase to Natalie Angier",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\n43d Street — the source reads “43d,” the period abbreviation of “43rd” that The New York Times used for its own address; retained, not an error.↩︎\nI  have — the source doubles the space after the opening “I”.↩︎\nand, biology — comma present in the source.↩︎\nerasure — revised in the source from an earlier reading: treatment → erasure. See Note on the source.↩︎"
+  },
+  {
+    "objectID": "archive/isna-org-website/index.html",
+    "href": "archive/isna-org-website/index.html",
+    "title": "isna.org: the movement moves online",
     "section": "",
-    "text": "The Bo Laurent Papers gather primary-source materials documenting the founding years of the intersex rights movement, which began to take organized form around 1991. The collection includes correspondence, movement publications, organizational records, and related documents — some born-digital, some scanned from paper originals.\nThe archive is assembled for scholars of the movement’s history. It is built to be cited, and built to outlast its author: the materials are prepared from the outset for eventual transfer to an institutional steward. Physical originals are held at the Kinsey Institute Library, Indiana University."
+    "text": "I registered isna.org on 31 October 1994 — a year after ISNA was announced in a letter published in The Sciences. The domain has outlived the organization itself: ISNA closed in 2008, and the site is now preserved as a historical archive by interACT. The newsletter reached the people who already knew to look for us. The website was how the people who didn’t found us. I recall that I hurried to register a domain name and set up a basic website just before some bit of media that refused to publish our mailing address went to print.\nNo capture of the earliest version of the site survives. The oldest one the Internet Archive holds dates to 12 December 1998, four years after the domain was registered — a reminder that the open web forgets quickly, and that what we have is the earliest surviving trace, not the first page we put up."
   },
   {
-    "objectID": "archive/letter-sciences-1993/colophon.html#about-this-archive",
-    "href": "archive/letter-sciences-1993/colophon.html#about-this-archive",
-    "title": "Colophon",
+    "objectID": "archive/isna-org-website/index.html#headnote",
+    "href": "archive/isna-org-website/index.html#headnote",
+    "title": "isna.org: the movement moves online",
     "section": "",
-    "text": "The Bo Laurent Papers gather primary-source materials documenting the founding years of the intersex rights movement, which began to take organized form around 1991. The collection includes correspondence, movement publications, organizational records, and related documents — some born-digital, some scanned from paper originals.\nThe archive is assembled for scholars of the movement’s history. It is built to be cited, and built to outlast its author: the materials are prepared from the outset for eventual transfer to an institutional steward. Physical originals are held at the Kinsey Institute Library, Indiana University."
+    "text": "I registered isna.org on 31 October 1994 — a year after ISNA was announced in a letter published in The Sciences. The domain has outlived the organization itself: ISNA closed in 2008, and the site is now preserved as a historical archive by interACT. The newsletter reached the people who already knew to look for us. The website was how the people who didn’t found us. I recall that I hurried to register a domain name and set up a basic website just before some bit of media that refused to publish our mailing address went to print.\nNo capture of the earliest version of the site survives. The oldest one the Internet Archive holds dates to 12 December 1998, four years after the domain was registered — a reminder that the open web forgets quickly, and that what we have is the earliest surviving trace, not the first page we put up."
   },
   {
-    "objectID": "archive/letter-sciences-1993/colophon.html#editorial-method",
-    "href": "archive/letter-sciences-1993/colophon.html#editorial-method",
-    "title": "Colophon",
-    "section": "Editorial method",
-    "text": "Editorial method\nTranscriptions aim to reproduce the source faithfully. Born-digital items are distinguished from scanned ones, and where a document exists in more than one state, the state being presented is identified.\nDates carry the source’s own dating where it bears one; editorially assigned or inferred dates are marked as such rather than presented as if they came from the document.\nEach source file is accompanied by a provenance record and a fixity checksum, so that any copy can be verified against the version described here. Where a transcription departs from the source — expanded abbreviations, corrected obvious slips, silent or noted — the convention is stated with the item."
+    "objectID": "archive/isna-org-website/index.html#the-evidence",
+    "href": "archive/isna-org-website/index.html#the-evidence",
+    "title": "isna.org: the movement moves online",
+    "section": "The evidence",
+    "text": "The evidence\nDomain registration. The isna.org domain was registered on 1994-10-31 (31 October 1994, 05:00:00 UTC), per the domain registry’s record (Registered On: 1994-10-31T05:00:00.691Z).\nEarliest known capture. The earliest snapshot of the site held by the Internet Archive’s Wayback Machine was captured on 1998-12-12 (12 December 1998, 03:00:50 UTC):\n\nhttps://web.archive.org/web/19981212030050/http://www.isna.org/\n\n\n\n\n\n\n\nFigure 1: The earliest archived isna.org home page, 12 December 1998"
   },
   {
-    "objectID": "archive/letter-sciences-1993/colophon.html#consent-privacy-and-redaction",
-    "href": "archive/letter-sciences-1993/colophon.html#consent-privacy-and-redaction",
-    "title": "Colophon",
-    "section": "Consent, privacy, and redaction",
-    "text": "Consent, privacy, and redaction\nMuch of this material is correspondence, and some correspondents, or their subjects, are living. No item involving a living third party is published without review. Where privacy requires it, names and other identifying details are redacted from the public page.\nRedactions are editorial acts, not gaps in the record: an absence on a published page reflects a decision, and the underlying identification is preserved privately so that the redaction can be reversed if circumstances or consent change. Where consent to publish has been given, that is noted with the item.\nIf you are a correspondent, a subject, or the representative of an estate, and you wish to request review, restriction, or correction of any item, please see Corrections and requests below."
-  },
-  {
-    "objectID": "archive/letter-sciences-1993/colophon.html#rights-and-reuse",
-    "href": "archive/letter-sciences-1993/colophon.html#rights-and-reuse",
-    "title": "Colophon",
-    "section": "Rights and reuse",
-    "text": "Rights and reuse\nRights are stated per item, drawn from the RightsStatements.org vocabulary; consult the statement on each item’s page before reuse, as primary sources carry their own rights independent of this site.\nFor the site’s own material:\n\nCode and build tooling: MIT License\nOriginal editorial and authored content: CC BY 4.0\nDescriptive metadata: CC0 1.0 (public domain dedication)"
-  },
-  {
-    "objectID": "archive/letter-sciences-1993/colophon.html#how-to-cite",
-    "href": "archive/letter-sciences-1993/colophon.html#how-to-cite",
-    "title": "Colophon",
-    "section": "How to cite",
-    "text": "How to cite\nCite the item by its own stated creator, title, and date, followed by the archive and the item’s stable URL. For example:\n\n[Creator], [Title], [date]. The Bo Laurent Papers, https://bolaurentpapers.org/pages/[item-id]/. Accessed [date].\n\nWhere an item’s authorship or dating is editorial rather than drawn from the document, cite it as it is presented on the item page."
-  },
-  {
-    "objectID": "archive/letter-sciences-1993/colophon.html#technical-notes",
-    "href": "archive/letter-sciences-1993/colophon.html#technical-notes",
-    "title": "Colophon",
-    "section": "Technical notes",
-    "text": "Technical notes\nThe site is built with Quarto (litera theme with local overrides) and served as static files from GitHub Pages at its own domain, bolaurentpapers.org. The build is deliberately self-contained and free of external CI: the published site is a plain directory of files that can be served, mirrored, or handed on without reconstructing a toolchain. A catalog is the single source of truth for what is published and under what terms; the public site is generated from it, and only cleared or redacted items appear."
-  },
-  {
-    "objectID": "archive/letter-sciences-1993/colophon.html#stewardship",
-    "href": "archive/letter-sciences-1993/colophon.html#stewardship",
-    "title": "Colophon",
-    "section": "Stewardship",
-    "text": "Stewardship\nThis archive is designed for succession. It lives on an independently owned domain, separate from its author’s personal site, so that it can pass to an institutional steward without changing identity or breaking citations. [[ Prospective steward — leave unnamed until settled ]] A separate stewardship document describes the transfer in full."
-  },
-  {
-    "objectID": "archive/letter-sciences-1993/colophon.html#corrections-and-requests",
-    "href": "archive/letter-sciences-1993/colophon.html#corrections-and-requests",
-    "title": "Colophon",
-    "section": "Corrections and requests",
-    "text": "Corrections and requests\nTo request review, restriction, or correction, or to report an error, please contact contact@bolaurentpapers.org.\nRevised July 4, 2026."
-  },
-  {
-    "objectID": "privacy.html",
-    "href": "privacy.html",
-    "title": "Privacy",
-    "section": "",
-    "text": "This site keeps the lightest analytics I could justify, and this page says exactly what that means.\nThere are no cookies. Nothing is stored on your device, and no identifier follows you from one page to the next or from one visit to the next. The archive uses GoatCounter, a cookieless analytics service that counts page views in aggregate without tracking individuals.\nWhat it records is limited to: which pages are viewed and how often, the site that referred you here (if any), and coarse technical details — your browser, operating system, screen size, and the country inferred from your IP address. The IP address itself is not stored. GoatCounter derives a temporary, non-identifying value to avoid double-counting a single visit; it is discarded shortly after and cannot be traced back to you.\nThere is no advertising, no ad network, and no cross-site or cross-device tracking. Nothing is sold or shared.\nWhy collect anything at all? This archive exists to be read and cited by scholars of the intersex movement’s founding years. A count of which materials are being read tells me the collection is reaching the people it was built for — and that is the only thing I need to know."
+    "objectID": "archive/isna-org-website/index.html#source-citation",
+    "href": "archive/isna-org-website/index.html#source-citation",
+    "title": "isna.org: the movement moves online",
+    "section": "Source & citation",
+    "text": "Source & citation\nThis page is generated to mirror the catalog record, so the two never drift.\n\n\n\n\n\n\n\nField\nValue\n\n\n\n\nCatalog id\nisna-org-website\n\n\nDate\n1994-10-31 (domain registration); earliest capture 1998-12-12\n\n\nMedium\nWebsite / web capture\n\n\nSource\nInternet Archive Wayback Machine capture 19981212030050; domain registry record\n\n\nHeld at\nLive capture at the Internet Archive; site preserved by interACT\n\n\nRights\nISNA’s own website — full rights. WHOIS date and Wayback capture are public records.\n\n\nStatus\nCleared\n\n\n\nSuggested citation. Cheryl Chase, isna.org: the movement moves online. The Bo Laurent Papers, catalog isna-org-website. Earliest capture: Internet Archive Wayback Machine, https://web.archive.org/web/19981212030050/http://www.isna.org/, captured 12 December 1998. Domain registered 31 October 1994.\n\nRights & provenance\n\nISNA’s own website — full rights. WHOIS registration date and Wayback capture are public records.\nEditorial status: Published as transcribed."
   },
   {
     "objectID": "archive/correspondence-randolph-1992-1993/index.html",
@@ -413,11 +301,53 @@
     "text": "References\nDOIs are given where one has been assigned. Articles predating the DOI system are cited with journal, volume, and page; a PubMed ID (PMID) is supplied where available. All identifiers below were verified against the publisher or PubMed record.\n\nWorks referenced within the correspondence\nR1. Gross RE, Randolph J, Crigler JF Jr. “Clitorectomy for Sexual Abnormalities: Indications and Technique.” Surgery 59, no. 2 (February 1966): 300–308. (No DOI assigned; pre-DOI era.) — The clitoral-extirpation paper cited by the writer in item 1, and the article Dr. Randolph refers to (misdating it “1964”) in item 3.\nR2. Randolph JG, Hung W. “Reduction Clitoroplasty in Females with Hypertrophied Clitoris.” Journal of Pediatric Surgery 5, no. 2 (1970): 224–231. DOI: 10.1016/0022-3468(70)90279-4. — The clitoral-recession technique depicted in the accompanying figures.\nR3. Randolph J, Hung W, Rathlev MC. “Clitoroplasty for Females Born with Ambiguous Genitalia: A Long-Term Study of 37 Patients.” Journal of Pediatric Surgery 16, no. 6 (December 1981): 882–887. DOI: 10.1016/0022-3468(81)80840-8. — The most likely referent for the “long term follow-up… after clitoral reconstruction” the writer names in item 1.\nR4. Newman K, Randolph J, Anderson K. “The Surgical Management of Infants and Children with Ambiguous Genitalia: Lessons Learned from 25 Years.” Annals of Surgery 215, no. 6 (June 1992): 644–653. DOI: 10.1097/00000658-199206000-00011. PMID: 1632686. — An alternative possible referent for the writer’s “earlier this year” (1992) follow-up reference; note that it appeared in Annals of Surgery, not the Journal of Pediatric Surgery she names, so the 1981 study (R3) remains the better fit.\n\n\nSources for the headnote and rights notes\nS1. Chase C. “Hermaphrodites with Attitude: Mapping the Emergence of Intersex Political Activism.” GLQ: A Journal of Lesbian and Gay Studies 4, no. 2 (1998): 189–211. DOI: 10.1215/10642684-4-2-189. — The author’s own account of the founding of ISNA in 1993.\nS2. Intersex Society of North America. “Cheryl Chase (Bo Laurent).” Archived biographical page. https://isna.org/about/chase/ (preserved by interACT: Advocates for Intersex Youth). — Confirms the 1993 founding of ISNA and the 1995 legal name change from Bonnie Sullivan to Bo Laurent.\nS3. Barnes, Bart. “Judson Randolph, Pediatric Surgeon, Dies at 87.” The Washington Post, 26 June 2015. — Dates of Randolph’s life (1927–2015) and career.\nS4. George Washington University School of Medicine and Health Sciences. “GW SMHS Remembers Faculty Member and Leader in Pediatric Surgery, Judson G. Randolph, M.D.” 2015. https://smhs.gwu.edu/news/ — Randolph’s tenure as Surgeon-in-Chief at Children’s National (1963 – retirement, 1991).\nA short additional obituary appeared in the Journal of Pediatric Surgery 50, no. 8 (2015): 1429–1430.\nConfirm any page numbers against the originals before setting these in the house style of the Papers."
   },
   {
-    "objectID": "blog/index.html",
-    "href": "blog/index.html",
-    "title": "Notes",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "The Archive",
     "section": "",
-    "text": "Dark by Default: A Consent Firewall for Static Digital Collections\n\n\n\npaper\n\n\n\nA two-repository architecture that keeps unreviewed material structurally absent from the public archive rather than merely hidden — the design behind the Bo Laurent Papers.\n\n\n\n\n\n2026-07-05\n\n\nBo Laurent\n\n2 min\n\n\n\n\n\n\n\n\n\n\n\nCorrespondence from the Suzanne Kessler Collection\n\n\n\ncorrespondence\n\n\n\nA folder of my early correspondence, kept in someone else’s archive, comes back to me as scans.\n\n\n\n\n\n2026-07-04\n\n\nBo Laurent\n\n2 min\n\n\n\n\nNo matching items"
+    "text": "This archive documents the founding years of the modern intersex movement through its own records. The materials were created and gathered by Bo Laurent (who published much of this work under the name Cheryl Chase, and grew up under the name Bonnie Sullivan), founder of the Intersex Society of North America. Each item is cataloged, dated, and presented three ways: an editorial headnote placing it in context, a full transcription, and the original document.\n\n\nThe collection includes the Hermaphrodites with Attitude(s) newsletters, founding correspondence with journalists, scientists, and historians, photographs, artwork, and early databases and website captures. Together they trace how a scattered correspondence network became an organized movement with a public voice.\nNew items are added as they are prepared and cleared for publication. Items still under review — including correspondence that requires a privacy review — are not listed here."
+  },
+  {
+    "objectID": "index.html#scope-and-content",
+    "href": "index.html#scope-and-content",
+    "title": "The Archive",
+    "section": "",
+    "text": "The collection includes the Hermaphrodites with Attitude(s) newsletters, founding correspondence with journalists, scientists, and historians, photographs, artwork, and early databases and website captures. Together they trace how a scattered correspondence network became an organized movement with a public voice.\nNew items are added as they are prepared and cleared for publication. Items still under review — including correspondence that requires a privacy review — are not listed here."
+  },
+  {
+    "objectID": "index.html#items",
+    "href": "index.html#items",
+    "title": "The Archive",
+    "section": "Items",
+    "text": "Items\n\n\n   \n    \n    \n      Order By\n      Default\n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Item\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nDate\n\n\n\nItem\n\n\n\nDescription\n\n\n\n\n\n\n\n\n1993-01-29\n\n\nLetter to Suzanne Kessler\n\n\nA 1993 letter from Bo Laurent (writing as Cheryl Chase), founder of the Intersex Society of North America, to social psychologist Suzanne Kessler at SUNY Purchase, laying out the evidence and personal testimony behind the argument that infant genital surgery destroys sexual sensation. The physical letter carries Kessler’s handwritten marginal responses, preserved here as a second layer. \n\n\n\n\n\n\n1993-01-31\n\n\nThe Randolph Correspondence, 1992–1993\n\n\nPrimary-source correspondence documenting the exchange that preceded the founding of the Intersex Society of North America.\n\n\n\n\n\n\n1993-07-01\n\n\nIntersexual Rights\n\n\nThe letter in which Cheryl Chase announced the Intersex Society of North America and invited intersex people to write to its San Francisco post-office box — generally regarded as the public founding of the U.S. intersex movement. \n\n\n\n\n\n\n1993-12-31\n\n\nHermaphrodites with Attitudes — Volume 1, Number 1\n\n\nThe complete first issue of Hermaphrodites with Attitudes, the newsletter of the Intersex Society of North America (ISNA), Winter 1994 — the first regular publication of the intersex movement. Full transcription with an editorial headnote, plus the original born-digital issue. \n\n\n\n\n\n\n1994-09-06\n\n\nCheryl Chase to Natalie Angier\n\n\n\n\n\n\n\n\n\n1994-10-31\n\n\nisna.org: the movement moves online\n\n\nA provenance record for the Intersex Society of North America’s website: the registration of the isna.org domain in 1994, and the earliest known capture of the site in the Internet Archive’s Wayback Machine, in 1998. \n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html#arrangement-and-use",
+    "href": "index.html#arrangement-and-use",
+    "title": "The Archive",
+    "section": "Arrangement and use",
+    "text": "Arrangement and use\nItems are cataloged individually and can be browsed above by date or filtered by theme. Each item carries a stable identifier (for example, hwa-01) and a stable URL; sections within an item are separately linkable for citation."
+  },
+  {
+    "objectID": "index.html#provenance",
+    "href": "index.html#provenance",
+    "title": "The Archive",
+    "section": "Provenance",
+    "text": "Provenance\nAssembled and held by Bo Laurent. The collection is mixed: physical materials are held in the Kinsey Institute Library’s archival collections, while born-digital materials — such as the newsletters — are published here. Each item’s page states its own source and holding."
+  },
+  {
+    "objectID": "index.html#rights-and-reproduction",
+    "href": "index.html#rights-and-reproduction",
+    "title": "The Archive",
+    "section": "Rights and reproduction",
+    "text": "Rights and reproduction\nRights vary by item and are stated on each item’s page. Where a document carries its own distribution terms — as the newsletters do (“Free to copy and distribute”) — those govern. For permissions, reproduction of restricted materials, or questions about items not yet published, please get in touch."
+  },
+  {
+    "objectID": "index.html#how-to-cite",
+    "href": "index.html#how-to-cite",
+    "title": "The Archive",
+    "section": "How to cite",
+    "text": "How to cite\nCite an item by its title, date, and archive identifier — for example: Hermaphrodites with Attitudes, Vol. 1, No. 1 (Winter 1994), ed. Cheryl Chase. The Bo Laurent Intersex Movement Archive, item hwa-01, https://bolaurentpapers.org/archive/hwa-01/. For a physical item, add its holding repository (the Kinsey Institute Library)."
   },
   {
     "objectID": "blog/posts/dark-by-default-abstract/index.html",
@@ -434,10 +364,73 @@
     "text": "Abstract\nMetadata-driven static site generators — CollectionBuilder, Wax, and the broader Lib-Static and minimal-computing tradition — have made it possible for one person to publish a rigorous digital collection with no server, no database, and no institutional infrastructure. But they share a founding assumption: that everything described in the metadata is destined to be public. For institutional collections of already-cleared objects, that assumption holds. For personal papers, community archives, and oral history — corpora dominated by living third parties, private correspondence, and identifications that cannot be surfaced without review — it fails. In these collections the consent decision is not a preliminary step; it is the central and recurring editorial act.\nThis article describes a consent firewall built onto a minimal-computing stack for The Bo Laurent Papers, an archive of the founding years of the intersex movement. The design makes non-publication the default and enforces it in the data layer rather than through editorial discipline. A relational catalog (SQLite) carries review status, a reviewer’s note, and a published flag as first-class fields; a two-repository architecture structurally separates a private working tier from the public site, so a dark item never enters the build at all; and a publish step copies only rows that have been explicitly cleared. Supporting patterns — an intake bench that surfaces the firewall’s state at the moment of description, reversible per-identification redaction, and provenance sidecars with fixity — carry the same principle through the workflow. The approach borrows the access-state logic of heavyweight repository frameworks such as Samvera and Islandora, but keeps it inside a stack that a non-technical steward can inherit, host at no cost, and eventually transfer to an institution intact.\n\n\n\nFigure 1. The consent firewall: publish.sh copies only published items from the private repository to the public site, leaving held items physically absent there rather than hidden.\n\n\n\n\n\nFigure 2. The item lifecycle. published can flip 0 → 1 only from cleared or redacted, and only by a deliberate update.\n\n\n\nSee Also\n\nDigitizing Collections: Digital Collection Platforms: A guide for digitizing collections for access and preservation\nCode4Lib"
   },
   {
-    "objectID": "blog/posts/received-kessler-correspondence/index.html",
-    "href": "blog/posts/received-kessler-correspondence/index.html",
-    "title": "Correspondence from the Suzanne Kessler Collection",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
     "section": "",
-    "text": "In May 2025 a scholar working with the Suzanne Kessler collection in the Joseph A. Labadie Collection at the University of Michigan Library scanned a folder of letters I wrote in the early 1990s and sent me the copies. I wrote them under the names Bonnie Sullivan and Cheryl Chase, when this work was just beginning. I haven’t seen them for decades.\n\nThe letters come from the Suzanne Kessler Papers (ams.0219), Box 1, folder “Correspondence — ‘Chase,’ 1992–1993,” in the Joseph A. Labadie Collection, Special Collections Research Center, University of Michigan Library. The folder was digitized by the Library in May 2025 at the request of Yarden Azoulay Katz, who sent me the scan on 19 May 2025.\nWhat I hold now is a set of scans. The originals stay at Michigan; these are access copies. The correspondence is under review, and most of it has not gone up here yet. Receiving the scans is not the same as clearing them: a letter joins the collection only after the review it needs, and until then it stays off the public site.\nAs of now, I have released these. Note that they predate the formation of ISNA. You can see the evolution of my thought, reframing the problem from a personal, medical one to a collective, social justice one.\n\nLetter to Suzanne Kessler, 1993\nRandolph Correspondence, 1992–1993\n\nAs selected letters are reviewed, the cleared letters will take their place in this published archive. For now they are back in my hands, thirty years on."
+    "text": "My most sustained work has been in intersex advocacy. I’ve been part of this movement since its early days, focused on the rights of people born with intersex variations — particularly around medical decision-making, bodily autonomy, and the harm done by shame, secrecy, and nonconsensual sexual surgeries on children. I founded the Intersex Society of North America in 1993. You can see its archived website at https://isna.org. Or visit InterACT Advocates for Intersex Youth to learn what’s happening in that world today.\nSee Dark by Default: A Consent Firewall for Static Digital Collections for some insight into how this is managed. At a deeper level, it’s a static site generator (quarto) hosted on Github Pages.\nFor more information about me, Bo Laurent, see my personal website https://bolaurent.com."
+  },
+  {
+    "objectID": "about.html#for-researchers",
+    "href": "about.html#for-researchers",
+    "title": "About",
+    "section": "For researchers",
+    "text": "For researchers\nUnless otherwise specified, physical originals are held at The Kinsey Institute Library. Born-digital assets are from my personal collection. If you are researching the history of the intersex movement and would like access to the physical materials, or to items not yet published here, please contact me at contact@bolaurentpapers.org"
+  },
+  {
+    "objectID": "colophon.html",
+    "href": "colophon.html",
+    "title": "Colophon",
+    "section": "",
+    "text": "The Bo Laurent Papers gather primary-source materials documenting the founding years of the intersex rights movement, which began to take organized form around 1991. The collection includes correspondence, movement publications, organizational records, and related documents — some born-digital, some scanned from paper originals.\nThe archive is assembled for scholars of the movement’s history. It is built to be cited, and built to outlast its author: the materials are prepared from the outset for eventual transfer to an institutional steward. Physical originals are held at the Kinsey Institute Library, Indiana University."
+  },
+  {
+    "objectID": "colophon.html#about-this-archive",
+    "href": "colophon.html#about-this-archive",
+    "title": "Colophon",
+    "section": "",
+    "text": "The Bo Laurent Papers gather primary-source materials documenting the founding years of the intersex rights movement, which began to take organized form around 1991. The collection includes correspondence, movement publications, organizational records, and related documents — some born-digital, some scanned from paper originals.\nThe archive is assembled for scholars of the movement’s history. It is built to be cited, and built to outlast its author: the materials are prepared from the outset for eventual transfer to an institutional steward. Physical originals are held at the Kinsey Institute Library, Indiana University."
+  },
+  {
+    "objectID": "colophon.html#editorial-method",
+    "href": "colophon.html#editorial-method",
+    "title": "Colophon",
+    "section": "Editorial method",
+    "text": "Editorial method\nTranscriptions aim to reproduce the source faithfully. Born-digital items are distinguished from scanned ones, and where a document exists in more than one state, the state being presented is identified.\nDates carry the source’s own dating where it bears one; editorially assigned or inferred dates are marked as such rather than presented as if they came from the document.\nEach source file is accompanied by a provenance record and a fixity checksum, so that any copy can be verified against the version described here. Where a transcription departs from the source — expanded abbreviations, corrected obvious slips, silent or noted — the convention is stated with the item."
+  },
+  {
+    "objectID": "colophon.html#consent-privacy-and-redaction",
+    "href": "colophon.html#consent-privacy-and-redaction",
+    "title": "Colophon",
+    "section": "Consent, privacy, and redaction",
+    "text": "Consent, privacy, and redaction\nMuch of this material is correspondence, and some correspondents, or their subjects, are living. No item involving a living third party is published without review. Where privacy requires it, names and other identifying details are redacted from the public page.\nRedactions are editorial acts, not gaps in the record: an absence on a published page reflects a decision, and the underlying identification is preserved privately so that the redaction can be reversed if circumstances or consent change. Where consent to publish has been given, that is noted with the item.\nIf you are a correspondent, a subject, or the representative of an estate, and you wish to request review, restriction, or correction of any item, please see Corrections and requests below."
+  },
+  {
+    "objectID": "colophon.html#rights-and-reuse",
+    "href": "colophon.html#rights-and-reuse",
+    "title": "Colophon",
+    "section": "Rights and reuse",
+    "text": "Rights and reuse\nRights are stated per item, drawn from the RightsStatements.org vocabulary; consult the statement on each item’s page before reuse, as primary sources carry their own rights independent of this site.\nFor the site’s own material:\n\nCode and build tooling: MIT License\nOriginal editorial and authored content: CC BY 4.0\nDescriptive metadata: CC0 1.0 (public domain dedication)"
+  },
+  {
+    "objectID": "colophon.html#how-to-cite",
+    "href": "colophon.html#how-to-cite",
+    "title": "Colophon",
+    "section": "How to cite",
+    "text": "How to cite\nCite the item by its own stated creator, title, and date, followed by the archive and the item’s stable URL. For example:\n\n[Creator], [Title], [date]. The Bo Laurent Papers, https://bolaurentpapers.org/pages/[item-id]/. Accessed [date].\n\nWhere an item’s authorship or dating is editorial rather than drawn from the document, cite it as it is presented on the item page."
+  },
+  {
+    "objectID": "colophon.html#technical-notes",
+    "href": "colophon.html#technical-notes",
+    "title": "Colophon",
+    "section": "Technical notes",
+    "text": "Technical notes\nThe site is built with Quarto (litera theme with local overrides) and served as static files from GitHub Pages at its own domain, bolaurentpapers.org. The build is deliberately self-contained and free of external CI: the published site is a plain directory of files that can be served, mirrored, or handed on without reconstructing a toolchain. A catalog is the single source of truth for what is published and under what terms; the public site is generated from it, and only cleared or redacted items appear."
+  },
+  {
+    "objectID": "colophon.html#corrections-and-requests",
+    "href": "colophon.html#corrections-and-requests",
+    "title": "Colophon",
+    "section": "Corrections and requests",
+    "text": "Corrections and requests\nTo request review, restriction, or correction, or to report an error, please contact contact@bolaurentpapers.org.\nRevised July 4, 2026."
   }
 ]

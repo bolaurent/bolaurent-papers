@@ -1,0 +1,56 @@
+---
+title: "Colophon"
+toc: true
+toc-depth: 2
+date-modified: "2026-07-04"
+---
+
+## About this archive
+
+*The Bo Laurent Papers* gather primary-source materials documenting the founding years of the intersex rights movement, which began to take organized form around 1991. The collection includes correspondence, movement publications, organizational records, and related documents — some born-digital, some scanned from paper originals.
+
+The archive is assembled for scholars of the movement's history. It is built to be cited, and built to outlast its author: the materials are prepared from the outset for eventual transfer to an institutional steward. Physical originals are held at the Kinsey Institute Library, Indiana University.
+
+## Editorial method
+
+Transcriptions aim to reproduce the source faithfully. Born-digital items are distinguished from scanned ones, and where a document exists in more than one state, the state being presented is identified.
+
+Dates carry the source's own dating where it bears one; editorially assigned or inferred dates are marked as such rather than presented as if they came from the document.
+
+Each source file is accompanied by a provenance record and a fixity checksum, so that any copy can be verified against the version described here. Where a transcription departs from the source — expanded abbreviations, corrected obvious slips, silent or noted — the convention is stated with the item.
+
+## Consent, privacy, and redaction
+
+Much of this material is correspondence, and some correspondents, or their subjects, are living. No item involving a living third party is published without review. Where privacy requires it, names and other identifying details are redacted from the public page.
+
+Redactions are editorial acts, not gaps in the record: an absence on a published page reflects a decision, and the underlying identification is preserved privately so that the redaction can be reversed if circumstances or consent change. Where consent to publish has been given, that is noted with the item.
+
+If you are a correspondent, a subject, or the representative of an estate, and you wish to request review, restriction, or correction of any item, please see [Corrections and requests](#corrections-and-requests) below.
+
+## Rights and reuse
+
+Rights are stated per item, drawn from the [RightsStatements.org](https://rightsstatements.org) vocabulary; consult the statement on each item's page before reuse, as primary sources carry their own rights independent of this site.
+
+For the site's own material:
+
+- Code and build tooling: MIT License
+- Original editorial and authored content: CC BY 4.0
+- Descriptive metadata: CC0 1.0 (public domain dedication)
+
+## How to cite
+
+Cite the item by its own stated creator, title, and date, followed by the archive and the item's stable URL. For example:
+
+> [Creator], *[Title]*, [date]. *The Bo Laurent Papers*, https://bolaurentpapers.org/pages/[item-id]/. Accessed [date].
+
+Where an item's authorship or dating is editorial rather than drawn from the document, cite it as it is presented on the item page.
+
+## Technical notes
+
+The site is built with [Quarto](https://quarto.org) (litera theme with local overrides) and served as static files from GitHub Pages at its own domain, bolaurentpapers.org. The build is deliberately self-contained and free of external CI: the published site is a plain directory of files that can be served, mirrored, or handed on without reconstructing a toolchain. A catalog is the single source of truth for what is published and under what terms; the public site is generated from it, and only cleared or redacted items appear.
+
+## Corrections and requests
+
+To request review, restriction, or correction, or to report an error, please contact [contact@bolaurentpapers.org](mailto:contact@bolaurentpapers.org).
+
+Revised July 4, 2026.
