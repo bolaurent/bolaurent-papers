@@ -10,8 +10,13 @@ website:
   title: "Bo Laurent Papers"
   site-url: https://bolaurentpapers.org
   favicon: images/favicon.svg
-  open-graph: true
-  twitter-card: true
+  open-graph:
+    image: /images/social-card.png
+    image-width: 1200
+    image-height: 630
+  twitter-card:
+    card-style: summary_large_image
+    image: /images/social-card.png
   navbar:
     pinned: true
     left:
@@ -19,6 +24,8 @@ website:
         text: Recent additions
       - href: about.qmd
         text: About the collection
+      - href: blog/index.qmd
+        text: Notes
     right:
       - icon: rss
         href: updates.xml

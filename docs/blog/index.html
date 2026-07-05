@@ -6,9 +6,8 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="description" content="A cataloged collection of documents from the founding of the Intersex Society of North America and the modern intersex movement: newsletters, correspondence, photographs, artwork, and early digital materials, assembled by founder Bo Laurent.">
 
-<title>The Archive – Bo Laurent Papers</title>
+<title>Notes – Bo Laurent Papers</title>
 <style>
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
@@ -27,25 +26,25 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="site_libs/quarto-search/fuse.min.js"></script>
-<script src="site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="./">
-<link href="./images/favicon.svg" rel="icon" type="image/svg+xml">
-<script src="site_libs/quarto-listing/list.min.js"></script>
-<script src="site_libs/quarto-listing/quarto-listing.js"></script>
-<script src="site_libs/quarto-html/quarto.js" type="module"></script>
-<script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
-<script src="site_libs/quarto-html/popper.min.js"></script>
-<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
-<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-7f8f88aac4f3542376d5c11b86a4c14d.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-040624a81597c375bf65112f82927a37.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../">
+<link href="../images/favicon.svg" rel="icon" type="image/svg+xml">
+<script src="../site_libs/quarto-listing/list.min.js"></script>
+<script src="../site_libs/quarto-listing/quarto-listing.js"></script>
+<script src="../site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="../site_libs/quarto-html/popper.min.js"></script>
+<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-7f8f88aac4f3542376d5c11b86a4c14d.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../site_libs/bootstrap/bootstrap-040624a81597c375bf65112f82927a37.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -76,20 +75,20 @@ ul.task-list li input[type="checkbox"] {
 <script>
 
   window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-items .list');
+    const listingTargetEl = window.document.querySelector('#listing-listing .list');
     if (!listingTargetEl) {
       // No listing discovered, do not attach.
       return; 
     }
 
     const options = {
-      valueNames: ['listing-date','listing-title','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-title-sort'] }],
+      valueNames: ['listing-image','listing-date','listing-author','listing-title','listing-categories','listing-reading-time','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
-      searchColumns: ["listing-date","listing-title","listing-author"],
+      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description","listing-categories"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-items'] = new List('listing-items', options);
+    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
 
     if (window['quarto-listing-loaded']) {
       window['quarto-listing-loaded']();
@@ -134,15 +133,17 @@ window.Quarto = {
 };
 </script>
 
-<link rel="stylesheet" href="styles.css">
-<meta property="og:title" content="The Archive – Bo Laurent Papers">
-<meta property="og:description" content="A cataloged collection of documents from the founding of the Intersex Society of North America and the modern intersex movement: newsletters, correspondence, photographs, artwork, and early digital materials, assembled by founder Bo Laurent.">
+<link rel="stylesheet" href="../styles.css">
+<link rel="alternate" type="application/rss+xml" title="Bo Laurent Papers" href="index.xml" data-external="1"><meta property="og:title" content="Notes – Bo Laurent Papers">
 <meta property="og:image" content="https://bolaurentpapers.org/images/social-card.png">
 <meta property="og:site_name" content="Bo Laurent Papers">
-<meta name="twitter:title" content="The Archive – Bo Laurent Papers">
-<meta name="twitter:description" content="A cataloged collection of documents from the founding of the Intersex Society of North America and the modern intersex movement: newsletters, correspondence, photographs, artwork, and early digital materials, assembled by founder Bo Laurent.">
+<meta property="og:image:height" content="630">
+<meta property="og:image:width" content="1200">
+<meta name="twitter:title" content="Notes – Bo Laurent Papers">
 <meta name="twitter:image" content="https://bolaurentpapers.org/images/social-card.png">
 <meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image-height" content="630">
+<meta name="twitter:image-width" content="1200">
 </head>
 
 <body class="nav-fixed quarto-light">
@@ -152,7 +153,7 @@ window.Quarto = {
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a class="navbar-brand" href="./index.html">
+    <a class="navbar-brand" href="../index.html">
     <span class="navbar-title">Bo Laurent Papers</span>
     </a>
   </div>
@@ -163,21 +164,21 @@ window.Quarto = {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./updates.html"> 
+    <a class="nav-link" href="../updates.html"> 
 <span class="menu-text">Recent additions</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./about.html"> 
+    <a class="nav-link" href="../about.html"> 
 <span class="menu-text">About the collection</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./blog/index.html"> 
+    <a class="nav-link active" href="../blog/index.html" aria-current="page"> 
 <span class="menu-text">Notes</span></a>
   </li>  
 </ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item compact">
-    <a class="nav-link" href="./updates.xml"> <i class="bi bi-rss" role="img">
+    <a class="nav-link" href="../updates.xml"> <i class="bi bi-rss" role="img">
 </i> 
 <span class="menu-text"></span></a>
   </li>  
@@ -193,21 +194,16 @@ window.Quarto = {
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(6)</span></div><div class="category" data-category="MTk5Mw==">1993 <span class="quarto-category-count">(1)</span></div><div class="category" data-category="MTk5NA==">1994 <span class="quarto-category-count">(2)</span></div><div class="category" data-category="Y2xpdG9yYWwlMjBzdXJnZXJ5">clitoral surgery <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Y29ycmVzcG9uZGVuY2U=">correspondence <span class="quarto-category-count">(2)</span></div><div class="category" data-category="SGVybWFwaHJvZGl0ZXMlMjB3aXRoJTIwQXR0aXR1ZGVz">Hermaphrodites with Attitudes <span class="quarto-category-count">(1)</span></div><div class="category" data-category="SW50ZXJuZXQlMjBBcmNoaXZl">Internet Archive <span class="quarto-category-count">(1)</span></div><div class="category" data-category="aW50ZXJzZXglMjBoaXN0b3J5">intersex history <span class="quarto-category-count">(4)</span></div><div class="category" data-category="SVNOQQ==">ISNA <span class="quarto-category-count">(3)</span></div><div class="category" data-category="SVNOQSUyMGZvdW5kaW5n">ISNA founding <span class="quarto-category-count">(1)</span></div><div class="category" data-category="am91cm5hbGlzbQ==">journalism <span class="quarto-category-count">(1)</span></div><div class="category" data-category="bGV0dGVy">letter <span class="quarto-category-count">(1)</span></div><div class="category" data-category="TGV0dGVyJTIwdG8lMjB0aGUlMjBlZGl0b3I=">Letter to the editor <span class="quarto-category-count">(1)</span></div><div class="category" data-category="bWVkaWNhbCUyMGV0aGljcw==">medical ethics <span class="quarto-category-count">(1)</span></div><div class="category" data-category="TWVkaWNhbCUyMHRyZWF0bWVudA==">Medical treatment <span class="quarto-category-count">(1)</span></div><div class="category" data-category="bmV3c2xldHRlcg==">newsletter <span class="quarto-category-count">(1)</span></div><div class="category" data-category="cHJpbWFyeSUyMHNvdXJjZQ==">primary source <span class="quarto-category-count">(3)</span></div><div class="category" data-category="U3V6YW5uZSUyMEtlc3NsZXI=">Suzanne Kessler <span class="quarto-category-count">(1)</span></div><div class="category" data-category="d2Vic2l0ZQ==">website <span class="quarto-category-count">(1)</span></div></div></div>
+        
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(2)</span></div><div class="category" data-category="Y29ycmVzcG9uZGVuY2U=">correspondence <span class="quarto-category-count">(1)</span></div><div class="category" data-category="cGFwZXI=">paper <span class="quarto-category-count">(1)</span></div></div></div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">The Archive</h1>
-<p class="subtitle lead">Primary sources from the founding of the intersex movement</p>
+<h1 class="title">Notes</h1>
 </div>
 
-<div>
-  <div class="description">
-    <p>A cataloged collection of documents from the founding of the Intersex Society of North America and the modern intersex movement: newsletters, correspondence, photographs, artwork, and early digital materials, assembled by founder Bo Laurent.</p>
-  </div>
-</div>
 
 
 <div class="quarto-title-meta">
@@ -222,163 +218,77 @@ window.Quarto = {
 </header>
 
 
-<div id="archive-intro">
-<p>This archive documents the founding years of the modern intersex movement through its own records. The materials were created and gathered by <strong>Bo Laurent</strong> (who published much of this work under the name Cheryl Chase, and grew up under the name Bonnie Sullivan), founder of the Intersex Society of North America. Each item is cataloged, dated, and presented three ways: an editorial headnote placing it in context, a full transcription, and the original document.</p>
-<section id="scope-and-content" class="level2">
-<h2 class="anchored" data-anchor-id="scope-and-content">Scope and content</h2>
-<p>The collection includes the <em>Hermaphrodites with Attitude(s)</em> newsletters, founding correspondence with journalists, scientists, and historians, photographs, artwork, and early databases and website captures. Together they trace how a scattered correspondence network became an organized movement with a public voice.</p>
-<p>New items are added as they are prepared and cleared for publication. Items still under review — including correspondence that requires a privacy review — are not listed here.</p>
-</section>
+
+
+
+
+<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
+<div class="list quarto-listing-default">
+<div class="quarto-post image-right" data-index="0" data-categories="cGFwZXI=" data-listing-date-sort="1783234800000" data-listing-file-modified-sort="1783265876172" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="293">
+<div class="thumbnail"><a href="../blog/posts/dark-by-default-abstract/index.html" class="no-external">
+
+<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="../blog/posts/dark-by-default-abstract/index.html" class="no-external">Dark by Default: A Consent Firewall for Static Digital Collections</a>
+</h3>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('cGFwZXI='); return false;">paper</div>
+
 </div>
-<section id="items" class="level2">
-<h2 class="anchored" data-anchor-id="items">Items</h2>
-<div id="listing-items" class="quarto-listing quarto-listing-container-table">
-<div class="listing-actions-group">
-   <div class="input-group input-group-sm quarto-listing-sort">
-    <span class="input-group-text"><i class="bi bi-sort-down"></i></span>
-    <select id="listing-items-sort" class="form-select" aria-label="Order By" onchange="window['quarto-listings']['listing-items'].sort(this.options[this.selectedIndex].value, { order: this.options[this.selectedIndex].getAttribute('data-direction')})">
-      <option value="" disabled="" selected="" hidden="">Order By</option>
-      <option value="index" data-direction="asc">Default</option>
-      <option value="listing-date-sort" data-direction="asc">
-        Date - Oldest
-      </option>
-      <option value="listing-date-sort" data-direction="desc">
-        Date - Newest
-      </option>
-      <option value="listing-title-sort" data-direction="asc">
-        Item
-      </option>
-    </select>
-  </div>
-    <div class="input-group input-group-sm quarto-listing-filter">
-      <span class="input-group-text"><i class="bi bi-search"></i></span>
-      <input type="text" class="search form-control" placeholder="Filter">
-    </div>
+<div class="delink listing-description"><a href="../blog/posts/dark-by-default-abstract/index.html" class="no-external">
+<p>A two-repository architecture that keeps unreviewed material structurally absent from the public archive rather than merely hidden — the design behind the Bo Laurent Papers.</p>
+</a></div>
 </div>
-<table class="quarto-listing-table table">
-<thead>
-<tr>
+<div class="metadata">
+<a href="../blog/posts/dark-by-default-abstract/index.html" class="no-external">
+<div class="listing-date">
+2026-07-05
+</div>
+<div class="listing-author">
+Bo Laurent
+</div>
+<div class="listing-reading-time">2 min</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="1" data-categories="Y29ycmVzcG9uZGVuY2U=" data-listing-date-sort="1783148400000" data-listing-file-modified-sort="1783269026340" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="289">
+<div class="thumbnail"><a href="../blog/posts/received-kessler-correspondence/index.html" class="no-external">
 
-<th>
-<a class="sort" data-sort="listing-date-sort" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Date</a>
-</th>
+<img loading="lazy" src="../blog/posts/received-kessler-correspondence/folder-adjusted.png" class="thumbnail-image">
 
-<th>
-<a class="sort" data-sort="listing-title-sort" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Item</a>
-</th>
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="../blog/posts/received-kessler-correspondence/index.html" class="no-external">Correspondence from the Suzanne Kessler Collection</a>
+</h3>
+<div class="listing-categories">
 
-<th>
-Description
-</th>
+<div class="listing-category" onclick="window.quartoListingCategory('Y29ycmVzcG9uZGVuY2U='); return false;">correspondence</div>
 
-</tr>
-</thead>
-<tbody class="list">
-
-<tr data-index="0" data-categories="cHJpbWFyeSUyMHNvdXJjZSUyQ2ludGVyc2V4JTIwaGlzdG9yeSUyQ2NvcnJlc3BvbmRlbmNlJTJDY2xpdG9yYWwlMjBzdXJnZXJ5JTJDU3V6YW5uZSUyMEtlc3NsZXI=" data-listing-date-sort="728294400000" data-listing-file-modified-sort="1783235113665" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="22" data-listing-word-count-sort="4375" data-listing-title-sort="Letter to Suzanne Kessler" data-listing-filename-sort="index.qmd">
-<td>
-<span class="listing-date">1993-01-29</span>
-</td>
-<td>
-<a href="./archive/letter-kessler/index.html" class="title listing-title">Letter to Suzanne Kessler</a>
-</td>
-<td>
-<span class="listing-description">A 1993 letter from Bo Laurent (writing as Cheryl Chase), founder of the Intersex Society of North America, to social psychologist Suzanne Kessler at SUNY Purchase, laying out the evidence and personal testimony behind the argument that infant genital surgery destroys sexual sensation. The physical letter carries Kessler’s handwritten marginal responses, preserved here as a second layer. </span>
-</td>
-
-</tr>
-
-<tr data-index="1" data-categories="Y29ycmVzcG9uZGVuY2UlMkNpbnRlcnNleCUyMGhpc3RvcnklMkNJU05BJTJDbWVkaWNhbCUyMGV0aGljcw==" data-listing-date-sort="728467200000" data-listing-file-modified-sort="1783235113523" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="23" data-listing-word-count-sort="4555" data-listing-title-sort="The Randolph Correspondence, 1992–1993" data-listing-filename-sort="index.qmd">
-<td>
-<span class="listing-date">1993-01-31</span>
-</td>
-<td>
-<a href="./archive/correspondence-randolph-1992-1993/index.html" class="title listing-title">The Randolph Correspondence, 1992–1993</a>
-</td>
-<td>
-<span class="listing-description">Primary-source correspondence documenting the exchange that preceded the founding of the Intersex Society of North America.</span>
-</td>
-
-</tr>
-
-<tr data-index="2" data-categories="TGV0dGVyJTIwdG8lMjB0aGUlMjBlZGl0b3IlMkMxOTkzJTJDSVNOQSUyMGZvdW5kaW5nJTJDTWVkaWNhbCUyMHRyZWF0bWVudA==" data-listing-date-sort="741510000000" data-listing-file-modified-sort="1783235113698" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-word-count-sort="863" data-listing-title-sort="Intersexual Rights" data-listing-filename-sort="index.qmd">
-<td>
-<span class="listing-date">1993-07-01</span>
-</td>
-<td>
-<a href="./archive/letter-sciences-1993/index.html" class="title listing-title">Intersexual Rights</a>
-</td>
-<td>
-<span class="listing-description">The letter in which Cheryl Chase announced the Intersex Society of North America and invited intersex people to write to its San Francisco post-office box — generally regarded as the public founding of the U.S. intersex movement. </span>
-</td>
-
-</tr>
-
-<tr data-index="3" data-categories="cHJpbWFyeSUyMHNvdXJjZSUyQ2ludGVyc2V4JTIwaGlzdG9yeSUyQ0lTTkElMkNIZXJtYXBocm9kaXRlcyUyMHdpdGglMjBBdHRpdHVkZXMlMkNuZXdzbGV0dGVyJTJDMTk5NA==" data-listing-date-sort="757382400000" data-listing-file-modified-sort="1783235113558" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="28" data-listing-word-count-sort="5584" data-listing-title-sort="Hermaphrodites with Attitudes — Volume 1, Number 1" data-listing-filename-sort="index.qmd">
-<td>
-<span class="listing-date">1993-12-31</span>
-</td>
-<td>
-<a href="./archive/hwa-01/index.html" class="title listing-title">Hermaphrodites with Attitudes — Volume 1, Number 1</a>
-</td>
-<td>
-<span class="listing-description">The complete first issue of Hermaphrodites with Attitudes, the newsletter of the Intersex Society of North America (ISNA), Winter 1994 — the first regular publication of the intersex movement. Full transcription with an editorial headnote, plus the original born-digital issue. </span>
-</td>
-
-</tr>
-
-<tr data-index="4" data-categories="bGV0dGVyJTJDam91cm5hbGlzbSUyQzE5OTQ=" data-listing-date-sort="778834800000" data-listing-file-modified-sort="1783235113615" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-word-count-sort="889" data-listing-title-sort="Cheryl Chase to Natalie Angier" data-listing-filename-sort="index.qmd">
-<td>
-<span class="listing-date">1994-09-06</span>
-</td>
-<td>
-<a href="./archive/letter-angier/index.html" class="title listing-title">Cheryl Chase to Natalie Angier</a>
-</td>
-<td>
-<span class="listing-description">One of three letters in which the movement reached out to journalism, science, and history in the founder’s own words — here to <em>New York Times</em> science writer Natalie Angier.…<strong></strong></span>
-</td>
-
-</tr>
-
-<tr data-index="5" data-categories="cHJpbWFyeSUyMHNvdXJjZSUyQ2ludGVyc2V4JTIwaGlzdG9yeSUyQ0lTTkElMkN3ZWJzaXRlJTJDSW50ZXJuZXQlMjBBcmNoaXZl" data-listing-date-sort="783590400000" data-listing-file-modified-sort="1783235113585" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="375" data-listing-title-sort="isna.org: the movement moves online" data-listing-filename-sort="index.qmd">
-<td>
-<span class="listing-date">1994-10-31</span>
-</td>
-<td>
-<a href="./archive/isna-org-website/index.html" class="title listing-title">isna.org: the movement moves online</a>
-</td>
-<td>
-<span class="listing-description">A provenance record for the Intersex Society of North America’s website: the registration of the isna.org domain in 1994, and the earliest known capture of the site in the Internet Archive’s Wayback Machine, in 1998. </span>
-</td>
-
-</tr>
-
-</tbody>
-</table>
+</div>
+<div class="delink listing-description"><a href="../blog/posts/received-kessler-correspondence/index.html" class="no-external">
+<p>A folder of my early correspondence, kept in someone else’s archive, comes back to me as scans.</p>
+</a></div>
+</div>
+<div class="metadata">
+<a href="../blog/posts/received-kessler-correspondence/index.html" class="no-external">
+<div class="listing-date">
+2026-07-04
+</div>
+<div class="listing-author">
+Bo Laurent
+</div>
+<div class="listing-reading-time">2 min</div>
+</a>
+</div>
+</div>
+</div>
 <div class="listing-no-matching d-none">No matching items</div>
-</div>
-</section>
-<section id="arrangement-and-use" class="level2">
-<h2 class="anchored" data-anchor-id="arrangement-and-use">Arrangement and use</h2>
-<p>Items are cataloged individually and can be browsed above by date or filtered by theme. Each item carries a stable identifier (for example, <code>hwa-01</code>) and a stable URL; sections within an item are separately linkable for citation.</p>
-</section>
-<section id="provenance" class="level2">
-<h2 class="anchored" data-anchor-id="provenance">Provenance</h2>
-<p>Assembled and held by Bo Laurent. The collection is mixed: <strong>physical materials are held in the <a href="https://kinseyinstitute.org/collections/archival/index.html">Kinsey Institute Library’s archival collections</a></strong>, while born-digital materials — such as the newsletters — are published here. Each item’s page states its own source and holding.</p>
-</section>
-<section id="rights-and-reproduction" class="level2">
-<h2 class="anchored" data-anchor-id="rights-and-reproduction">Rights and reproduction</h2>
-<p>Rights vary by item and are stated on each item’s page. Where a document carries its own distribution terms — as the newsletters do (“Free to copy and distribute”) — those govern. For permissions, reproduction of restricted materials, or questions about items not yet published, please <a href="mailto:contact@bolaurentpapers.org?subject=Bo%20Laurent%20Papers%20inquiry">get in touch</a>.</p>
-</section>
-<section id="how-to-cite" class="level2">
-<h2 class="anchored" data-anchor-id="how-to-cite">How to cite</h2>
-<p>Cite an item by its title, date, and archive identifier — for example: <em>Hermaphrodites with Attitudes</em>, Vol. 1, No.&nbsp;1 (Winter 1994), ed.&nbsp;Cheryl Chase. The Bo Laurent Intersex Movement Archive, item <code>hwa-01</code>, https://bolaurentpapers.org/archive/hwa-01/. For a physical item, add its holding repository (the Kinsey Institute Library).</p>
-
-
-
-</section>
-
-</main> <!-- /main -->
+</div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";
@@ -789,28 +699,10 @@ Description
 <p>Physical materials held at The <a href="https://kinseyinstitute.org/collections">Kinsey Institute Library</a></p>
 </div>
     <div class="nav-footer-right">
-<p><a href="./privacy.html">No cookies. No tracking of individuals.</a></p>
+<p><a href="privacy.qmd">No cookies. No tracking of individuals.</a></p>
 </div>
   </div>
 </footer>
-<style>
-  body.category-active #title-block-header,
-  body.category-active #archive-intro { display: none; }
-</style>
-<script>
-(function () {
-  const isFiltered = () => /(^|[#&])category=./.test(location.hash);
-  const sync = () =>
-    document.body.classList.toggle("category-active", isFiltered());
-  sync();                                   // catch a bookmarked filtered URL
-  window.addEventListener("hashchange", sync);
-  // Quarto can clear the hash without firing hashchange (toggling a
-  // category off), so re-check after any click in the category widget.
-  document.addEventListener("click", (e) => {
-    if (e.target.closest(".quarto-listing-category")) setTimeout(sync, 0);
-  });
-})();
-</script>
 
 
 

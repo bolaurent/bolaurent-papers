@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Bo Laurent Papers</title>
+<link>https://bolaurentpapers.org/blog/</link>
+<atom:link href="https://bolaurentpapers.org/blog/index.xml" rel="self" type="application/rss+xml"/>
+<description></description>
+<generator>quarto-1.9.37</generator>
+<lastBuildDate>Sun, 05 Jul 2026 07:00:00 GMT</lastBuildDate>
+<item>
+  <title>Dark by Default: A Consent Firewall for Static Digital Collections</title>
+  <dc:creator>Bo Laurent</dc:creator>
+  <link>https://bolaurentpapers.org/blog/posts/dark-by-default-abstract/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p><em>Working draft</em></p>
+<section id="abstract" class="level2">
+<h2 class="anchored" data-anchor-id="abstract">Abstract</h2>
+<p>Metadata-driven static site generators — <a href="https://collectionbuilder.github.io">CollectionBuilder</a>, <a href="https://minicomp.github.io/wax/">Wax</a>, and the broader Lib-Static and minimal-computing tradition — have made it possible for one person to publish a rigorous digital collection with no server, no database, and no institutional infrastructure. But they share a founding assumption: that everything described in the metadata is destined to be public. For institutional collections of already-cleared objects, that assumption holds. For personal papers, community archives, and oral history — corpora dominated by living third parties, private correspondence, and identifications that cannot be surfaced without review — it fails. In these collections the consent decision is not a preliminary step; it is the central and recurring editorial act.</p>
+<p>This article describes a consent firewall built onto a minimal-computing stack for <em>The Bo Laurent Papers</em>, an archive of the founding years of the intersex movement. The design makes non-publication the default and enforces it in the data layer rather than through editorial discipline. A relational catalog (SQLite) carries review status, a reviewer’s note, and a published flag as first-class fields; a two-repository architecture structurally separates a private working tier from the public site, so a dark item never enters the build at all; and a publish step copies only rows that have been explicitly cleared. Supporting patterns — an intake bench that surfaces the firewall’s state at the moment of description, reversible per-identification redaction, and provenance sidecars with fixity — carry the same principle through the workflow. The approach borrows the access-state logic of heavyweight repository frameworks such as <a href="https://samvera.org">Samvera</a> and <a href="https://www.islandora.ca">Islandora</a>, but keeps it inside a stack that a non-technical steward can inherit, host at no cost, and eventually transfer to an institution intact.</p>
+<section id="see-also" class="level3">
+<h3 class="anchored" data-anchor-id="see-also">See Also</h3>
+<ul>
+<li><a href="https://atla.libguides.com/digitizing-collections/online-content-platforms">Digitizing Collections: Digital Collection Platforms: A guide for digitizing collections for access and preservation</a></li>
+<li><a href="https://code4lib.org">Code4Lib</a></li>
+</ul>
+
+
+</section>
+</section>
+
+ ]]></description>
+  <category>paper</category>
+  <guid>https://bolaurentpapers.org/blog/posts/dark-by-default-abstract/</guid>
+  <pubDate>Sun, 05 Jul 2026 07:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Correspondence from the Suzanne Kessler Collection</title>
+  <dc:creator>Bo Laurent</dc:creator>
+  <link>https://bolaurentpapers.org/blog/posts/received-kessler-correspondence/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p><img src="https://bolaurentpapers.org/blog/posts/received-kessler-correspondence/folder-adjusted.png" class="img-fluid"></p>
+<p>In May 2025 a scholar working with the Suzanne Kessler collection in the Joseph A. Labadie Collection at the University of Michigan Library scanned a folder of letters I wrote in the early 1990s and sent me the copies. I wrote them under the names Bonnie Sullivan and Cheryl Chase, when this work was just beginning. I haven’t seen them for decades.</p>
+<!-- *[Bo — this is the beat to write in your own hand: what it was to open the file and read them again. I've left it rather than put words to a reaction that isn't mine to write.]* -->
+<p>The letters come from the Suzanne Kessler Papers (ams.0219), Box 1, folder “Correspondence — ‘Chase,’ 1992–1993,” in the <a href="https://www.lib.umich.edu/collections/collecting-areas/special-collections/joseph-labadie-collection">Joseph A. Labadie Collection</a>, Special Collections Research Center, University of Michigan Library. The folder was digitized by the Library in May 2025 at the request of Yarden Azoulay Katz, who sent me the scan on 19 May 2025.</p>
+<p>What I hold now is a set of scans. The originals stay at Michigan; these are access copies. The correspondence is under review, and most of it has not gone up here yet. Receiving the scans is not the same as clearing them: a letter joins the collection only after the review it needs, and until then it stays off the public site.</p>
+<p>As of now, I have released these. Note that they <em>predate</em> the formation of ISNA. You can see the evolution of my thought, reframing the problem from a personal, medical one to a collective, social justice one.</p>
+<ul>
+<li><a href="../../../archive/letter-kessler/index.html">Letter to Suzanne Kessler, 1993</a></li>
+<li><a href="../../../archive/correspondence-randolph-1992-1993/index.html">Randolph Correspondence, 1992–1993</a></li>
+</ul>
+<p>As selected letters are reviewed, the cleared letters will take their place in this published archive. For now they are back in my hands, thirty years on.</p>
+
+
+
+ ]]></description>
+  <category>correspondence</category>
+  <guid>https://bolaurentpapers.org/blog/posts/received-kessler-correspondence/</guid>
+  <pubDate>Sat, 04 Jul 2026 07:00:00 GMT</pubDate>
+  <media:content url="https://bolaurentpapers.org/blog/posts/received-kessler-correspondence/folder-adjusted.png" medium="image" type="image/png" height="19" width="144"/>
+</item>
+</channel>
+</rss>

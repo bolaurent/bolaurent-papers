@@ -1,0 +1,10 @@
+---
+title: "Notes"
+listing:
+  contents: posts
+  type: default
+  sort: "date desc"
+  categories: true
+  feed: true
+  fields: [image, date, author, title, categories, reading-time, description]
+---
