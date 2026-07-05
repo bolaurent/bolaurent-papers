@@ -1,0 +1,42 @@
+<svg viewBox="0 0 800 540" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Surgical figures withheld pending permission from Elsevier">
+  <defs>
+    <style>
+      .paper{fill:#f7f6f2}
+      .ink{fill:#1b1a18}
+      .soft{fill:#57534c}
+      .faint{fill:#b9b4a8}
+      .rule{stroke:#dcd9d0}
+      .dash{stroke:#dcd9d0}
+      .oxtint{fill:#f4e6e4}
+      .oxblood{fill:#7a2e2e}
+      .mono{font-family:ui-monospace,Menlo,Consolas,monospace}
+      .serif{font-family:Georgia,"Times New Roman",serif}
+    </style>
+  </defs>
+
+  <rect x="0" y="0" width="800" height="540" class="paper"/>
+  <rect x="16" y="16" width="768" height="508" fill="none" class="rule" stroke-width="1"/>
+
+  <text x="40" y="52" class="mono" font-size="11" letter-spacing="3" fill="#57534c">THE BO LAURENT PAPERS</text>
+
+  <rect x="556" y="34" width="204" height="26" rx="4" class="oxtint"/>
+  <text x="658" y="51" text-anchor="middle" class="mono oxblood" font-size="11" letter-spacing="2">PERMISSION PENDING</text>
+
+  <rect x="40" y="80" width="720" height="322" fill="none" class="dash" stroke-width="1.5" stroke-dasharray="6 6"/>
+
+  <!-- neutral 'framed image' glyph (non-anatomical) -->
+  <g transform="translate(400,178)" class="faint" stroke="#b9b4a8" stroke-width="4" fill="none" stroke-linejoin="round">
+    <rect x="-72" y="-52" width="144" height="104" rx="5"/>
+    <circle cx="-30" cy="-18" r="12" fill="#b9b4a8" stroke="none"/>
+    <path d="M-72 40 L-18 -6 L18 30 L46 6 L72 32"/>
+  </g>
+
+  <text x="400" y="296" text-anchor="middle" class="serif ink" font-size="25">Figure withheld — permission pending</text>
+  <text x="400" y="328" text-anchor="middle" class="mono soft" font-size="12.5">Reproduction requested from the rights holder (Elsevier). This placeholder will be</text>
+  <text x="400" y="348" text-anchor="middle" class="mono soft" font-size="12.5">replaced by the licensed figures, or by a citation and link to the article.</text>
+
+  <line x1="40" y1="436" x2="760" y2="436" class="rule" stroke-width="1"/>
+  <text x="40" y="462" class="serif ink" font-size="13.5">Randolph J, Hung W, Rathlev MC. &#8220;Clitoroplasty for Females Born with Ambiguous</text>
+  <text x="40" y="482" class="serif ink" font-size="13.5">Genitalia: A Long-Term Study of 37 Patients.&#8221; <tspan font-style="italic">Journal of Pediatric Surgery</tspan> 16 (1981): 882&#8211;887, Figs. 2&#8211;3.</text>
+  <text x="40" y="505" class="mono soft" font-size="10.5">&#169; Elsevier &#183; reproduction requested, license pending &#183; DOI 10.1016/0022-3468(81)80840-8</text>
+</svg>
