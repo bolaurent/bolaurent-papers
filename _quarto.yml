@@ -11,7 +11,7 @@ website:
   site-url: https://bolaurentpapers.org
   favicon: images/favicon.svg
   open-graph:
-    image: /images/social-card.png
+    image: /images/social-card-bo.png
     image-width: 1200
     image-height: 630
   twitter-card:

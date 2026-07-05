@@ -60,7 +60,7 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "My most sustained work has been in intersex advocacy. I’ve been part of this movement since its early days, focused on the rights of people born with intersex variations — particularly around medical decision-making, bodily autonomy, and the harm done by shame, secrecy, and nonconsensual sexual surgeries on children. I founded the Intersex Society of North America in 1993. You can see its archived website at https://isna.org. Or visit InterACT Advocates for Intersex Youth to learn what’s happening in that world today."
+    "text": "My most sustained work has been in intersex advocacy. I’ve been part of this movement since its early days, focused on the rights of people born with intersex variations — particularly around medical decision-making, bodily autonomy, and the harm done by shame, secrecy, and nonconsensual sexual surgeries on children. I founded the Intersex Society of North America in 1993. You can see its archived website at https://isna.org. Or visit InterACT Advocates for Intersex Youth to learn what’s happening in that world today.\nSee Dark by Default: A Consent Firewall for Static Digital Collections for some insight into how this is managed. At a deeper level, it’s a static site generator (quarto) hosted on Github Pages.\nFor more information about me, Bo Laurent, see my personal website https://bolaurent.com."
   },
   {
     "objectID": "about.html#for-researchers",
