@@ -1,0 +1,134 @@
+<svg viewBox="0 0 960 560" xmlns="http://www.w3.org/2000/svg" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif">
+  <defs>
+    <style>
+      .h1   { font-family:ui-monospace,Menlo,Consolas,monospace; font-size:12px; font-weight:700; letter-spacing:1.2px; }
+      .lbl  { font-family:ui-monospace,Menlo,Consolas,monospace; font-size:10px; letter-spacing:.4px; fill:#57534c; }
+      .ttl  { font-family:ui-monospace,Menlo,Consolas,monospace; font-size:13px; font-weight:700; fill:#1b1a18; }
+      .sub  { font-family:system-ui,sans-serif; font-size:10px; fill:#57534c; }
+      .pub  { font-family:ui-monospace,Menlo,Consolas,monospace; font-size:9.5px; letter-spacing:.3px; }
+      .tag  { font-family:ui-monospace,Menlo,Consolas,monospace; font-size:9px; font-weight:700; letter-spacing:1px; }
+      .cap  { font-family:Georgia,'Times New Roman',serif; font-size:12px; fill:#1b1a18; }
+    </style>
+    <marker id="ar" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7.5" markerHeight="7.5" orient="auto-start-reverse">
+      <path d="M0,0 L10,5 L0,10 z" fill="#33415c"/>
+    </marker>
+    <marker id="arb" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6.5" markerHeight="6.5" orient="auto-start-reverse">
+      <path d="M0,0 L10,5 L0,10 z" fill="#7a2e2e"/>
+    </marker>
+  </defs>
+
+  <rect x="0" y="0" width="960" height="560" rx="6" fill="#f7f6f2"/>
+
+  <!-- ===================== DARK ZONE ===================== -->
+  <rect x="20" y="60" width="560" height="452" rx="10" fill="#fbf3f2" stroke="#d9bdb9" stroke-width="1.4" stroke-dasharray="6 4"/>
+  <circle cx="42" cy="84" r="5.5" fill="none" stroke="#7a2e2e" stroke-width="1.6"/>
+  <text class="h1" x="54" y="88" fill="#7a2e2e">DARK ZONE</text>
+  <text class="lbl" x="150" y="88" fill="#7a2e2e">published = 0 · absent from the public site</text>
+
+  <!-- start -->
+  <text class="lbl" x="30" y="278">new row</text>
+  <line x1="30" y1="286" x2="44" y2="292" stroke="#33415c" stroke-width="1.5" marker-end="url(#ar)"/>
+
+  <!-- unreviewed node -->
+  <rect x="46" y="262" width="152" height="62" rx="5" fill="#ffffff" stroke="#6b6760" stroke-width="1.3" stroke-dasharray="5 3"/>
+  <rect x="46" y="262" width="5" height="62" rx="2.5" fill="#6b6760"/>
+  <circle cx="182" cy="278" r="4.6" fill="none" stroke="#6b6760" stroke-width="1.5"/>
+  <text class="ttl" x="62" y="290">unreviewed</text>
+  <text class="pub" x="62" y="308" fill="#6b6760">published = 0</text>
+  <text class="sub" x="52" y="343">every new row starts here</text>
+
+  <!-- review fan -->
+  <text class="lbl" x="214" y="285">review</text>
+  <path d="M198,293 C 244,293 250,140 288,140" fill="none" stroke="#33415c" stroke-width="1.4" marker-end="url(#ar)"/>
+  <path d="M198,293 C 244,293 252,210 288,210" fill="none" stroke="#33415c" stroke-width="1.4" marker-end="url(#ar)"/>
+  <path d="M198,293 C 244,293 252,332 288,332" fill="none" stroke="#33415c" stroke-width="1.4" marker-end="url(#ar)"/>
+  <path d="M198,293 C 244,293 250,402 288,402" fill="none" stroke="#33415c" stroke-width="1.4" marker-end="url(#ar)"/>
+
+  <!-- review outcome nodes -->
+  <!-- cleared -->
+  <rect x="288" y="112" width="196" height="56" rx="5" fill="#ffffff" stroke="#8a6d1f" stroke-width="1.3" stroke-dasharray="5 3"/>
+  <rect x="288" y="112" width="5" height="56" rx="2.5" fill="#8a6d1f"/>
+  <circle cx="468" cy="128" r="4.6" fill="none" stroke="#8a6d1f" stroke-width="1.5"/>
+  <text class="ttl" x="304" y="136">cleared</text>
+  <text class="sub" x="304" y="154">reviewed whole; nothing removed</text>
+  <!-- redacted -->
+  <rect x="288" y="182" width="196" height="56" rx="5" fill="#ffffff" stroke="#8a6d1f" stroke-width="1.3" stroke-dasharray="5 3"/>
+  <rect x="288" y="182" width="5" height="56" rx="2.5" fill="#8a6d1f"/>
+  <circle cx="468" cy="198" r="4.6" fill="none" stroke="#8a6d1f" stroke-width="1.5"/>
+  <text class="ttl" x="304" y="206">redacted</text>
+  <text class="sub" x="304" y="224">something withheld before release</text>
+  <!-- withheld -->
+  <rect x="288" y="304" width="196" height="56" rx="5" fill="#ffffff" stroke="#7a2e2e" stroke-width="1.3" stroke-dasharray="5 3"/>
+  <rect x="288" y="304" width="5" height="56" rx="2.5" fill="#7a2e2e"/>
+  <circle cx="468" cy="320" r="4.6" fill="none" stroke="#7a2e2e" stroke-width="1.5"/>
+  <text class="ttl" x="304" y="328">withheld</text>
+  <text class="sub" x="304" y="346">held back entirely</text>
+  <!-- restricted -->
+  <rect x="288" y="374" width="196" height="56" rx="5" fill="#ffffff" stroke="#7a2e2e" stroke-width="1.3" stroke-dasharray="5 3"/>
+  <rect x="288" y="374" width="5" height="56" rx="2.5" fill="#7a2e2e"/>
+  <circle cx="468" cy="390" r="4.6" fill="none" stroke="#7a2e2e" stroke-width="1.5"/>
+  <text class="ttl" x="304" y="398">restricted</text>
+  <text class="sub" x="304" y="416">access limited</text>
+
+  <!-- group labels -->
+  <text class="tag" x="292" y="104" fill="#8a6d1f">MAY CROSS ↑</text>
+  <text class="tag" x="292" y="296" fill="#7a2e2e">MAY NOT CROSS ↓</text>
+
+  <!-- cleared/redacted → gate -->
+  <line x1="484" y1="140" x2="558" y2="140" stroke="#33415c" stroke-width="1.6" marker-end="url(#ar)"/>
+  <line x1="484" y1="210" x2="558" y2="210" stroke="#33415c" stroke-width="1.6" marker-end="url(#ar)"/>
+
+  <!-- withheld/restricted → gate face, blocked -->
+  <line x1="484" y1="332" x2="548" y2="332" stroke="#7a2e2e" stroke-width="1.5" stroke-dasharray="4 3"/>
+  <line x1="484" y1="402" x2="548" y2="402" stroke="#7a2e2e" stroke-width="1.5" stroke-dasharray="4 3"/>
+  <!-- no-entry glyphs -->
+  <g>
+    <circle cx="558" cy="332" r="8.5" fill="#f4e6e4" stroke="#7a2e2e" stroke-width="1.6"/>
+    <line x1="552" y1="326" x2="564" y2="338" stroke="#7a2e2e" stroke-width="1.6"/>
+  </g>
+  <g>
+    <circle cx="558" cy="402" r="8.5" fill="#f4e6e4" stroke="#7a2e2e" stroke-width="1.6"/>
+    <line x1="552" y1="396" x2="564" y2="408" stroke="#7a2e2e" stroke-width="1.6"/>
+  </g>
+  <text class="lbl" x="484" y="440" fill="#7a2e2e">gate refuses — item stays dark</text>
+
+  <!-- ===================== THE GATE ===================== -->
+  <rect x="566" y="100" width="42" height="392" rx="6" fill="#33415c"/>
+  <text x="587" y="300" transform="rotate(-90 587 300)" text-anchor="middle"
+        font-family="ui-monospace,Menlo,Consolas,monospace" font-size="12px" font-weight="700"
+        letter-spacing="3.5" fill="#ffffff">PUBLISH  GATE</text>
+
+  <!-- guard callout -->
+  <rect x="430" y="30" width="238" height="24" rx="6" fill="#ffffff" stroke="#33415c" stroke-width="1.2"/>
+  <text x="549" y="46" text-anchor="middle" font-family="ui-monospace,Menlo,Consolas,monospace"
+        font-size="9.5px" fill="#33415c">guard:  review_status ∈ { cleared, redacted }</text>
+  <line x1="549" y1="54" x2="587" y2="100" stroke="#33415c" stroke-width="1" stroke-dasharray="3 3"/>
+
+  <!-- ===================== LIVE ZONE ===================== -->
+  <rect x="632" y="60" width="308" height="452" rx="10" fill="#ecf3ee" stroke="#7fa98d" stroke-width="1.6"/>
+  <circle cx="652" cy="84" r="5.5" fill="#35674a"/>
+  <text class="h1" x="664" y="88" fill="#35674a">LIVE ZONE</text>
+  <text class="lbl" x="758" y="88" fill="#35674a">published = 1</text>
+
+  <!-- gate → live (the deliberate publish) -->
+  <path d="M608,175 C 656,175 656,300 688,300" fill="none" stroke="#33415c" stroke-width="2.4" marker-end="url(#ar)"/>
+  <rect x="614" y="196" width="150" height="34" rx="5" fill="#f7f6f2" stroke="#c7cdd8"/>
+  <text x="689" y="210" text-anchor="middle" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="9.5px" font-weight="700" fill="#33415c">deliberate publish</text>
+  <text x="689" y="223" text-anchor="middle" class="lbl" fill="#57534c">published 0 → 1</text>
+
+  <!-- LIVE node -->
+  <rect x="688" y="262" width="200" height="84" rx="6" fill="#ffffff" stroke="#35674a" stroke-width="2"/>
+  <rect x="688" y="262" width="6" height="84" rx="3" fill="#35674a"/>
+  <circle cx="866" cy="284" r="6" fill="#35674a"/>
+  <text class="ttl" x="708" y="296" font-size="15px" fill="#35674a">LIVE</text>
+  <text class="pub" x="708" y="316" fill="#35674a" font-size="11px">published = 1</text>
+  <text class="sub" x="708" y="333">copied to the public repo by publish.sh</text>
+
+  <text class="cap" x="688" y="380" font-size="11.5px">Reachable only through the gate — and only</text>
+  <text class="cap" x="688" y="398" font-size="11.5px">by a deliberate update, never a side effect</text>
+  <text class="cap" x="688" y="416" font-size="11.5px">of routine editing.</text>
+
+  <!-- ===================== bottom caption ===================== -->
+  <text x="480" y="534" text-anchor="middle" font-family="Georgia,serif" font-size="12.5px" fill="#1b1a18">published flips 0 → 1 only from cleared or redacted — the one crossing the firewall allows.</text>
+  <text x="480" y="551" text-anchor="middle" font-family="Georgia,serif" font-size="11px" fill="#57534c">Enforced at the intake bench when the record is authored; re-checked by the verification pass before publish.</text>
+</svg>
