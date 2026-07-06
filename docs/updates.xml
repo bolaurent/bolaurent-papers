@@ -33,7 +33,7 @@
 <blockquote class="blockquote">
 <p><a href="https://web.archive.org/web/19981212030050/http://www.isna.org/" class="uri">https://web.archive.org/web/19981212030050/http://www.isna.org/</a></p>
 </blockquote>
-<div id="fig-wayback" class="quarto-float quarto-figure quarto-figure-center anchored" target="_blank" alt="Screenshot of the isna.org home page as captured by the Wayback Machine on 12 December 1998">
+<div id="fig-wayback" class="quarto-float quarto-figure quarto-figure-center anchored" alt="Screenshot of the isna.org home page as captured by the Wayback Machine on 12 December 1998" target="_blank">
 <figure class="quarto-float quarto-float-fig figure">
 <div aria-describedby="fig-wayback-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
 <a href="https://web.archive.org/web/19981212030050/http://www.isna.org/" target="_blank"><img src="https://bolaurentpapers.org/archive/isna-org-website/images/website-wayback.png" class="img-fluid figure-img" alt="Screenshot of the isna.org home page as captured by the Wayback Machine on 12 December 1998"></a>
@@ -693,10 +693,28 @@ Fausto-Sterling, Anne. 1993. <span>“The <span>Five Sexes</span>: <span>Why</sp
 <p><strong>Facsimiles.</strong> Each transcription is intended to sit beside a scanned image of the source (see the accompanying PDF). Where a document is available only as the writer’s own later transcription (Randolph’s handwritten reply), this is noted.</p>
 <p><strong>Redactions.</strong> The following are masked: the third-party name on the September fax cover line; Dr.&nbsp;Randolph’s home street address and telephone number wherever they appear — in the transcriptions, the metadata, <strong>and on the scanned image of the final handwritten page</strong>; and the writer’s own historical street addresses, postal codes, telephone/fax numbers, and the local part of the writer’s email address. For the writer’s own details the <strong>city and state/country are retained</strong> (Kamakura, Japan; San Francisco, CA), the <strong>email domain is retained</strong>, and only the finer-grained locators are removed.</p>
 <p><strong>Rights.</strong> The three letters written by Bonnie Sullivan are the author’s own and may be published at will. Randolph’s reply raises a separate question and is flagged accordingly (see <em>Rights &amp; permissions</em>, below). It is transcribed here for editorial use; the decision on public reproduction is held open.</p>
+<div class="letter-timeline">
+<div class="lt-entry">
+<p><span class="lt-date">24 September 1992</span> · <span class="lt-dir">Sullivan → Randolph</span></p>
+<p>Faxed from Kamakura — a survivor writes to the surgeon-author of the technique used on her.</p>
+</div>
+<div class="lt-entry">
+<p><span class="lt-date">5 December 1992</span> · <span class="lt-dir">Sullivan → Randolph</span></p>
+<p>Now in San Francisco, she presses the question underneath it all.</p>
+</div>
+<div class="lt-entry lt-entry--reply">
+<p><span class="lt-date">7 January 1993</span> · <span class="lt-dir">Randolph → Sullivan</span></p>
+<p>He replies by hand, with unusual candor about what the operation removed.</p>
+</div>
+<div class="lt-entry">
+<p><span class="lt-date">31 January 1993</span> · <span class="lt-dir">Sullivan → Randolph</span></p>
+<p>The turn: from a surgical “repair” toward a support group of women who had the same surgery.</p>
+</div>
+</div>
 <hr>
 </section>
-<section id="bonnie-sullivan-to-judson-randolph-24-september-1992" class="level2">
-<h2 class="anchored" data-anchor-id="bonnie-sullivan-to-judson-randolph-24-september-1992">1. Bonnie Sullivan to Judson Randolph, 24 September 1992</h2>
+<section id="letter-1" class="level2">
+<h2 class="anchored" data-anchor-id="letter-1">1. Bonnie Sullivan to Judson Randolph, 24 September 1992</h2>
 <p><strong>Metadata</strong></p>
 <ul>
 <li><strong>Date:</strong> 24 September 1992</li>
@@ -729,8 +747,8 @@ Fausto-Sterling, Anne. 1993. <span>“The <span>Five Sexes</span>: <span>Why</sp
 <p><strong>Editorial note.</strong> The letter’s method is worth flagging for readers: the writer quotes her own operative note and pathology report, cites Randolph’s 1966 <em>Surgery</em> article by title and his recent <em>Journal of Pediatric Surgery</em> follow-up, and distinguishes “amputation” from “deep removal” — building a clinical case, in the profession’s own vocabulary, toward a single question: whether anyone with removal as extensive as hers retained sexual response.</p>
 <hr>
 </section>
-<section id="bonnie-sullivan-to-judson-randolph-5-december-1992" class="level2">
-<h2 class="anchored" data-anchor-id="bonnie-sullivan-to-judson-randolph-5-december-1992">2. Bonnie Sullivan to Judson Randolph, 5 December 1992</h2>
+<section id="letter-2" class="level2">
+<h2 class="anchored" data-anchor-id="letter-2">2. Bonnie Sullivan to Judson Randolph, 5 December 1992</h2>
 <p><strong>Metadata</strong></p>
 <ul>
 <li><strong>Date:</strong> 5 December 1992</li>
@@ -757,8 +775,8 @@ Fausto-Sterling, Anne. 1993. <span>“The <span>Five Sexes</span>: <span>Why</sp
 </blockquote>
 <hr>
 </section>
-<section id="judson-randolph-to-bonnie-sullivan-7-january-1993" class="level2">
-<h2 class="anchored" data-anchor-id="judson-randolph-to-bonnie-sullivan-7-january-1993">3. Judson Randolph to Bonnie Sullivan, 7 January 1993</h2>
+<section id="letter-3" class="level2">
+<h2 class="anchored" data-anchor-id="letter-3">3. Judson Randolph to Bonnie Sullivan, 7 January 1993</h2>
 <p><strong>Metadata</strong></p>
 <ul>
 <li><strong>Date:</strong> 7 January 1993 (dated “1-7-93”)</li>
@@ -820,8 +838,8 @@ Figure&nbsp;3: Randolph’s reply of 7 January 1993, handwritten page 3. The pri
 <p>Randolph dates the extirpation paper to “Surgery 1964”; writing nearly thirty years later, he appears to be misremembering the year. No 1964 <em>Surgery</em> paper by these authors on the subject has been located; the article he describes is almost certainly Gross, Randolph &amp; Crigler, “Clitorectomy for Sexual Abnormalities: Indications and Technique,” <em>Surgery</em> 59 (1966): 300–308 — the same paper the writer cites, correctly, in her opening letter (item 1). It is worth noting for readers that this article, and Randolph’s later clitoroplasty papers, describe patients in the surgeons’ own words as “deformed,” “unsightly,” “embarrassing,” and “offensive”; his candor in this private letter stands against that published vocabulary. The contrast runs deeper than tone: in this letter Randolph names the loss of sexual function directly, whereas his published record has no place for it — his 1981 long-term study enters a patient’s refusal of further surgery only as a “disfiguring” cosmetic failure, her own reasons unasked. That article is taken up in the editor’s note below.</p>
 <hr>
 </section>
-<section id="bonnie-sullivan-to-judson-randolph-31-january-1993" class="level2">
-<h2 class="anchored" data-anchor-id="bonnie-sullivan-to-judson-randolph-31-january-1993">4. Bonnie Sullivan to Judson Randolph, 31 January 1993</h2>
+<section id="letter-4" class="level2">
+<h2 class="anchored" data-anchor-id="letter-4">4. Bonnie Sullivan to Judson Randolph, 31 January 1993</h2>
 <p><strong>Metadata</strong></p>
 <ul>
 <li><strong>Date:</strong> 31 January 1993</li>

@@ -32,9 +32,32 @@ Read together, the four documents trace an arc: a survivor approaches the surgeo
 
 **Rights.** The three letters written by Bonnie Sullivan are the author's own and may be published at will. Randolph's reply raises a separate question and is flagged accordingly (see *Rights & permissions*, below). It is transcribed here for editorial use; the decision on public reproduction is held open.
 
+::: {.column-margin .letter-timeline}
+::: {.lt-entry}
+[24 September 1992]{.lt-date} · [Sullivan → Randolph]{.lt-dir}
+
+[Faxed from Kamakura — a survivor writes to the surgeon-author of the technique used on her.](#letter-1){.lt-gloss}
+:::
+::: {.lt-entry}
+[5 December 1992]{.lt-date} · [Sullivan → Randolph]{.lt-dir}
+
+[Now in San Francisco, she presses the question underneath it all.](#letter-2){.lt-gloss}
+:::
+::: {.lt-entry .lt-entry--reply}
+[7 January 1993]{.lt-date} · [Randolph → Sullivan]{.lt-dir}
+
+[He replies by hand, with unusual candor about what the operation removed.](#letter-3){.lt-gloss}
+:::
+::: {.lt-entry}
+[31 January 1993]{.lt-date} · [Sullivan → Randolph]{.lt-dir}
+
+[The turn: from a surgical "repair" toward a support group of women who had the same surgery.](#letter-4){.lt-gloss}
+:::
+:::
+
 ---
 
-## 1. Bonnie Sullivan to Judson Randolph, 24 September 1992
+## 1. Bonnie Sullivan to Judson Randolph, 24 September 1992 {#letter-1}
 
 **Metadata**
 
@@ -92,7 +115,7 @@ Read together, the four documents trace an arc: a survivor approaches the surgeo
 
 ---
 
-## 2. Bonnie Sullivan to Judson Randolph, 5 December 1992
+## 2. Bonnie Sullivan to Judson Randolph, 5 December 1992 {#letter-2}
 
 **Metadata**
 
@@ -136,7 +159,7 @@ Read together, the four documents trace an arc: a survivor approaches the surgeo
 
 ---
 
-## 3. Judson Randolph to Bonnie Sullivan, 7 January 1993
+## 3. Judson Randolph to Bonnie Sullivan, 7 January 1993 {#letter-3}
 
 **Metadata**
 
@@ -190,7 +213,7 @@ Randolph dates the extirpation paper to "Surgery 1964"; writing nearly thirty ye
 
 ---
 
-## 4. Bonnie Sullivan to Judson Randolph, 31 January 1993
+## 4. Bonnie Sullivan to Judson Randolph, 31 January 1993 {#letter-4}
 
 **Metadata**
 

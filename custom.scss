@@ -14,3 +14,42 @@
 .listing-date-added {
   white-space: nowrap;
 }
+
+
+.letter-timeline {
+  border-left: 2px solid #dcd9d0;
+  margin: 0 0 1.5rem;
+
+  .lt-entry {
+    position: relative;
+    padding: 0 0 1rem 1.1rem;
+    &::before {
+      content: "";
+      position: absolute;
+      left: -6px; top: .35rem;
+      width: 10px; height: 10px;
+      border-radius: 50%;
+      background: #f7f6f2;
+      border: 2px solid #57534c;
+    }
+    p { margin: 0 0 .15rem; }
+  }
+
+  .lt-date {
+    font-family: var(--bs-font-monospace, ui-monospace, Menlo, monospace);
+    font-size: .72rem; color: #57534c; letter-spacing: .03em;
+  }
+  .lt-dir  { font-size: .74rem; color: #57534c; }
+  .lt-gloss {
+    font-family: Georgia, "Iowan Old Style", serif;
+    font-size: .85rem; line-height: 1.4; color: #1b1a18;
+    text-decoration: none;
+    &:hover { text-decoration: underline; }
+  }
+
+  .lt-entry--reply {
+    &::before { background: #7a2e2e; border-color: #7a2e2e; }
+    .lt-date, .lt-dir { color: #7a2e2e; }
+    .lt-dir { font-weight: 600; }
+  }
+}
