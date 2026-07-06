@@ -19,7 +19,7 @@ description: >
 ## Editor's note
 
 In the March/April 1993 issue of *The Sciences*, the biologist Anne
-Fausto-Sterling published "The Five Sexes," arguing that the two-sex model
+Fausto-Sterling published "The Five Sexes" [-@faustosterling1993], arguing that the two-sex model
 could not hold the full range of human bodies. In the July/August issue, among
 the letters it drew, was this one. Writing as Cheryl Chase, its author spoke as
 an intersex adult about what "corrective" infant surgery had cost, and invited
@@ -89,5 +89,9 @@ printed original; the magazine set the headline in full capitals.
 <!-- Published. review_status='cleared', published=1 (see go-live-letter-sciences-1993.sql).
      Cleared as the author's own already-public words; full text, no redaction. -->
 
+## References
+
+::: {#refs}
+:::
 
 {{< include _rights.qmd >}}

@@ -18,19 +18,17 @@ image-alt: "First page of the 1993 letter to Suzanne Kessler, with handwritten m
 ## Headnote
 
 
-::: {.content-hidden}
 > "In re-reading the letter it's so clear that in 1993 you knew so much and I knew
 > so little. I spent the next decade playing catch up. Receiving the letter was the
 > giant impetus and I remember how excited I was to read what you sent."
 >
 > — Suzanne Kessler, on receiving this letter, 2026
-:::
 
 I wrote this letter to **Suzanne Kessler** on 29 January 1993, just after we had
 spoken by phone. Kessler was then a psychologist at SUNY Purchase; her 1990
-article "The Medical Construction of Gender" made her one of the few scholars taking the medical management
+article "The Medical Construction of Gender" [-@kessler1990] made her one of the few scholars taking the medical management
 of intersex people seriously — which is why I sought her out. She would 
-go on to publish  *Lessons from the Intersexed* in 1998.
+go on to publish  *Lessons from the Intersexed* [-@kessler1998] in 1998.
 Our call had left
 me stung: she had not accepted, or was not yet ready to accept, the claim at
 the center of everything I was arguing — that the surgery done to intersex
@@ -438,7 +436,7 @@ uncertain from the scan and need a second look against the original.
 - **Source file:** `sources/letters/kessler/kessler-1993-01-29.pdf`
 - **SHA-256:** `08d4763932574d141b1cf4bfed3f6177e1b8c5f41a834946591e216c48fc0606`
 - **Held at:**  Suzanne Kessler papers in the Labadie Collection at the University of Michigan
-- **Consent:** Suzanne Kessler, 1 July 2026 — publish with her notes. `sources/letters/kessler/consent-kessler-2026-07-01.eml`
+- **Consent:** Suzanne Kessler, 1 July 2026 — publish with her notes. `sources/letters/kessler/consent-kessler-2026-07-01.eml` and `sources/letters/kessler/consent-kessler-2026-07-05.eml`
 - **Related item:** born-digital source of this letter is item `correspondence-kessler-1993-1994` (Word-for-Mac file, letter 1 of 9)
 
 **Provenance note.** This is the canonical scan Kessler saw and approved. A single
@@ -459,6 +457,9 @@ that appears in the scan. The mailed scan thus appears to be the later revision 
 digital master was redacted afterward) — confirm the direction before treating either
 as canonical.
 
+## Works cited in this edition
 
+::: {#refs}
+:::
 
 {{< include _rights.qmd >}}
