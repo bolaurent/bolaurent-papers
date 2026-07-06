@@ -3,6 +3,8 @@ project:
   output-dir: docs
   resources:
     - CNAME
+    - robots.txt
+    - BingSiteAuth.xml
 
 date-format: "YYYY-MM-DD"        # ← global default for all dates
 
