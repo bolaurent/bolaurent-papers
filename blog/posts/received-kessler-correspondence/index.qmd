@@ -3,6 +3,7 @@ title: "Correspondence from the Suzanne Kessler Collection"
 description: "A folder of my early correspondence, kept in someone else's archive, comes back to me as scans."
 author: "Bo Laurent"
 date: 2026-07-04
+date-added: 2026-07-04
 categories: [correspondence]
 image: folder-adjusted.png
 ---

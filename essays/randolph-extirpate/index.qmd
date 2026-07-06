@@ -1,0 +1,9 @@
+---
+title: "\"Extirpate\": Randolph and the language of clitoral removal"
+date: 2026-07-06
+categories: [surgical history, terminology]
+description: "Randolph's word choice across his co-authored papers and what it reveals about intent toward clitoral tissue."
+---
+
+<!-- Draft. Link archive items by root-relative .qmd source for build-time validation, e.g.:
+     [the 1992–1993 correspondence](/archive/correspondence-randolph-1992-1993/index.qmd) -->

@@ -1,15 +1,18 @@
 ---
 title: "Recent additions"
-subtitle: "New and recently published items, most recent first"
+subtitle: "New and recent additions, most recent first"
 description: >
-  What has been added to the archive, ordered by the date each item was
+  What has been added to the site, ordered by the date each item was
   published here. Returning researchers can scan this page to see what is
   new since their last visit.
 listing:
   id: additions
   # Path assumption: this file sits at the site root and item bundles live at
   # archive/<id>/index.qmd. If updates.qmd lives elsewhere, adjust this glob.
-  contents: "archive/*/index.qmd"
+  contents:
+    - "archive/*/index.qmd"
+    - "essays/*/index.qmd"
+    - "blog/posts/*/index.qmd"
   type: table
   sort: "date-added desc"          # accession order — newest publication first
   sort-ui: [date-added, date, title]
@@ -27,7 +30,7 @@ listing:
 toc: false
 ---
 
-Items appear here in the order they were **added to the archive** — newest first —
+Items appear here in the order they were **added** — newest first —
 which is not the same as the date of the document itself. A document written in
 1994 may have been published here only recently. If you have visited before, scan
 the **Added** column for anything new since.

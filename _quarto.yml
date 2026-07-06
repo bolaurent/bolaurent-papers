@@ -4,7 +4,6 @@ project:
   resources:
     - CNAME
     - robots.txt
-    - BingSiteAuth.xml
 
 date-format: "YYYY-MM-DD"        # ← global default for all dates
 
@@ -30,6 +29,8 @@ website:
             text: About the collection
           - href: colophon.qmd
             text: Colophon
+      - href: essays/index.qmd
+        text: Essays
       - href: blog/index.qmd
         text: Notes
     right:
