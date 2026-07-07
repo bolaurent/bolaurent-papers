@@ -643,7 +643,7 @@ Figure&nbsp;2: Erotic woodblock print, Japan, 19th century — celebrated in the
 
 <section id="editors-note" class="level2">
 <h2 class="anchored" data-anchor-id="editors-note">Editor’s note</h2>
-<p>In the March/April 1993 issue of <em>The Sciences</em>, the biologist Anne Fausto-Sterling published “The Five Sexes,” arguing that the two-sex model could not hold the full range of human bodies. In the July/August issue, among the letters it drew, was this one. Writing as Cheryl Chase, its author spoke as an intersex adult about what “corrective” infant surgery had cost, and invited others to find one another.</p>
+<p>In the March/April 1993 issue of <em>The Sciences</em>, the biologist Anne Fausto-Sterling published “The Five Sexes” <span class="citation" data-cites="faustosterling1993">(1993)</span>, arguing that the two-sex model could not hold the full range of human bodies. In the July/August issue, among the letters it drew, was this one. Writing as Cheryl Chase, its author spoke as an intersex adult about what “corrective” infant surgery had cost, and invited others to find one another.</p>
 <p>The closing paragraph carried a return address — a San Francisco post-office box for the newly formed Intersex Society of North America. Historians of the movement treat that invitation as ISNA’s founding act: an organization brought into being in print, asking intersex people and their families to write in and be counted. Chase (later Bo Laurent) led ISNA until it closed in 2008; its work continues through interACT: Advocates for Intersex Youth.</p>
 </section>
 <section id="transcription" class="level2">
@@ -717,6 +717,23 @@ Figure&nbsp;2: Erotic woodblock print, Japan, 19th century — celebrated in the
 <!-- Published. review_status='cleared', published=1 (see go-live-letter-sciences-1993.sql).
      Cleared as the author's own already-public words; full text, no redaction. -->
 </section>
+<section id="references" class="level2">
+<h2 class="anchored" data-anchor-id="references">References</h2>
+<div id="refs" class="references csl-bib-body hanging-indent">
+<div id="ref-faustosterling1993" class="csl-entry">
+Fausto-Sterling, Anne. 1993. <span>“The <span>Five Sexes</span>: <span>Why</span> Male and Female Are Not Enough.”</span> <em>The Sciences</em> 33 (2): 20–24.
+</div>
+</div>
+<div class="rights-block">
+<p><strong>Rights &amp; provenance</strong></p>
+<ul>
+<li><a href="https://rightsstatements.org/vocab/InC/1.0/">In Copyright</a> — © Bo Laurent (as Cheryl Chase). Author holds rights.</li>
+<li>Editorial status: Published as transcribed.</li>
+</ul>
+</div>
+
+
+</section>
 
  ]]></description>
   <category>Letter to the editor</category>
@@ -787,7 +804,7 @@ Figure&nbsp;2: Erotic woodblock print, Japan, 19th century — celebrated in the
 <blockquote class="blockquote">
 <p>24 September 1992</p>
 <p>Dr.&nbsp;Judson Randolph Department of Surgery Children’s National Medical Center 111 Michigan Ave NW Washington DC 20010 USA Tel: 202-745-5000 Fax: 202-939-4492</p>
-<p>Bonnie Sullivan [street address redacted] Kamakura, Japan [telephone redacted] [fax redacted] Internet email: [redacted]@amit.edu</p>
+<p>Bonnie Sullivan [street address redacted] Kamakura, Japan [telephone redacted] [fax redacted] Internet email: [redacted]@mit.edu</p>
 <p>Dear Dr.&nbsp;Randolph,</p>
 <p>Your name is familiar to me from your papers on clitoral reconstruction and older ones on clitorectomy. I am writing to ask you for some information about clitorectomy, which is of very personal interest to me, as I will describe below. In exchange, I can offer to share any aspects of my personal experience that may be of interest.</p>
 <p>I was born in 1956 with an enlarged clitoris and bilateral ovo-testes. Everything else was female normal, I chromatin test positive, and my karyotype is 46,XX. However, I was raised as a boy until age 18 months, at which time I was diagnosed as a true hermaphrodite, my clitoris was removed as far as the division of the corpora, and my parents were told to rename me and raise me as a girl. At age 8, the testicular part of my gonads was removed, and sufficient ovarian tissue remained to allow me to experience natural feminizing puberty without exogenous hormones. My emotional development was considerably more hazardous. I discovered these facts at age 22, after no small battle with hospital bureaucracy and with obstructive physicians. By the way, I was not seen or operated on by you or your colleagues.</p>
@@ -1109,35 +1126,15 @@ Figure&nbsp;4: Surgical figures from Randolph, Hung &amp; Rathlev (1981), Figs. 
 
 <section id="headnote" class="level2">
 <h2 class="anchored" data-anchor-id="headnote">Headnote</h2>
-<!-- EPIGRAPH — Kessler's own words, from her 1 July 2026 email granting permission.
-     GATED: publish this block only once Kessler okays quoting her *email* publicly.
-     Her letter-permission covers the scanned document + notes, not necessarily her
-     email prose. See sources/letters/kessler/consent-kessler-2026-07-01.md.
-     Remove this comment and the ::: wrapper's `.content-hidden` when cleared. -->
-<div class="content-hidden callout callout-style-default callout-note callout-titled">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-Note
-</div>
-</div>
-<div class="callout-body-container callout-body">
 <blockquote class="blockquote">
 <p>“In re-reading the letter it’s so clear that in 1993 you knew so much and I knew so little. I spent the next decade playing catch up. Receiving the letter was the giant impetus and I remember how excited I was to read what you sent.”</p>
 <p>— Suzanne Kessler, on receiving this letter, 2026</p>
 </blockquote>
-</div>
-</div>
-<!-- DRAFT headnote — your editorial voice. Every hard fact is bracketed so
-     nothing false ships. Rewrite freely; this is what a reader meets before the
-     document. -->
-<p>I wrote this letter to <strong>Suzanne Kessler</strong> on 29 January 1993, just after we had spoken by phone. [Kessler was then a psychologist at SUNY Purchase; her 1990 article “The Medical Construction of Gender” and, later, her book <em>Lessons from the Intersexed</em> made her one of the few scholars taking the medical management of intersex people seriously — which is why I sought her out.] Our call had left me stung: [she had not accepted, or was not yet ready to accept], the claim at the center of everything I was arguing — that the surgery done to intersex children is done <em>at the expense of sexual sensation</em>, and therefore amounts to mutilation. This letter is my attempt to lay the evidence in front of her.</p>
-<p>It is one of my earliest pieces of movement correspondence, [written in the same stretch of months as the first contacts with journalists and clinicians], before there was an organization with a name to speak for any of us. What it shows is the argument being assembled in real time: my own history at Columbia; the Randolph and Lattimer and Gross literature I had tracked down; the testimony I was collecting from other intersex people, from trans women, from the surgeons themselves. I marshalled all of it toward a single point — that clitoral surgery is not the cosmetic tidying its practitioners describe, but the destruction of erectile tissue and its nerves.</p>
-<p>What makes this particular copy unusual is that Kessler read it with a pen in her hand. Her questions, objections, and cross-references are written in the margins of nearly every page — <em>“Was she resistant or just reserving judgment?”</em>, <em>“How many intersexual are there?”</em>, <em>“Is she arguing for pre-natal influence?”</em> The page is therefore not a monologue but a record of a scholar arguing back. [If you want to describe how the exchange continued, or what came of it, say so here.] I have preserved her marginalia as a second layer below the letter.</p>
+<p>I wrote this letter to <strong>Suzanne Kessler</strong> on 29 January 1993, just after we had spoken by phone. Kessler was then a psychologist at SUNY Purchase; her 1990 article “The Medical Construction of Gender” <span class="citation" data-cites="kessler1990">(1990)</span> made her one of the few scholars taking the medical management of intersex people seriously — which is why I sought her out. She would go on to publish <em>Lessons from the Intersexed</em> <span class="citation" data-cites="kessler1998">(1998)</span> in 1998. Our call had left me stung: she had not accepted, or was not yet ready to accept, the claim at the center of everything I was arguing — that the surgery done to intersex children is done <em>at the expense of sexual sensation</em>, and therefore amounts to mutilation. This letter is my attempt to lay the evidence in front of her.</p>
+<p>It is one of my earliest pieces of movement correspondence, written in the same stretch of months as the first contacts with journalists and clinicians, before there was an organization with a name to speak for any of us. What it shows is the argument being assembled in real time: my own history at Columbia; the Randolph and Lattimer and Gross literature I had tracked down; the testimony I was collecting from other intersex people, from trans women, from the surgeons themselves. I marshalled all of it toward a single point — that clitoral surgery is not the cosmetic tidying its practitioners describe, but the destruction of erectile tissue and its nerves.</p>
+<p>What makes this particular copy unusual is that Kessler read it with a pen in her hand. Her questions, objections, and cross-references are written in the margins of nearly every page — <em>“Was she resistant or just reserving judgment?”</em>, <em>“How many intersexual are there?”</em>, <em>“Is she arguing for pre-natal influence?”</em> The page is therefore not a monologue but a record of a scholar arguing back. Our correspondence continued in depth, with eight letters in 1993-1994. I have preserved her marginalia as a second layer below the letter.</p>
 <div class="callout callout-style-default callout-note callout-titled">
-<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-2-contents" aria-controls="callout-2" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-1-contents" aria-controls="callout-1" aria-expanded="false" aria-label="Toggle callout">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
 </div>
@@ -1146,9 +1143,79 @@ Note
 </div>
 <div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
 </div>
-<div id="callout-2" class="callout-2-contents callout-collapse collapse">
+<div id="callout-1" class="callout-1-contents callout-collapse collapse">
 <div class="callout-body-container callout-body">
-<p>This is a scanned physical letter held [in my own papers / at the Kinsey Institute Library; confirm collection reference]. The transcription preserves original spelling and the author’s non-standard forms (<em>“transexual”</em>, <em>“clitorectomy”</em>); <code>[sic]</code> marks genuine irregularities left intact, and square brackets mark editorial clarifications. The signature surname is blacked out in the source scan and is left redacted here. See the source note at the foot of the page for fixity data and the full list of items the review pass must resolve.</p>
+<p>This is a scanned physical letter held in the Suzanne Kessler papers at the Labadie Collection, University of Michigan. The transcription preserves original spelling and the author’s non-standard forms (<em>“transexual”</em>, <em>“clitorectomy”</em>); <code>[sic]</code> marks genuine irregularities left intact, and square brackets mark editorial clarifications. The signature surname is blacked out in the source scan and is left redacted here. See the source note at the foot of the page for fixity data and the full list of items the review pass must resolve.</p>
+</div>
+</div>
+</div>
+</section>
+<section id="the-annotated-original" class="level2">
+<h2 class="anchored" data-anchor-id="the-annotated-original">The annotated original</h2>
+<p>The letter as Suzanne Kessler read it — seven pages carrying her handwritten responses in the margins. Click any page to open it full size; the complete scan is also available as a <a href="kessler-1993-01-29.pdf">downloadable PDF</a> (7 pp.). A transcription follows below, and Kessler’s annotations are transcribed as a separate layer.</p>
+<div class="quarto-layout-panel" data-layout-ncol="2">
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="images/kessler-p1.jpg"><img src="https://bolaurentpapers.org/archive/letter-kessler/images/kessler-p1.jpg" class="img-fluid figure-img"></a></p>
+<figcaption>Page 1</figcaption>
+</figure>
+</div>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="images/kessler-p2.jpg"><img src="https://bolaurentpapers.org/archive/letter-kessler/images/kessler-p2.jpg" class="img-fluid figure-img"></a></p>
+<figcaption>Page 2</figcaption>
+</figure>
+</div>
+</div>
+</div>
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="images/kessler-p3.jpg"><img src="https://bolaurentpapers.org/archive/letter-kessler/images/kessler-p3.jpg" class="img-fluid figure-img"></a></p>
+<figcaption>Page 3</figcaption>
+</figure>
+</div>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="images/kessler-p4.jpg"><img src="https://bolaurentpapers.org/archive/letter-kessler/images/kessler-p4.jpg" class="img-fluid figure-img"></a></p>
+<figcaption>Page 4</figcaption>
+</figure>
+</div>
+</div>
+</div>
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="images/kessler-p5.jpg"><img src="https://bolaurentpapers.org/archive/letter-kessler/images/kessler-p5.jpg" class="img-fluid figure-img"></a></p>
+<figcaption>Page 5</figcaption>
+</figure>
+</div>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="images/kessler-p6.jpg"><img src="https://bolaurentpapers.org/archive/letter-kessler/images/kessler-p6.jpg" class="img-fluid figure-img"></a></p>
+<figcaption>Page 6</figcaption>
+</figure>
+</div>
+</div>
+</div>
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="images/kessler-p7.jpg"><img src="https://bolaurentpapers.org/archive/letter-kessler/images/kessler-p7.jpg" class="img-fluid figure-img"></a></p>
+<figcaption>Page 7</figcaption>
+</figure>
+</div>
 </div>
 </div>
 </div>
@@ -1257,41 +1324,32 @@ Cheryl [surname redacted in source]</p>
 <li><strong>Medium:</strong> Typed letter, physical original, 7 pp., with the recipient’s handwritten marginalia</li>
 <li><strong>Source file:</strong> <code>sources/letters/kessler/kessler-1993-01-29.pdf</code></li>
 <li><strong>SHA-256:</strong> <code>08d4763932574d141b1cf4bfed3f6177e1b8c5f41a834946591e216c48fc0606</code></li>
-<li><strong>Held at:</strong> [confirm — your papers, or Kinsey Institute Library collection reference]</li>
-<li><strong>Consent:</strong> Suzanne Kessler, 1 July 2026 — publish with her notes. <code>sources/letters/kessler/consent-kessler-2026-07-01.eml</code></li>
+<li><strong>Held at:</strong> Suzanne Kessler papers in the Labadie Collection at the University of Michigan</li>
+<li><strong>Consent:</strong> Suzanne Kessler, 1 July 2026 — publish with her notes. <code>sources/letters/kessler/consent-kessler-2026-07-01.eml</code> and <code>sources/letters/kessler/consent-kessler-2026-07-05.eml</code></li>
 <li><strong>Related item:</strong> born-digital source of this letter is item <code>correspondence-kessler-1993-1994</code> (Word-for-Mac file, letter 1 of 9)</li>
 </ul>
-<p><strong>Provenance note.</strong> This is the canonical scan Kessler saw and approved. A single redaction has been made: a handwritten phone number on page 1 (Bo’s own, long disconnected) was removed. The signature surname is blacked out in the image (a pre-existing feature of the physical copy); the author is identified in full in the headnote and metadata. The upload’s filename carried a stray “1994,” but the letter’s dateline, 29 January 1993, is authoritative and is used throughout; the PDF’s internal title (“Chase to Kessler, 29 Jan 1993”) is correct.</p>
+<p><strong>Provenance note.</strong> This is the canonical scan Kessler saw and approved. A single redaction has been made: a handwritten phone number on page 1 (Bo’s own, long disconnected) was removed. The signature surname is blacked out in the image (a pre-existing feature of the physical copy); the author is identified in full in the headnote and metadata. The upload’s filename carried a stray “1994,” but the letter’s dateline, 29 January 1993, is authoritative and is used throughout; the PDF’s internal title (“Chase to Kessler, 29 Jan 1993”) is correct. The scan was sent to Bo Laurent by Yarden Azoulay Katz via email/Dropbox on May 19, 2025.</p>
 <p><strong>Textual note — born-digital variant.</strong> A born-digital copy of this letter survives in the 1993–1994 correspondence file (<code>correspondence-kessler-1993-1994</code>). It is not identical to this mailed, annotated scan: the digital copy renders Dr.&nbsp;Randolph’s name as “Dr.&nbsp;-” (redacted) where the scan names him, and it omits the sentence about the adrenal-hyperplasia woman’s former lover (“one of the most hurt, damaged people…”) that appears in the scan. The mailed scan thus appears to be the later revision (or the digital master was redacted afterward) — confirm the direction before treating either as canonical.</p>
-<div class="callout callout-style-default callout-important callout-titled">
-<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-3-contents" aria-controls="callout-3" aria-expanded="false" aria-label="Toggle callout">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
+</section>
+<section id="works-cited-in-this-edition" class="level2">
+<h2 class="anchored" data-anchor-id="works-cited-in-this-edition">Works cited in this edition</h2>
+<div id="refs" class="references csl-bib-body hanging-indent">
+<div id="ref-kessler1990" class="csl-entry">
+Kessler, Suzanne J. 1990. <span>“The Medical Construction of Gender: <span>Case</span> Management of Intersexed Infants.”</span> <em>Signs: Journal of Women in Culture and Society</em> 16 (1): 3–26.
 </div>
-<div class="callout-title-container flex-fill">
-<span class="screen-reader-only">Important</span>Review-pass checklist
-</div>
-<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
-</div>
-<div id="callout-3" class="callout-3-contents callout-collapse collapse">
-<div class="callout-body-container callout-body">
-<ol type="1">
-<li><strong>Suzanne Kessler’s marginalia — RESOLVED.</strong> Kessler gave written permission (1 July 2026) to publish the letter with her notes. Consent record archived at <code>sources/letters/kessler/consent-kessler-2026-07-01.eml</code>.</li>
-<li><strong>Canonical scan — RESOLVED.</strong> The published scan is the exact version Kessler saw (one redaction: Bo’s own, long-disconnected phone number removed from page 1). sha256 <code>08d4…0606</code>.</li>
-<li><strong>Okay to quote Kessler’s email praise — OPEN (epigraph held).</strong> The epigraph quotes her permission <em>email</em>. Keep it hidden until she gives a one-line okay to publish that passage publicly (attributed). This is the only element still gated; the letter and annotations are cleared and live.</li>
-<li><strong>Anonymized third parties.</strong> The letter recounts identifiable-in-context medical and sexual histories — the woman with adrenal hyperplasia and her former lover, the friend’s niece and her family, the woman born 1960, the two people who transitioned away from their assignment, the hypospadic man, unnamed trans women. Confirm none is re-identifiable and that you are comfortable publishing each.</li>
-<li><strong>Named clinicians.</strong> Randolph, Money, Lattimer, and the Columbia endocrinologist are named or near-named. Confirm this is intended (these are largely public/published figures, but the endocrinologist is described, not cited).</li>
-<li><strong>Redacted surname.</strong> The signature surname is blacked out in the scan; the born-digital copy shows it in full as “Cheryl Chase.” Decide whether the published record restores “Cheryl Chase” per your standing convention or preserves the redaction.</li>
-<li><strong>Uncertain marginalia readings</strong> marked <code>[?]</code> above — verify against the original.</li>
-</ol>
+<div id="ref-kessler1998" class="csl-entry">
+Kessler, Suzanne J. 1998. <em>Lessons from the <span>Intersexed</span></em>. Rutgers University Press.
 </div>
 </div>
+<div class="rights-block">
+<p><strong>Rights &amp; provenance</strong></p>
+<ul>
+<li><a href="https://rightsstatements.org/vocab/InC/1.0/">In Copyright</a> — Letter © Bo Laurent (as Cheryl Chase); marginalia © Suzanne Kessler, published with her consent (on file).</li>
+<li>Editorial status: Published as transcribed.</li>
+</ul>
 </div>
-<!-- STATUS (keep in sync with catalog-update-letter-kessler.sql):
-     published = 1 ; review_status = 'cleared'
-     LIVE. Canonical scan in place; consent recorded. The only element still held back
-     is the epigraph quoting Kessler's email praise (hidden via .content-hidden) —
-     un-hide it once she okays quoting that email passage. -->
+
+
 </section>
 
 
