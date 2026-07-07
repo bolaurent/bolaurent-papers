@@ -213,7 +213,7 @@ Read together, the four documents trace an arc: a survivor approaches the surgeo
 
 Randolph dates the extirpation paper to "Surgery 1964"; writing nearly thirty years later, he appears to be misremembering the year. No 1964 *Surgery* paper by these authors on the subject has been located; the article he describes is almost certainly Gross, Randolph & Crigler, "Clitorectomy for Sexual Abnormalities: Indications and Technique," *Surgery* 59 (1966): 300–308 — the same paper the writer cites, correctly, in her opening letter (item 1). It is worth noting for readers that this article, and Randolph's later clitoroplasty papers, describe patients in the surgeons' own words as "deformed," "unsightly," "embarrassing," and "offensive"; his candor in this private letter stands against that published vocabulary. The contrast runs deeper than tone: in this letter Randolph names the loss of sexual function directly, whereas his published record has no place for it — his 1981 long-term study enters a patient's refusal of further surgery only as a "disfiguring" cosmetic failure, her own reasons unasked. That article is taken up in the editor's note below.
 
-The technique was published as a plate of operative photographs. It appears here as Figure 1, redacted, with the surgeons' own caption left intact:
+The technique was published as a plate of operative photographs. It appears here as Figure 3, redacted, with the surgeons' own caption left intact:
 
 <figure class="redact">
   <svg class="redact__plate" viewBox="0 0 600 720" role="img" aria-labelledby="redact-t redact-d" xmlns="http://www.w3.org/2000/svg">
@@ -262,7 +262,7 @@ The technique was published as a plate of operative photographs. It appears here
   </svg>
 
   <figcaption class="redact__cap">
-    <span class="redact__fig">Figure 1</span>
+    <span class="redact__fig">Figure 3</span>
     <span class="redact__quote">"Fig. 7. D: Specimen clearly demonstrates the large amount of clitoral tissue which lies beneath the skin and must be removed."</span>
     <span class="redact__src">Gross, Randolph &amp; Crigler, &ldquo;Clitorectomy for sexual abnormalities: indications and technique,&rdquo; Surgery 59 (1966), Fig.&nbsp;7, p.306.</span>
     <span class="redact__note">The original reproduces four operative photographs during clitorectomy, redacted here by the editor. They are disturbing; consult R1 to view the source.</span>
