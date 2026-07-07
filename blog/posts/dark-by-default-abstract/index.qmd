@@ -6,6 +6,7 @@ description: >
   behind the Bo Laurent Papers.
 author: "Bo Laurent"
 date: 2026-07-05
+date-added: 2026-07-05
 categories: [paper]
 image: consent-firewall.png
 ---

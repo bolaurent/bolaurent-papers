@@ -3,7 +3,9 @@
     "listing": "/updates.html",
     "items": [
       "/archive/correspondence-randolph-1992-1993/index.html",
+      "/blog/posts/dark-by-default-abstract/index.html",
       "/archive/isna-org-website/index.html",
+      "/blog/posts/received-kessler-correspondence/index.html",
       "/archive/letter-angier/index.html",
       "/archive/letter-kessler/index.html",
       "/archive/letter-sciences-1993/index.html",
@@ -15,6 +17,12 @@
     "items": [
       "/blog/posts/dark-by-default-abstract/index.html",
       "/blog/posts/received-kessler-correspondence/index.html"
+    ]
+  },
+  {
+    "listing": "/essays/index.html",
+    "items": [
+      "/essays/randolph-extirpate/index.html"
     ]
   },
   {

@@ -1,9 +1,67 @@
 ---
 title: "\"Extirpate\": Randolph and the language of clitoral removal"
+draft: true
+author: "Bo Laurent"
 date: 2026-07-06
+date-added: 2026-07-06
 categories: [surgical history, terminology]
 description: "Randolph's word choice across his co-authored papers and what it reveals about intent toward clitoral tissue."
+nocite: |
+  @gross1966, @brysbaert2019
 ---
+
+
+*A reading. This is the interpretive layer of the archive — a close reading of a single word in the 1966 document, anchored in the text, the etymology, and two datasets. It argues nothing about anyone's motives; it only asks the reader to see what is already on the page.*
+
+# On the word "extirpation"
+
+Most readers slide past it. In the 1966 paper — Gross, Randolph, and Crigler, "Clitorectomy for Sexual Abnormalities," *Surgery* 59(2):300–308 — the authors describe removing the clitoris of infants and children, and at the moments of greatest emphasis they use a word rarely encountered. When I first read this article, I had to look it up. Not *removal*. Not *excision*. They write of "clitoral extirpation," and they conclude that "complete extirpation of all the erectile tissue is essential." This essay is about that word, because the word is doing work most readers never notice it doing.
+
+## What the word means
+
+*Extirpate* comes from the Latin *ex-* ("out") and *stirps* — the stem or root of a tree, and, by extension, a stock or lineage. Its earliest English senses, from the 1530s, are horticultural: to uproot, to clear ground of stumps. From there it broadens to "destroy completely." The buried metaphor is total: you do not merely remove a thing, you take it out by the roots so that it cannot grow back — and, because *stirps* also means a family line, so that it cannot propagate. This is why the word's natural companions are extinctions and eradications. In ecology, the local extinction of a species is called extirpation. In older usage the word is applied to heresies, rebellions, and pests — things one wishes gone from the world, root and stock.
+
+That is the register the authors imported when they chose it. Whether by deliberate selection or inherited surgical habit, "extirpation" carries a charge that "removal" does not: it frames its object as something to be eradicated.
+
+## The word has a long surgical pedigree
+
+This was not a 1966 coinage. The seventh-century Byzantine physician Paul of Aegina, compiling earlier surgical knowledge, has a section whose title translates as "On Extirpation of the Nympha" — his term for cutting away an enlarged clitoris. The vocabulary of rooting-out has attended the surgical treatment of the clitoris for well over a thousand years. Recognizing this does not soften the word; it deepens it. The 1966 authors were writing inside a tradition in which the clitoris had already, and for centuries, been positioned as a thing to be extirpated.
+
+## The register split, in their own text
+
+Read the paper closely and a pattern appears. For the ordinary, unmarked case, the authors use *excision*: surgeons had been "reluctant to advocate excision of even the most grotesquely enlarged clitoris"; "excision of a hypertrophied clitoris is to be preferred." But at the two moments where the point is *totality* — where nothing must be left — the word shifts to *extirpation*. The choice is not random variation. The rarer, heavier word appears exactly where the meaning is "leave nothing behind."
+
+## The data: how rare, how unknown
+
+Two independent measures confirm what a reader senses.
+
+Frequency. In Google's Books Ngram corpus, *extirpation* and *extirpate* hug the floor across two centuries of printed English, running roughly one to two orders of magnitude below the ordinary word *removal*. In the everyday-language SUBTLEX corpus the word sits at a Zipf score of about 1.3 — essentially the rarity floor, a word that barely occurs in spoken English at all. (A note of method: the curve does not show a nineteenth-century peak so much as a low, flat presence that dwindles across the twentieth century, while the neutral surgical term *excision* rises and overtakes it.)
+
+Knowledge. Frequency in print is not the same as knowledge in people, and the second measure is more striking. In the word-prevalence norms of Brysbaert and colleagues (2019), built from an online vocabulary study of more than 220,000 participants, *extirpation* is recognized by about 39 percent of respondents, and *extirpate* by about 46 percent — and that sample skews toward the educated and word-interested, so the general figure is lower. Recognizing a word as real, moreover, is a far lower bar than being able to define it; the share who could actually say the word means "to root out entirely" is smaller still.
+
+The comparison is the sharpest part. Every other English word for the same idea is nearly universal: *removal* and *uproot* at 100 percent, *eradicate*, *obliterate*, and *abolish* around 99, *disembowel* at 98, *eviscerate* at 88, *excision* at 85. *Extirpation*, at 39, is the outlier of its own synonym family by forty points. It is not merely rare in print. It is the least-understood member of its own meaning.
+
+## Why it matters
+
+Put the two findings together with the register split and something quiet comes into focus. At precisely the sentences describing the most complete and irreversible act — the removal of all erectile tissue from a child — the paper uses the word its readers are least equipped to understand. The most drastic thing in the document is named in its least legible term. A lay reader, a parent, a patient reading her own record decades later, encounters "extirpation" and, more likely than not, reads past it, or reaches for a dictionary, as many have.
+
+That is the whole point of this reading. A close look at one word is not commentary laid over the artifact; it is an instruction in how to read the artifact. The word was chosen — or inherited — and it names, in a term most people cannot parse, the rooting-out of a part of a child's body. To see the word is to see the document more clearly than a first pass allows.
+
+---
+
+### Sources
+
+Formal citations are drawn from the project bibliography and listed under *Works cited* below; the remaining pointers are given informally, as the reading treats them.
+
+- Etymology of *extirpate* (Latin *ex-* + *stirps*): standard dictionary and etymological references.
+- Paul of Aegina, *Epitome of Medicine*, "On Extirpation of the Nympha" (7th c.); see histories of intersex/clitoral surgery.
+- Google Books Ngram Viewer (frequency of *extirpation*, *extirpate*, *excision*, *removal*).
+
+#### Works cited
+
+::: {#refs}
+:::
+
 
 <!-- Draft. Link archive items by root-relative .qmd source for build-time validation, e.g.:
      [the 1992–1993 correspondence](/archive/correspondence-randolph-1992-1993/index.qmd) -->

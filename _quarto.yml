@@ -39,7 +39,7 @@ website:
   page-footer:
     left: "© Bo Laurent 2026"
     center: "Physical materials held at The [Kinsey Institute Library](https://kinseyinstitute.org/collections)"
-    right: "[No cookies. No tracking of individuals.](privacy.qmd)"
+    right: "[No cookies. No tracking of individuals.](/privacy.qmd)"
 
 bibliography: references.bib
 
