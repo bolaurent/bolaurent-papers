@@ -5,6 +5,13 @@ description: >
   A cataloged collection of documents from the founding of the Intersex Society of
   North America and the modern intersex movement: newsletters, correspondence,
   photographs, artwork, and early digital materials, assembled by founder Bo Laurent.
+open-graph:
+  image: /images/social-card-bo.png
+  image-width: 1200
+  image-height: 630
+twitter-card:
+  card-style: summary_large_image
+  image: /images/social-card-bo.png
 listing:
   id: items
   contents: "archive/*/index.qmd"     # each published item folder (e.g. hwa-01/index.qmd)

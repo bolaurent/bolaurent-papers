@@ -11,13 +11,8 @@ website:
   title: "Bo Laurent Papers"
   site-url: https://bolaurentpapers.org
   favicon: images/favicon.svg
-  open-graph:
-    image: /images/social-card-bo.png
-    image-width: 1200
-    image-height: 630
-  twitter-card:
-    card-style: summary_large_image
-    image: /images/social-card.png
+  open-graph: true
+  twitter-card: true
   navbar:
     pinned: true
     left:
