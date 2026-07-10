@@ -1,0 +1,56 @@
+---
+date-added: 2026-07-10
+title: "American Academy of Pediatrics Position on Intersexuality"
+author: American Academy of Pediatrics
+date: 1996-10-26
+date-note: distributed to the press at the AAP annual meeting during the ISNA picket
+---
+
+On Saturday, 26 October 1996, the Intersex Society of North America picketed the American Academy of Pediatrics' annual meeting at the Hynes in Boston, under the banner "Hermaphrodites with Attitude." The Academy declined to meet the picketers and did not reply to ISNA's letter, but it handed the news release transcribed below to the journalists who had come to cover the demonstration. It is the Academy's public answer to the protest, and a plain statement of the treatment model the picket opposed.
+
+## Transcription
+
+American Academy of Pediatrics\
+141 Northwest Point Blvd\
+Elk Grove Village, IL 60009-0927
+
+*News Release*
+
+**American Academy of Pediatrics Position on Intersexuality**
+
+The American Academy of Pediatrics, a voice for children for over 60 years, is aware of the concerns and sensitive to the needs of intersexuals.
+
+- Intersexuals are individuals who are born with anatomical characteristics of both males and females.
+- The Academy is deeply concerned about the emotional, cognitive, and body image development of intersexuals, and believes that successful early genital surgery minimizes these issues.
+- Research on children with ambiguous genitalia has shown that a person's sexual body image is largely a function of socialization, and children whose genetic sexes are not clearly reflected in external genitalia can be raised successfully as members of either sexes if the process begins before 2 1/2 years.
+- Management and understanding of intersex conditions has significantly improved, particularly over the last several decades.
+- From the viewpoint of emotional development, 6 weeks to 15 months seems the optimal period for genital surgery.
+
+The American Academy of Pediatrics is an organization of 51,000 pediatricians dedicated to the health, safety and well-being of infants, children and young adults.
+
+## Textual notes
+
+The text here is the Academy's. It survives through a Microsoft Word file prepared for redistribution in April 1997 by Riki Anne Wilchins; that file added a bracketed headnote and set two passages in bold ("emotional, cognitive, and body image" and "6 weeks to 15 months seems the optimal"). Both are the distributor's additions, not the Academy's, and are omitted so the release reads as issued. The distributed file reads "extemal genitalia"; corrected to "external."
+
+The Academy did not publish this release through its own channels; it was handed to reporters at the convention. The wording above agrees verbatim with the copies preserved by the [Intersex Society of North America](https://isna.org/books/chrysalis/aap/) and the [Intersex Day project](https://intersexday.org/en/aap-position-1996/). The Academy's own later, formally published statements on intersex are separate documents: the 2006 *Consensus Statement on Management of Intersex Disorders* and the 2017 *Bringing Back the Term Intersex*.
+
+## Further reading
+
+ISNA's side of the same event — the cover letter to Dr. Robert Kay and the statement handed out at the picket — is transcribed in [Letter to Dr. Robert Kay, with "Why We Are Picketing the AAP"](/archive/letter-kay-1996/). The debate the picket opened was then followed in the surgical trade press; see [Press coverage in *Urology Times*, 1997–1998](/archive/scheck-urology-times-1997-1998/).
+
+## Source
+
+An access copy: a born-digital Word document (1997 redistribution copy) held in the private archive. See the source sidecar for fixity, provenance, and the three-witness corroboration of the text.
+
+## Citation
+
+| Field | Value |
+|---|---|
+| Item | `aap-statement-1996` |
+| Subject | American Academy of Pediatrics Position on Intersexuality |
+| Date | 1996-10-26 |
+| From | American Academy of Pediatrics |
+| To | Press (distributed at the 1996 AAP annual meeting) |
+| Rights | Press release issued by the American Academy of Pediatrics and distributed publicly at its 1996 annual meeting; archive copy is a 1997 redistribution file with the distributor's emphasis removed. |
+| Status | cleared; published |
+| Source | `sources/documents/aap-statement-1996/AAP_Position_on_Intersexuality_1996.doc` |
